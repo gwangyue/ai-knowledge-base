@@ -3,8 +3,8 @@
 JSON 格式校验脚本 — 检查知识库文章是否符合标准格式。
 
 用法：
-    python hooks/validate_json.py knowledge/articles/github-20260317-001.json
-    python hooks/validate_json.py knowledge/articles/*.json
+    python3 hooks/validate_json.py knowledge/articles/github-20260317-001.json
+    python3 hooks/validate_json.py knowledge/articles/*.json
 
 退出码：
     0 — 全部通过
@@ -147,8 +147,8 @@ def validate_article(data: dict[str, Any]) -> list[str]:
 
 def main() -> int:
     if len(sys.argv) < 2:
-        print("用法: python hooks/validate_json.py <json_file> [json_file2 ...]")
-        print("示例: python hooks/validate_json.py knowledge/articles/*.json")
+        print("用法: python3 hooks/validate_json.py <json_file> [json_file2 ...]")
+        print("示例: python3 hooks/validate_json.py knowledge/articles/*.json")
         return 1
 
     files = sys.argv[1:]

@@ -12,8 +12,8 @@
 等级：A (>=80) / B (>=60) / C (<60)
 
 用法：
-    python hooks/check_quality.py knowledge/articles/github-20260317-001.json
-    python hooks/check_quality.py knowledge/articles/*.json
+    python3 hooks/check_quality.py knowledge/articles/github-20260317-001.json
+    python3 hooks/check_quality.py knowledge/articles/*.json
 
 退出码：
     0 — 全部 B 级以上
@@ -304,11 +304,20 @@ def print_report(report: QualityReport) -> None:
 
 def main() -> int:
     if len(sys.argv) < 2:
-        print("用法: python hooks/check_quality.py <json_file> [json_file2 ...]")
-        print("示例: python hooks/check_quality.py knowledge/articles/*.json")
+        print("用法: python3 hooks/check_quality.py <json_file> [json_file2 ...]")
+        print("示例: python3 hooks/check_quality.py knowledge/articles/*.json")
         return 1
 
-    files = sys.argv[1:]
+    # 支持传目录或文件：目录自动展开为其中所有 .json 文件
+    raw_args = sys.argv[1:]
+    files: list[str] = []
+    for arg in raw_args:
+        p = Path(arg)
+        if p.is_dir():
+            files.extend(str(f) for f in sorted(p.glob("*.json")))
+        else:
+            files.append(arg)
+
     total_files = 0
     grade_counts = {"A": 0, "B": 0, "C": 0}
     has_c_grade = False

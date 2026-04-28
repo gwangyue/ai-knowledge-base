@@ -3,8 +3,6 @@ name: knowledge-query
 description: 在 AI 知识库中检索技术文章和开源项目，按相关性返回结果
 allowed-tools:
   - Read
-  - Glob
-  - Grep
 ---
 
 # 知识库检索技能

@@ -3,7 +3,6 @@ name: daily-digest
 description: 生成今日 AI 技术简报，汇总当天采集的 Top 5 知识条目，按相关性排序
 allowed-tools:
   - Read
-  - Glob
 ---
 
 # 每日简报技能
