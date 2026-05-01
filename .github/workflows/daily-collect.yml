@@ -65,6 +65,6 @@ jobs:
             echo "No new articles to commit"
           else
             ARTICLE_COUNT=$(git diff --staged --name-only | grep -c '\.json$' || true)
-            git commit -m "chore: daily collection - ${ARTICLE_COUNT} articles [$(date -u +%Y-%m-%d)]"
+            git commit -m "[cron] chore: daily collection - ${ARTICLE_COUNT} articles [$(date -u +%Y-%m-%d)]"
             git push
           fi
