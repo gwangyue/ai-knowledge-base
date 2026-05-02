@@ -67,12 +67,135 @@ PRICING: dict[str, dict[str, float]] = {
 
 
 def estimate_cost(model: str, usage: Usage) -> float:
-    """估算单次调用成本（USD）"""
+    """估算单次调用成本（USD）。
+
+    Args:
+        model: 模型名称，用于查询 PRICING 表。
+        usage: Token 用量统计对象。
+
+    Returns:
+        估算成本，单位 USD。
+    """
     prices = PRICING.get(model, {"input": 0.002, "output": 0.006})
     return (
         usage.prompt_tokens / 1000 * prices["input"]
         + usage.completion_tokens / 1000 * prices["output"]
     )
+
+
+# ── CostTracker ───────────────────────────────────────────────────────────
+
+# 国产模型价格表（元/百万 tokens）
+CNY_PRICING: dict[str, dict[str, float]] = {
+    "deepseek": {"input": 1.0, "output": 2.0},
+    "qwen": {"input": 4.0, "output": 12.0},
+    "openai": {"input": 150.0, "output": 600.0},
+}
+
+
+@dataclass
+class _ProviderStats:
+    """单个提供商的累计统计数据。"""
+
+    prompt_tokens: int = 0
+    completion_tokens: int = 0
+    call_count: int = 0
+
+    @property
+    def total_tokens(self) -> int:
+        """输入与输出 token 之和。"""
+        return self.prompt_tokens + self.completion_tokens
+
+
+class CostTracker:
+    """追踪 LLM 调用的 token 消耗与人民币估算成本。
+
+    Example:
+        tracker = CostTracker()
+        tracker.record(usage, "deepseek")
+        tracker.report()
+    """
+
+    def __init__(self) -> None:
+        self._stats: dict[str, _ProviderStats] = {}
+
+    def record(self, usage: Usage, provider: str) -> None:
+        """记录一次 API 调用的 token 消耗。
+
+        Args:
+            usage: 本次调用的 Token 用量统计对象。
+            provider: 提供商名称（deepseek / qwen / openai）。
+        """
+        key = provider.lower()
+        if key not in self._stats:
+            self._stats[key] = _ProviderStats()
+        stats = self._stats[key]
+        stats.prompt_tokens += usage.prompt_tokens
+        stats.completion_tokens += usage.completion_tokens
+        stats.call_count += 1
+
+    def estimated_cost(self, provider: str) -> float:
+        """返回指定提供商的累计估算成本（元）。
+
+        Args:
+            provider: 提供商名称（deepseek / qwen / openai）。
+
+        Returns:
+            累计估算成本，单位人民币元。若该提供商无记录则返回 0.0。
+        """
+        key = provider.lower()
+        stats = self._stats.get(key)
+        if stats is None:
+            return 0.0
+        prices = CNY_PRICING.get(key, {"input": 4.0, "output": 12.0})
+        return (
+            stats.prompt_tokens / 1_000_000 * prices["input"]
+            + stats.completion_tokens / 1_000_000 * prices["output"]
+        )
+
+    def report(self, provider: str | None = None) -> None:
+        """打印成本报告。
+
+        Args:
+            provider: 提供商名称；若为 None 则打印所有已记录提供商的汇总报告。
+        """
+        targets = (
+            [provider.lower()]
+            if provider is not None
+            else sorted(self._stats.keys())
+        )
+
+        if not targets or all(t not in self._stats for t in targets):
+            print("【CostTracker】暂无调用记录。")
+            return
+
+        print("=" * 52)
+        print("  CostTracker 成本报告")
+        print("=" * 52)
+
+        total_cost = 0.0
+        for key in targets:
+            stats = self._stats.get(key)
+            if stats is None:
+                continue
+            cost = self.estimated_cost(key)
+            total_cost += cost
+            print(
+                f"  [{key}]  调用 {stats.call_count} 次 | "
+                f"输入 {stats.prompt_tokens:,} tokens | "
+                f"输出 {stats.completion_tokens:,} tokens | "
+                f"估算成本 ¥{cost:.4f}"
+            )
+
+        if len(targets) > 1:
+            print("-" * 52)
+            print(f"  合计估算成本: ¥{total_cost:.4f}")
+
+        print("=" * 52)
+
+
+# 全局 tracker 实例，供 Pipeline 及外部直接引用
+tracker = CostTracker()
 
 
 # ── Provider 抽象基类 ────────────────────────────────────────────────────
@@ -288,10 +411,11 @@ def chat(
         {"role": "user", "content": prompt},
     ]
 
-    provider_name = provider or os.getenv("LLM_PROVIDER", "deepseek")
+    provider_name = (provider or os.getenv("LLM_PROVIDER", "deepseek")).lower()
     llm = create_provider(provider_name)
     try:
         response = chat_with_retry(llm, messages, max_retries=max_retries)
+        tracker.record(response.usage, provider_name)
         result = response.to_dict()
         cost = estimate_cost(llm.model, response.usage)
         logger.info(
@@ -325,3 +449,5 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"\n错误: {e}")
         print("请检查 .env 文件中的 API Key 配置。")
+
+    tracker.report()
