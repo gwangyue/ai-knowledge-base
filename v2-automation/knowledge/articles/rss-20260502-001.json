@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260502-001",
+  "title": "AI uses less water than the public thinks",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-02T08:41:44.679033+00:00",
+  "collected_at": "2026-05-02T08:41:44.679033+00:00",
+  "summary": "该内容探讨了AI技术（特别是大型语言模型）的用水量问题，指出公众普遍高估了AI的用水量。文章通过数据对比，说明AI的用水量远低于其他常见行业，旨在纠正公众对AI环境影响的误解。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-02T08:41:55.297318+00:00"
+}

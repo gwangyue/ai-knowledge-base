@@ -7,7 +7,7 @@ AI 知识库四步流水线：采集 → 分析 → 整理 → 保存
 """
 
 from __future__ import annotations
-
+from model_client import tracker
 import argparse
 import json
 import logging
