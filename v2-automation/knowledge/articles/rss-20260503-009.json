@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260503-009",
+  "title": "How to build scalable web apps with OpenAI&apos;s Privacy Filter",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-05-03T09:21:38.816447+00:00",
+  "collected_at": "2026-05-03T09:21:38.816447+00:00",
+  "summary": "本文介绍了如何利用OpenAI的隐私过滤器构建可扩展的Web应用，重点在于在AI应用中集成隐私保护机制，确保用户数据安全。内容提供了实用的技术指导，帮助开发者在部署AI功能时平衡性能与隐私合规。",
+  "score": 7,
+  "tags": [
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-03T09:23:04.298233+00:00"
+}

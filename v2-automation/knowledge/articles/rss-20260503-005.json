@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260503-005",
+  "title": "AI evals are becoming the new compute bottleneck",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-05-03T09:21:38.816352+00:00",
+  "collected_at": "2026-05-03T09:21:38.816352+00:00",
+  "summary": "本文探讨了AI评估（evals）正成为新的计算瓶颈，指出随着模型能力提升，评估过程对计算资源的需求急剧增加，可能限制AI系统的迭代速度。文章强调了优化评估流程和开发更高效评估方法的重要性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-03T09:23:04.298218+00:00"
+}

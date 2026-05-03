@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260503-007",
+  "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/inference-providers-deepinfra",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-05-03T09:21:38.816436+00:00",
+  "collected_at": "2026-05-03T09:21:38.816436+00:00",
+  "summary": "DeepInfra 作为推理提供商集成到 Hugging Face 平台，为用户提供高性能、低延迟的模型推理服务。该合作简化了模型部署流程，使开发者能够更便捷地使用开源模型进行生产级推理。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-03T09:23:04.298226+00:00"
+}
