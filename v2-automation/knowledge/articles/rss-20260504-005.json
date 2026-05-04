@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260504-005",
+  "title": "AgentReputation: A Decentralized Agentic AI Reputation Framework",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00073",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-04T10:13:11.664968+00:00",
+  "collected_at": "2026-05-04T10:13:11.664968+00:00",
+  "summary": "该论文提出了一种去中心化的AI代理声誉框架，旨在通过分布式信任机制评估和追踪AI代理的行为可靠性。核心价值在于为多代理系统提供可验证的声誉管理，增强代理协作的安全性和可信度。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-04T10:14:29.920271+00:00"
+}

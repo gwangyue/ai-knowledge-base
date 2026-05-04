@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260504-013",
+  "title": "AgentFloor: How Far Up the tool use Ladder Can Small Open-Weight Models Go?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00334",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-04T10:13:11.665012+00:00",
+  "collected_at": "2026-05-04T10:13:11.665012+00:00",
+  "summary": "该论文探讨了小型开源模型在工具使用能力上的进展，通过构建一个分层评估框架（AgentFloor）来量化模型从简单到复杂工具调用的表现。研究发现，尽管小型模型在基础工具使用上表现良好，但在复杂多步骤任务中仍存在显著差距，为开源模型的能力边界提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-04T10:14:29.920297+00:00"
+}
