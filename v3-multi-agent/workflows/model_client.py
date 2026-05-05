@@ -20,8 +20,9 @@ load_dotenv()
 
 def get_client() -> OpenAI:
     """获取 OpenAI 兼容客户端（openai SDK 可连接任何兼容 API，不限于 OpenAI）"""
+    api_key = os.getenv("LLM_API_KEY") or os.getenv("DEEPSEEK_API_KEY", "")
     return OpenAI(
-        api_key=os.getenv("LLM_API_KEY", ""),
+        api_key=api_key,
         base_url=os.getenv("LLM_BASE_URL", "https://api.deepseek.com"),
     )
 

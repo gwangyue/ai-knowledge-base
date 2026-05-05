@@ -22,6 +22,16 @@ from workflows.model_client import chat, chat_json
 # 处理器定义 — 每个处理器负责一种意图
 # ---------------------------------------------------------------------------
 
+def _extract_english_keywords(query: str) -> str:
+    """用 LLM 将中文查询提取为 GitHub 可用的英文关键词"""
+    result, _ = chat(
+        f"将以下查询提取为适合 GitHub 搜索的英文关键词（3-5个词，空格分隔，不要其他内容）：\n{query}",
+        system="你是搜索关键词提取器。只输出英文关键词，不要任何解释。",
+        max_tokens=30,
+    )
+    return result.strip()
+
+
 def github_search_handler(query: str) -> str:
     """GitHub 搜索处理器：搜索相关仓库并返回摘要"""
     token = os.getenv("GITHUB_TOKEN", "")
@@ -29,8 +39,10 @@ def github_search_handler(query: str) -> str:
     if token:
         headers["Authorization"] = f"token {token}"
 
-    # 清理查询词 + URL 编码（处理空格、中文等）
-    search_query = query.replace("搜索", "").replace("github", "").strip()
+    # 用 LLM 提取英文关键词（GitHub 搜索不支持中文）
+    search_query = _extract_english_keywords(query)
+    print(f"[Router] GitHub 搜索词: {search_query}")
+
     encoded_query = urllib.parse.quote(search_query)
     url = f"https://api.github.com/search/repositories?q={encoded_query}&sort=stars&per_page=5"
 
@@ -43,7 +55,7 @@ def github_search_handler(query: str) -> str:
         for repo in data.get("items", []):
             results.append(f"- [{repo['full_name']}]({repo['html_url']}) ⭐{repo['stargazers_count']} — {repo.get('description', '')}")
 
-        return f"GitHub 搜索结果:\n" + "\n".join(results) if results else "未找到相关仓库"
+        return f"GitHub 搜索结果（关键词: {search_query}）:\n" + "\n".join(results) if results else f"未找到相关仓库（搜索词: {search_query}）"
     except Exception as e:
         return f"GitHub 搜索失败: {e}"
 
@@ -125,6 +137,7 @@ def classify_intent(query: str) -> str:
     # 第一层: 关键词匹配
     for keywords, intent in KEYWORD_RULES:
         if any(kw in query_lower for kw in keywords):
+            print(f"[Router] 关键词匹配: {keywords} -> {intent}")
             return intent
 
     # 第二层: LLM 分类
@@ -144,7 +157,9 @@ def classify_intent(query: str) -> str:
 
     # 确保返回有效的意图
     if intent in HANDLERS:
+        print(f"[Router] LLM 分类: {intent}")
         return intent
+    print(f"[Router] 无效意图: {intent}")
     return "general_chat"
 
 
