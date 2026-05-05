@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260505-001",
+  "title": "Agent Skills",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://addyosmani.com/blog/agent-skills/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-05T10:02:15.363922+00:00",
+  "collected_at": "2026-05-05T10:02:15.363922+00:00",
+  "summary": "该内容讨论了AI Agent的技能设计，强调了如何通过模块化技能提升Agent的自主性和任务执行效率。核心价值在于为开发者提供构建灵活、可扩展Agent系统的实用指导。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-05T10:03:39.849289+00:00"
+}
