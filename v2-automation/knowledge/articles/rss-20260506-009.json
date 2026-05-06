@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260506-009",
+  "title": "AI Agents for Sustainable SMEs: A Green ESG Assessment Framework",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00841",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T10:17:06.190596+00:00",
+  "collected_at": "2026-05-06T10:17:06.190596+00:00",
+  "summary": "该论文提出了一种基于AI Agent的绿色ESG评估框架，旨在帮助中小企业实现可持续发展。通过自动化数据收集、分析和报告生成，该框架降低了ESG评估的门槛，提高了评估效率和准确性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T10:18:27.144703+00:00"
+}

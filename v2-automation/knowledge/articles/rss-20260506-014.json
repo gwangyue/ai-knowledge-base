@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260506-014",
+  "title": "Algebraic Semantics of Governed Execution: Monoidal Categories, Effect Algebras, and Coterminous Boundaries",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.01032",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T10:17:06.190624+00:00",
+  "collected_at": "2026-05-06T10:17:06.190624+00:00",
+  "summary": "该论文提出了一个代数语义框架，用于分析受控执行（governed execution）的数学基础，通过幺半范畴（monoidal categories）和效应代数（effect algebras）来建模执行边界与资源约束。其核心价值在于为AI系统的安全执行和资源管理提供了形式化的理论工具，有助于设计更可靠的受控环境。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-06T10:18:27.144716+00:00"
+}

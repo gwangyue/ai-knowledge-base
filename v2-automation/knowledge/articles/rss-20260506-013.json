@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260506-013",
+  "title": "Effect-Transparent Governance for AI Workflow Architectures: Semantic Preservation, Expressive Minimality, and Decidability Boundaries",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.01030",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T10:17:06.190620+00:00",
+  "collected_at": "2026-05-06T10:17:06.190620+00:00",
+  "summary": "该论文提出了一种面向AI工作流架构的效果透明治理方法，核心在于通过语义保持和表达最小化原则来确保工作流行为的可解释性和可控性，同时探讨了可判定性边界。其价值在于为复杂AI系统的治理提供了形式化基础，有助于提升工作流的可靠性和安全性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-06T10:18:27.144713+00:00"
+}

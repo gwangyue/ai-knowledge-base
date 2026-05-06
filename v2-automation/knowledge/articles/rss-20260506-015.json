@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260506-015",
+  "title": "A Knowledge-Driven LLM-Based Decision-Support System for Explainable Defect Analysis and Mitigation Guidance in Laser Powder Bed Fusion",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.01100",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T10:17:06.190628+00:00",
+  "collected_at": "2026-05-06T10:17:06.190628+00:00",
+  "summary": "该论文提出了一种基于知识驱动的大型语言模型（LLM）决策支持系统，用于激光粉末床熔融（LPBF）过程中的可解释缺陷分析与缓解指导。系统通过集成领域知识库和LLM的推理能力，能够自动识别缺陷类型、分析成因并生成可解释的缓解建议，提升了增材制造过程的可靠性和透明度。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T10:18:27.144719+00:00"
+}

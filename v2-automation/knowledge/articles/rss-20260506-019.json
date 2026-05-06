@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260506-019",
+  "title": "PERSA: Reinforcement Learning for Professor-Style Personalized Feedback with LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.01123",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T10:17:06.190645+00:00",
+  "collected_at": "2026-05-06T10:17:06.190645+00:00",
+  "summary": "该论文提出了一种名为PERSA的强化学习方法，用于让大型语言模型生成教授风格的高度个性化反馈。其核心价值在于通过强化学习优化反馈的个性化和教育效果，提升了AI在教育领域的应用质量。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T10:18:27.144731+00:00"
+}

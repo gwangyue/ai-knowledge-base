@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260506-008",
+  "title": "2026 Roadmap on Artificial Intelligence and Machine Learning for Smart Manufacturing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00839",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T10:17:06.190563+00:00",
+  "collected_at": "2026-05-06T10:17:06.190563+00:00",
+  "summary": "该路线图概述了2026年人工智能与机器学习在智能制造领域的关键发展方向，包括技术趋势、应用场景和潜在挑战。它为研究人员和从业者提供了系统性的技术演进路径和战略规划参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T10:18:27.144700+00:00"
+}
