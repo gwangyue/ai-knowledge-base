@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260507-007",
+  "title": "ANDRE: An Attention-based Neuro-symbolic Differentiable Rule Extractor",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.04193",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-07T10:23:45.921062+00:00",
+  "collected_at": "2026-05-07T10:23:45.921062+00:00",
+  "summary": "该论文提出了一种基于注意力的神经符号可微分规则提取器ANDRE，旨在从数据中学习可解释的符号规则。它结合了神经网络的表示学习能力和符号系统的可解释性，为复杂AI系统提供了一种新的推理方法。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-07T10:25:14.740170+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260507-018",
+  "title": "AuditRepairBench: A Paired-Execution Trace Corpus for Evaluator-Channel Ranking Instability in Agent Repair",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.04624",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-07T10:23:45.921118+00:00",
+  "collected_at": "2026-05-07T10:23:45.921118+00:00",
+  "summary": "该论文提出了AuditRepairBench，一个用于评估代理修复中评估器通道排名不稳定性的配对执行轨迹语料库。核心价值在于通过标准化的基准测试，系统性地分析和解决AI代理在修复任务中因评估器通道排名不一致导致的性能波动问题。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-07T10:25:14.740210+00:00"
+}

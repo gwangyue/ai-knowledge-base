@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260507-008",
+  "title": "Pro$^2$Assist: Continuous Step-Aware Proactive Assistance with Multimodal Egocentric Perception for Long-Horizon Procedural Tasks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.04227",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-07T10:23:45.921068+00:00",
+  "collected_at": "2026-05-07T10:23:45.921068+00:00",
+  "summary": "该论文提出Pro$^2$Assist，一种基于多模态自我中心感知的连续步骤感知主动辅助系统，用于长时程程序性任务。其核心价值在于通过实时感知用户操作步骤，提供主动式、上下文相关的辅助，显著提升任务完成效率。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-07T10:25:14.740174+00:00"
+}

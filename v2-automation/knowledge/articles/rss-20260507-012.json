@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260507-012",
+  "title": "The Scaling Properties of Implicit Deductive Reasoning in Transformers",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.04330",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-07T10:23:45.921089+00:00",
+  "collected_at": "2026-05-07T10:23:45.921089+00:00",
+  "summary": "该论文研究了Transformer模型在隐式演绎推理任务中的扩展性质，探讨了模型规模、数据量和推理能力之间的关系。核心价值在于揭示了大型语言模型在逻辑推理方面的可扩展性规律，为设计更高效的推理架构提供了理论依据。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-07T10:25:14.740188+00:00"
+}

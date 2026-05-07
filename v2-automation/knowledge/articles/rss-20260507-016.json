@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260507-016",
+  "title": "From Parameter Dynamics to Risk Scoring : Quantifying Sample-Level Safety Degradation in LLM Fine-tuning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.04572",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-07T10:23:45.921108+00:00",
+  "collected_at": "2026-05-07T10:23:45.921108+00:00",
+  "summary": "本文提出了一种通过参数动态分析来量化LLM微调过程中样本级安全退化风险的方法。该方法将参数变化映射为风险评分，为识别和缓解微调带来的安全威胁提供了可量化的工具。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-07T10:25:14.740200+00:00"
+}

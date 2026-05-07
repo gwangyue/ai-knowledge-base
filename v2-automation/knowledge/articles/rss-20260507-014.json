@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260507-014",
+  "title": "Deployment-Relevant Alignment Cannot Be Inferred from Model-Level Evaluation Alone",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.04454",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-07T10:23:45.921099+00:00",
+  "collected_at": "2026-05-07T10:23:45.921099+00:00",
+  "summary": "该论文指出，仅通过模型级别的评估无法推断出部署相关的对齐性，强调了在真实部署环境中进行对齐评估的必要性。核心价值在于提醒研究人员和开发者，模型在静态测试中的表现不能完全代表其在动态、交互式部署场景中的安全性和可靠性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-07T10:25:14.740194+00:00"
+}

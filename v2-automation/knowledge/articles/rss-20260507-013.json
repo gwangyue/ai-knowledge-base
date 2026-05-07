@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260507-013",
+  "title": "When Context Hurts: The Crossover Effect of Knowledge Transfer on Multi-Agent Design Exploration",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.04361",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-07T10:23:45.921094+00:00",
+  "collected_at": "2026-05-07T10:23:45.921094+00:00",
+  "summary": "该论文研究了在多智能体设计探索中，知识迁移的交叉效应，即上下文信息可能对探索过程产生负面影响。核心价值在于揭示了知识迁移在复杂多智能体系统中的双刃剑特性，为优化多智能体协作提供了新视角。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-07T10:25:14.740191+00:00"
+}

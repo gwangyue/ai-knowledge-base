@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260507-019",
+  "title": "Budget-aware Auto Optimizer Configurator",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.04711",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-07T10:23:45.921122+00:00",
+  "collected_at": "2026-05-07T10:23:45.921122+00:00",
+  "summary": "该技术提出了一种预算感知的自动优化器配置方法，旨在根据计算资源预算自动调整优化器参数，提升模型训练效率。其核心价值在于降低手动调参成本，并适应不同资源限制下的训练场景。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-07T10:25:14.740212+00:00"
+}

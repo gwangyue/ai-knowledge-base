@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260507-015",
+  "title": "How Does Thinking Mode Change LLM Moral Judgments? A Controlled Instant-vs-Thinking Comparison Across Five Frontier Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.04488",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-07T10:23:45.921104+00:00",
+  "collected_at": "2026-05-07T10:23:45.921104+00:00",
+  "summary": "该研究通过控制实验对比了五种前沿大语言模型在即时回答与思考模式下的道德判断差异，揭示了推理过程对模型道德决策的影响。核心价值在于为理解LLM的推理机制和道德对齐提供了实证依据。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-07T10:25:14.740197+00:00"
+}

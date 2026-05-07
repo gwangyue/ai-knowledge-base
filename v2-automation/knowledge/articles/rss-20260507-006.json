@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260507-006",
+  "title": "Actionable Real-Time Modeling of Surgical Team Dynamics via Time-Expanded Interaction Graphs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.04169",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-07T10:23:45.921055+00:00",
+  "collected_at": "2026-05-07T10:23:45.921055+00:00",
+  "summary": "该论文提出了一种通过时间扩展交互图对手术团队动态进行实时建模的方法，能够捕捉团队协作的时序变化。其核心价值在于为手术室中的团队协作提供可操作的实时分析，有助于提升手术安全性和效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-07T10:25:14.740163+00:00"
+}

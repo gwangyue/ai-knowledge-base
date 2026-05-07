@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260507-005",
+  "title": "Regularized Centered Emphatic Temporal Difference Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.04100",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-07T10:23:45.921045+00:00",
+  "collected_at": "2026-05-07T10:23:45.921045+00:00",
+  "summary": "该论文提出了一种正则化的中心强调时序差分学习方法，通过引入正则化项来改进强调TD算法的稳定性和收敛性。该方法在强化学习的策略评估任务中具有潜在价值，能够更有效地处理离策略学习问题。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-07T10:25:14.740158+00:00"
+}
