@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260509-018",
+  "title": "Intentionality is a Design Decision: Measuring Functional Intentionality for Accountable AI Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.05475",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-09T09:18:58.052079+00:00",
+  "collected_at": "2026-05-09T09:18:58.052079+00:00",
+  "summary": "该论文探讨了在可问责AI系统中，将意图性（intentionality）视为一种设计决策的重要性，并提出了一种衡量功能意图性的方法。核心价值在于为AI系统的可解释性和责任归属提供了新的理论框架和量化工具。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-09T09:20:30.494952+00:00"
+}

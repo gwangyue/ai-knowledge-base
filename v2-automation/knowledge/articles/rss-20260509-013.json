@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260509-013",
+  "title": "LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.05410",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-09T09:18:58.052057+00:00",
+  "collected_at": "2026-05-09T09:18:58.052057+00:00",
+  "summary": "该论文提出了一种名为LaTA的本地LLM自动评分系统，专为高年级STEM课程设计，符合FERPA合规要求。它作为即插即用工具，利用本地大语言模型实现高效、安全的作业评分，解决了数据隐私和学术评估的痛点。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-09T09:20:30.494939+00:00"
+}
