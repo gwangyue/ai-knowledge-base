@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260510-003",
+  "title": "&quot;OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support&quot;",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-05-10T09:27:38.318187+00:00",
+  "collected_at": "2026-05-10T09:27:38.318187+00:00",
+  "summary": "OncoAgent 提出了一种双层多智能体框架，用于在保护隐私的前提下支持肿瘤学临床决策。该框架通过分层架构实现敏感医疗数据的本地化处理与协作推理，平衡了数据安全与诊断辅助的准确性。其核心价值在于为医疗AI应用提供了可落地的隐私保护方案。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "security",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-10T09:29:06.981121+00:00"
+}
