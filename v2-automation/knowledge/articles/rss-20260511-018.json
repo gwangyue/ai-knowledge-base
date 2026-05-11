@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260511-018",
+  "title": "Extracting Search Trees from LLM Reasoning Traces Reveals Myopic Planning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.06840",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-11T11:18:38.292430+00:00",
+  "collected_at": "2026-05-11T11:18:38.292430+00:00",
+  "summary": "该论文提出从大语言模型推理轨迹中提取搜索树的方法，揭示了模型在规划任务中表现出短视行为。通过分析搜索树结构，可以量化模型的规划深度和策略，为理解LLM推理机制提供了新视角。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-11T11:20:11.843575+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260511-013",
+  "title": "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.06761",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-11T11:18:38.292408+00:00",
+  "collected_at": "2026-05-11T11:18:38.292408+00:00",
+  "summary": "Weblica 提出了一种可扩展且可复现的训练环境，用于视觉 Web 智能体。该环境旨在解决现有训练环境在规模化和可复现性方面的不足，为视觉 Web 智能体的研究提供更可靠的基准。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "vision",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-11T11:20:11.843556+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260511-007",
+  "title": "Fast and Effective Redistricting Optimization via Composite-Move Tabu Search",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.06682",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-11T11:18:38.292376+00:00",
+  "collected_at": "2026-05-11T11:18:38.292376+00:00",
+  "summary": "该论文提出了一种基于复合移动禁忌搜索的快速有效选区重划优化方法，通过组合移动策略和禁忌搜索算法，显著提高了选区重划问题的求解效率和质量。核心价值在于为政治选区划分这一复杂组合优化问题提供了高效的解决方案。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-11T11:20:11.843537+00:00"
+}

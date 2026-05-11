@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260511-011",
+  "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.06716",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-11T11:18:38.292397+00:00",
+  "collected_at": "2026-05-11T11:18:38.292397+00:00",
+  "summary": "该综述系统梳理了LLM智能体记忆机制从简单存储向经验驱动的演进路径，提出了新的分类框架并分析了不同记忆类型对智能体性能的影响。核心价值在于为构建更智能、更自主的LLM智能体提供了理论指导和设计参考。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-11T11:20:11.843550+00:00"
+}

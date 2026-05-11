@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260511-016",
+  "title": "Uneven Evolution of Cognition Across Generations of Generative AI Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.06815",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-11T11:18:38.292421+00:00",
+  "collected_at": "2026-05-11T11:18:38.292421+00:00",
+  "summary": "该研究分析了不同代际生成式AI模型在认知能力上的非均匀进化，揭示了模型在推理、记忆等认知维度上的表现差异。其价值在于为理解AI能力发展轨迹和优化模型设计提供实证依据。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-11T11:20:11.843569+00:00"
+}

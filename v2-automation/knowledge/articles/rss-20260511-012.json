@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260511-012",
+  "title": "When Does a Language Model Commit? A Finite-Answer Theory of Pre-Verbalization Commitment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.06723",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-11T11:18:38.292403+00:00",
+  "collected_at": "2026-05-11T11:18:38.292403+00:00",
+  "summary": "该论文探讨了语言模型在生成文本前何时“承诺”特定输出，提出了一种有限答案理论来形式化预言语承诺。核心价值在于为理解语言模型的行为可预测性和输出稳定性提供了理论框架。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-11T11:20:11.843553+00:00"
+}
