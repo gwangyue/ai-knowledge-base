@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260512-016",
+  "title": "Playing games with knowledge: AI-Induced delusions need game theoretic interventions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.08409",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-12T10:31:03.900709+00:00",
+  "collected_at": "2026-05-12T10:31:03.900709+00:00",
+  "summary": "该论文探讨了AI系统（如大型语言模型）在交互中可能产生的“知识诱导幻觉”，并提出使用博弈论干预来缓解这些问题。核心价值在于将博弈论框架引入AI安全领域，为处理AI的虚假信念和对抗性交互提供了新思路。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "multi-agent",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-12T10:32:34.869149+00:00"
+}

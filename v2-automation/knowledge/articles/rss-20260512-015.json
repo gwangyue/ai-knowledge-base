@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260512-015",
+  "title": "Belief or Circuitry? Causal Evidence for In-Context Graph Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.08405",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-12T10:31:03.900704+00:00",
+  "collected_at": "2026-05-12T10:31:03.900704+00:00",
+  "summary": "该论文通过因果实验证据，探究了大型语言模型在上下文学习（In-Context Learning）中是否真正实现了图结构学习，还是仅依赖于表面模式匹配。研究揭示了模型内部机制与图推理能力之间的因果关系，为理解LLM的推理本质提供了重要见解。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-12T10:32:34.869146+00:00"
+}

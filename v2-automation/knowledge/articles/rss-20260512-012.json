@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260512-012",
+  "title": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.08386",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-12T10:31:03.900686+00:00",
+  "collected_at": "2026-05-12T10:31:03.900686+00:00",
+  "summary": "SkillLens 提出了一种自适应多粒度技能复用方法，用于构建成本高效的 LLM 代理。该方法通过动态选择和复用不同粒度的技能，显著降低推理成本并提升任务执行效率。核心价值在于平衡了代理的灵活性与资源消耗。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-12T10:32:34.869132+00:00"
+}
