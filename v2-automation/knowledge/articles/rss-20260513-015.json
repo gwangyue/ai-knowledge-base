@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260513-015",
+  "title": "LatentRouter: Can We Choose the Right Multimodal Model Before Seeing Its Answer?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.11301",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-13T10:26:49.543361+00:00",
+  "collected_at": "2026-05-13T10:26:49.543361+00:00",
+  "summary": "LatentRouter 提出了一种在推理前预测多模态模型性能的方法，通过分析输入数据的潜在表示来选择最合适的模型，从而避免不必要的计算开销。该技术旨在提升多模态任务中模型选择的效率与准确性，具有实际应用价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-13T10:28:02.886916+00:00"
+}

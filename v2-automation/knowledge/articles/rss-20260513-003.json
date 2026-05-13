@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260513-003",
+  "title": "A Cascaded Generative Approach for e-Commerce Recommendations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.11118",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-13T10:26:49.543268+00:00",
+  "collected_at": "2026-05-13T10:26:49.543268+00:00",
+  "summary": "该论文提出了一种级联生成方法，用于电商推荐系统，通过多阶段生成模型逐步优化推荐结果，提升准确性和多样性。核心价值在于将生成式AI应用于推荐任务，解决传统方法在冷启动和个性化方面的不足。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-13T10:28:02.886874+00:00"
+}

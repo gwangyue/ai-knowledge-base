@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260513-019",
+  "title": "CVEvolve: Autonomous Algorithm Discovery for Unstructured Scientific Data Processing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.11359",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-13T10:26:49.543380+00:00",
+  "collected_at": "2026-05-13T10:26:49.543380+00:00",
+  "summary": "CVEvolve 提出了一种自主算法发现方法，用于处理非结构化科学数据。该方法通过自动化流程，无需人工干预即可发现高效的数据处理算法，从而提升科学数据分析的效率和准确性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-13T10:28:02.886930+00:00"
+}

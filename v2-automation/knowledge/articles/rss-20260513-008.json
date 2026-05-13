@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260513-008",
+  "title": "Don't Look at the Numbers: Visual Anchoring Bias and Layer-wise Representation in VLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.11218",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-13T10:26:49.543331+00:00",
+  "collected_at": "2026-05-13T10:26:49.543331+00:00",
+  "summary": "该研究探讨了视觉锚定偏差对视觉语言模型（VLM）的影响，发现模型在数值信息与视觉信息冲突时倾向于依赖数值，并分析了这种偏差在不同层级的表示中的表现。研究为理解VLM的决策机制提供了新视角，有助于改进模型设计以减轻此类偏差。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-13T10:28:02.886895+00:00"
+}

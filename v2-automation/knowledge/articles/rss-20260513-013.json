@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260513-013",
+  "title": "Unlocking LLM Creativity in Science through Analogical Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.11258",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-13T10:26:49.543353+00:00",
+  "collected_at": "2026-05-13T10:26:49.543353+00:00",
+  "summary": "该论文探讨如何通过类比推理增强大语言模型在科学领域的创造力，提出一种结构化方法引导LLM进行跨领域知识迁移。核心价值在于为AI科学发现提供新的推理范式，提升模型在科研场景中的创新潜力。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-13T10:28:02.886910+00:00"
+}

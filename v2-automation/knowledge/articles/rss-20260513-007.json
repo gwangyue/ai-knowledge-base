@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260513-007",
+  "title": "The Many Faces of On-Policy Distillation: Pitfalls, Mechanisms, and Fixes",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.11182",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-13T10:26:49.543324+00:00",
+  "collected_at": "2026-05-13T10:26:49.543324+00:00",
+  "summary": "本文深入探讨了在线策略蒸馏（on-policy distillation）中的常见陷阱、机制和修复方法，揭示了其与传统知识蒸馏的差异。通过分析不同策略下的性能表现，提出了改进蒸馏效果的实用方案，对强化学习和模型压缩领域具有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-13T10:28:02.886892+00:00"
+}

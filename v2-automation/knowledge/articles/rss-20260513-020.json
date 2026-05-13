@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260513-020",
+  "title": "Causal Bias Detection in Generative Artifical Intelligence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.11365",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-13T10:26:49.543385+00:00",
+  "collected_at": "2026-05-13T10:26:49.543385+00:00",
+  "summary": "该研究探讨了生成式人工智能中的因果偏差检测方法，旨在识别和量化模型输出中的系统性偏见。其核心价值在于提供一种技术框架，以提高AI系统的公平性和可靠性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-13T10:28:02.886932+00:00"
+}

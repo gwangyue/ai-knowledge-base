@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260513-005",
+  "title": "RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.11151",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-13T10:26:49.543309+00:00",
+  "collected_at": "2026-05-13T10:26:49.543309+00:00",
+  "summary": "RankQ 提出了一种通过自监督动作排序实现离线到在线强化学习的方法，解决了离线预训练与在线微调之间的分布偏移问题。该方法利用排序损失函数学习动作的相对优劣，从而提升样本效率和策略性能。",
+  "score": 7,
+  "tags": [
+    "reinforcement-learning",
+    "self-supervised-learning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-13T10:28:02.886881+00:00"
+}

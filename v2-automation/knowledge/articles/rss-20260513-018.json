@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260513-018",
+  "title": "CPEMH: An Agentic Framework for Prompt-Driven Behavior Evaluation and Assurance in Foundation-Model Systems for Mental Health Screening",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.11341",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-13T10:26:49.543374+00:00",
+  "collected_at": "2026-05-13T10:26:49.543374+00:00",
+  "summary": "本文提出CPEMH框架，通过提示驱动的方式对基础模型系统在心理健康筛查中的行为进行评估与保障。该框架利用智能体技术实现自动化行为验证，确保模型输出的可靠性与安全性，为AI在敏感医疗场景中的应用提供了系统化的评估方法。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-13T10:28:02.886927+00:00"
+}

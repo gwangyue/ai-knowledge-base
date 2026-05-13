@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260513-012",
+  "title": "The Semantic Training Gap: Ontology-Grounded Tool Architectures for Industrial AI Agent Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.11234",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-13T10:26:49.543349+00:00",
+  "collected_at": "2026-05-13T10:26:49.543349+00:00",
+  "summary": "本文提出了一种基于本体论（Ontology）的工业AI智能体系统工具架构，旨在解决语义训练差距问题。通过将领域知识以本体形式结构化，该方法增强了智能体对工业工具的理解与使用能力，提升了系统的可靠性和可解释性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-13T10:28:02.886908+00:00"
+}
