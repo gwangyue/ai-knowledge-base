@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260514-001",
+  "title": "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.12620",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-14T10:13:37.155370+00:00",
+  "collected_at": "2026-05-14T10:13:37.155370+00:00",
+  "summary": "该论文提出了一种基于验证器的动作选择方法，用于具身智能体。核心思想是让智能体在行动前进行多步推理和验证，从而选择最优动作，提高任务成功率。该方法通过引入验证器来评估不同动作的潜在结果，实现了更安全、更有效的决策。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-14T10:14:41.956943+00:00"
+}

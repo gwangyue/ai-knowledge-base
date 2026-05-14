@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260514-005",
+  "title": "Learning Transferable Latent User Preferences for Human-Aligned Decision Making",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.12682",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-14T10:13:37.155426+00:00",
+  "collected_at": "2026-05-14T10:13:37.155426+00:00",
+  "summary": "该论文提出了一种学习可迁移的潜在用户偏好表示的方法，旨在使AI决策过程更符合人类价值观。通过将用户偏好编码为潜在向量，模型能够在不同任务间迁移这些偏好，从而提升人机对齐决策的泛化能力与效率。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-14T10:14:41.956972+00:00"
+}

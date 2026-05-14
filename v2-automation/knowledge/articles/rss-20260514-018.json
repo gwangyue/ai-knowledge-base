@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260514-018",
+  "title": "Retrieval is Cheap, Show Me the Code: Executable Multi-Hop Reasoning for Retrieval-Augmented Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.12975",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-14T10:13:37.155491+00:00",
+  "collected_at": "2026-05-14T10:13:37.155491+00:00",
+  "summary": "该论文提出了一种可执行的多跳推理方法，用于检索增强生成（RAG），通过生成并执行代码来替代传统的文本检索步骤，从而更高效地获取和整合多步推理所需的信息。核心价值在于展示了如何利用代码执行来降低检索成本并提升复杂推理任务的准确性。",
+  "score": 8,
+  "tags": [
+    "rag",
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-14T10:14:41.957020+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260514-008",
+  "title": "CHAL: Council of Hierarchical Agentic Language",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.12718",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-14T10:13:37.155443+00:00",
+  "collected_at": "2026-05-14T10:13:37.155443+00:00",
+  "summary": "该论文提出了一个名为CHAL的分层代理语言框架，旨在通过层级结构协调多个AI代理的协作与通信。其核心价值在于提升多代理系统的任务执行效率和决策一致性。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-14T10:14:41.956986+00:00"
+}

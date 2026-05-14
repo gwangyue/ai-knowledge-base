@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260514-003",
+  "title": "Do Androids Dream of Breaking the Game? Systematically Auditing AI Agent Benchmarks with BenchJack",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.12673",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-14T10:13:37.155409+00:00",
+  "collected_at": "2026-05-14T10:13:37.155409+00:00",
+  "summary": "该论文提出了一种名为BenchJack的系统性审计方法，用于评估AI智能体基准测试的鲁棒性和可靠性。通过分析现有基准测试的漏洞和偏差，该方法有助于提升AI智能体评估的准确性和公平性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-14T10:14:41.956965+00:00"
+}

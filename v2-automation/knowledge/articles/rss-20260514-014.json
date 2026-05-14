@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260514-014",
+  "title": "Beyond Cooperative Simulators: Generating Realistic User Personas for Robust Evaluation of LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.12894",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-14T10:13:37.155473+00:00",
+  "collected_at": "2026-05-14T10:13:37.155473+00:00",
+  "summary": "该论文提出了一种超越传统合作模拟器的方法，通过生成逼真的用户画像来稳健评估LLM代理。核心价值在于解决了现有评估中用户行为不真实的问题，提升了评估的可靠性和实用性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-14T10:14:41.957006+00:00"
+}
