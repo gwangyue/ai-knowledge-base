@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260516-003",
+  "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/Andyyyy64/whichllm",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-16T09:40:02.905005+00:00",
+  "collected_at": "2026-05-16T09:40:02.905005+00:00",
+  "summary": "该工具帮助用户根据硬件配置找到性能最佳的本地大语言模型，并通过基准测试进行排名。它解决了本地部署LLM时硬件兼容性和性能评估的痛点，提供了实用的选择参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-16T09:41:17.051356+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260516-020",
+  "title": "Bad Seeing or Bad Thinking? Rewarding Perception for Vision-Language Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.14054",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-16T09:40:04.174986+00:00",
+  "collected_at": "2026-05-16T09:40:04.174986+00:00",
+  "summary": "该论文探讨了视觉-语言推理中感知质量与推理能力的关系，提出通过奖励感知过程来提升模型表现。核心价值在于揭示了视觉感知错误对推理结果的负面影响，并提出了针对性的训练策略。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-16T09:41:17.051405+00:00"
+}

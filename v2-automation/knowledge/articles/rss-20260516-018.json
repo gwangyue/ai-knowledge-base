@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260516-018",
+  "title": "Bridging Legal Interpretation and Formal Logic: Faithfulness, Assumption, and the Future of AI Legal Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.14049",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-16T09:40:04.174977+00:00",
+  "collected_at": "2026-05-16T09:40:04.174977+00:00",
+  "summary": "该论文探讨了法律解释与形式逻辑之间的桥梁，重点分析了AI在法律推理中的忠实性、假设以及未来发展方向。其核心价值在于为AI在法律领域的应用提供了逻辑基础和方法论指导。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-16T09:41:17.051400+00:00"
+}

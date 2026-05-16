@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260516-017",
+  "title": "Network-Aware Bilinear Tokenization for Brain Functional Connectivity Representation Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.14048",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-16T09:40:04.174973+00:00",
+  "collected_at": "2026-05-16T09:40:04.174973+00:00",
+  "summary": "该论文提出了一种网络感知的双线性分词方法，用于脑功能连接表示学习。该方法通过双线性变换和网络结构信息，有效捕获了脑功能连接中的复杂模式，提升了表示学习的性能。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-16T09:41:17.051396+00:00"
+}

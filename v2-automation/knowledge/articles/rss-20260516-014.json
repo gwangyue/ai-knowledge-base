@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260516-014",
+  "title": "From Descriptive to Prescriptive: Uncover the Social Value Alignment of LLM-based Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.14034",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-16T09:40:04.174960+00:00",
+  "collected_at": "2026-05-16T09:40:04.174960+00:00",
+  "summary": "该论文探讨了如何将基于LLM的智能体从描述性对齐（理解人类价值观）转向规范性对齐（主动遵循社会价值观），提出了一种新的框架来评估和增强智能体的社会价值一致性。核心价值在于为构建更安全、更符合伦理的自主智能体提供了方法论基础。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-16T09:41:17.051387+00:00"
+}
