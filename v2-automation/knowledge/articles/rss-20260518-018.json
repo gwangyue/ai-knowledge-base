@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260518-018",
+  "title": "SMCEvolve: Principled Scientific Discovery via Sequential Monte Carlo Evolution",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.15308",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-18T11:43:14.562515+00:00",
+  "collected_at": "2026-05-18T11:43:14.562515+00:00",
+  "summary": "SMCEvolve 提出了一种基于序贯蒙特卡洛（SMC）的科学发现进化方法，通过概率采样与进化策略的结合，实现科学假设的自动生成与验证。该方法在原理上具有创新性，为AI驱动的科学发现提供了新的理论框架。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-18T11:44:36.507624+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260518-008",
+  "title": "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.15204",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-18T11:43:14.562461+00:00",
+  "collected_at": "2026-05-18T11:43:14.562461+00:00",
+  "summary": "本文提出了一种名为SDOF（状态约束调度）的方法，旨在解决多智能体编排中的“对齐税”问题，即多个智能体协同工作时因对齐需求导致的性能下降。通过引入状态约束，该方法在保持多智能体协作效率的同时，显著降低了对齐成本，为多智能体系统的实际部署提供了更优的平衡方案。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-18T11:44:36.507589+00:00"
+}

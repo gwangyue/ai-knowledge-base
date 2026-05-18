@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260518-020",
+  "title": "Zero-Shot Goal Recognition with Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.15333",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-18T11:43:14.562524+00:00",
+  "collected_at": "2026-05-18T11:43:14.562524+00:00",
+  "summary": "该论文探索了使用大型语言模型（LLMs）进行零样本目标识别，即在不依赖特定领域训练数据的情况下，从观察到的行为序列推断出智能体的目标。核心价值在于展示了LLMs在理解复杂行为意图方面的潜力，为无需预训练数据的通用目标识别提供了新方法。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-18T11:44:36.507630+00:00"
+}

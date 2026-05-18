@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260518-012",
+  "title": "CAX-Agent: A Lightweight Agent Harness for Reliable APDL Automation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.15218",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-18T11:43:14.562488+00:00",
+  "collected_at": "2026-05-18T11:43:14.562488+00:00",
+  "summary": "CAX-Agent 是一个轻量级的智能体框架，专门用于可靠地自动化 APDL（ANSYS Parametric Design Language）任务。它通过模块化设计和任务分解机制，提升了工程仿真流程的自动化程度与可靠性，降低了用户手动编写和调试 APDL 脚本的复杂度。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-18T11:44:36.507602+00:00"
+}

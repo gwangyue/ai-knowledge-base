@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260518-017",
+  "title": "Solvita: Enhancing Large Language Models for Competitive Programming via Agentic Evolution",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.15301",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-18T11:43:14.562510+00:00",
+  "collected_at": "2026-05-18T11:43:14.562510+00:00",
+  "summary": "本文提出Solvita框架，通过智能体进化方法增强大型语言模型在竞赛编程中的能力。核心价值在于利用自动化进化策略提升模型解决复杂编程问题的性能，为LLM在专业领域的应用提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-18T11:44:36.507618+00:00"
+}

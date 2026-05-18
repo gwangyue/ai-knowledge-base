@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260518-002",
+  "title": "I don't think AI will make your processes go faster",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-18T11:43:12.789152+00:00",
+  "collected_at": "2026-05-18T11:43:12.789152+00:00",
+  "summary": "这篇文章探讨了AI技术在实际业务流程中的应用效果，指出AI并非万能解决方案，其引入可能不会显著提升流程速度，反而需要谨慎评估实际价值。核心价值在于提醒从业者理性看待AI的局限性，避免盲目追求技术升级。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-18T11:44:36.507571+00:00"
+}

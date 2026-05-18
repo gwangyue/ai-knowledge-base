@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260518-007",
+  "title": "DeepSlide: From Artifacts to Presentation Delivery",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.15202",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-18T11:43:14.562422+00:00",
+  "collected_at": "2026-05-18T11:43:14.562422+00:00",
+  "summary": "DeepSlide 提出了一种从人工制品到演示交付的端到端解决方案，专注于提升数字病理学中全切片图像的自动分析效率。其核心价值在于通过深度学习模型减少人工标注需求，并优化从图像预处理到结果可视化的完整工作流。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-18T11:44:36.507582+00:00"
+}
