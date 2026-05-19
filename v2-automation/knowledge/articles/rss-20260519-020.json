@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260519-020",
+  "title": "CAPS: Cascaded Adaptive Pairwise Selection for Efficient Parallel Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.15513",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-19T11:16:22.471146+00:00",
+  "collected_at": "2026-05-19T11:16:22.471146+00:00",
+  "summary": "该论文提出了一种名为CAPS（级联自适应成对选择）的方法，旨在提升并行推理过程中的效率。通过自适应地选择最相关的推理路径进行成对比较，该方法在保持推理质量的同时显著降低了计算开销。其核心价值在于为大规模语言模型的高效并行推理提供了一种实用的优化策略。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-19T11:17:41.761277+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260519-018",
+  "title": "From LLM-Generated Conjectures to Lean Formalizations: Automated Polynomial Inequality Proving via Sum-of-Squares Certificates",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.15445",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-19T11:16:22.471137+00:00",
+  "collected_at": "2026-05-19T11:16:22.471137+00:00",
+  "summary": "该论文提出了一种利用大语言模型生成猜想，并通过平方和证书自动证明多项式不等式的形式化方法。核心价值在于将LLM的创造性推理与Lean定理证明器的严格形式化验证相结合，实现了从非形式化猜想到可验证证明的自动化流程。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-19T11:17:41.761267+00:00"
+}
