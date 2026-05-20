@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260520-020",
+  "title": "SimGym: A Framework for A/B Test Simulation in E-Commerce with Traffic-Grounded VLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.19219",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-20T10:49:21.870560+00:00",
+  "collected_at": "2026-05-20T10:49:21.870560+00:00",
+  "summary": "SimGym 提出一个基于流量驱动 VLM 代理的框架，用于在电商场景中模拟 A/B 测试。其核心价值在于通过代理模拟用户行为，降低真实测试成本并加速实验迭代。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "vision",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-20T10:50:21.067145+00:00"
+}

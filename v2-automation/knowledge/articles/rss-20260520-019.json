@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260520-019",
+  "title": "Not all uncertainty is alike: volatility, stochasticity, and exploration",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.19215",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-20T10:49:21.870556+00:00",
+  "collected_at": "2026-05-20T10:49:21.870556+00:00",
+  "summary": "该论文探讨了不确定性在强化学习中的不同表现形式，包括波动性、随机性和探索策略。它提出了一种区分这些不确定性类型的方法，以优化智能体的探索行为，提升学习效率和决策质量。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-20T10:50:21.067143+00:00"
+}

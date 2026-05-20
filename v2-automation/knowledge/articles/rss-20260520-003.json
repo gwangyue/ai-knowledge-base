@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260520-003",
+  "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.18801",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-20T10:49:21.870438+00:00",
+  "collected_at": "2026-05-20T10:49:21.870438+00:00",
+  "summary": "该论文提出开发数据探针（Data Probes）以从根本上理解数据如何影响大语言模型（LLM）的性能。通过系统性地分析训练数据与模型行为之间的关系，旨在为数据选择、模型优化提供可解释的指导，从而提升LLM的效率和可靠性。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-20T10:50:21.067059+00:00"
+}

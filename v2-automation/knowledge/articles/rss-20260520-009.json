@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260520-009",
+  "title": "Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.19035",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-20T10:49:21.870513+00:00",
+  "collected_at": "2026-05-20T10:49:21.870513+00:00",
+  "summary": "该文章探讨了在代理网络中建立信任的重要性，强调信任必须内置于系统架构中，而非事后添加。核心价值在于为构建安全可靠的AI代理网络提供设计原则，确保代理间交互的可信度与完整性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-20T10:50:21.067090+00:00"
+}

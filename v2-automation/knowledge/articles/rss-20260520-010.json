@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260520-010",
+  "title": "Interference-Aware Multi-Task Unlearning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.19042",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-20T10:49:21.870517+00:00",
+  "collected_at": "2026-05-20T10:49:21.870517+00:00",
+  "summary": "该论文提出了一种干扰感知的多任务遗忘方法，旨在解决机器学习模型中多个任务同时被遗忘时的相互干扰问题。通过引入干扰感知机制，该方法能够更有效地移除特定任务的知识，同时保持其他任务的性能，为模型遗忘领域提供了新的技术路径。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-20T10:50:21.067095+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260520-008",
+  "title": "KAN-MLP-Mixer: A comprehensive investigation of the usage of Kolmogorov-Arnold Networks (KANs) for improving IMU-based Human Activity Recognition",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.19031",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-20T10:49:21.870508+00:00",
+  "collected_at": "2026-05-20T10:49:21.870508+00:00",
+  "summary": "该论文系统研究了将Kolmogorov-Arnold网络（KAN）集成到MLP-Mixer架构中，以提升基于IMU的人体活动识别性能。通过对比实验，验证了KAN在捕捉复杂时序特征方面的优势，为可穿戴计算领域提供了新的技术路径。",
+  "score": 7,
+  "tags": [
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-20T10:50:21.067086+00:00"
+}
