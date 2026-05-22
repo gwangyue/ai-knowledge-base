@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260522-016",
+  "title": "Mahjax: A GPU-Accelerated Mahjong Simulator for Reinforcement Learning in JAX",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.20577",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-22T10:49:52.252065+00:00",
+  "collected_at": "2026-05-22T10:49:52.252065+00:00",
+  "summary": "该论文介绍了 Mahjax，一个基于 JAX 的 GPU 加速麻将模拟器，专为强化学习研究设计。它通过利用 JAX 的自动微分和并行计算能力，显著提升了麻将游戏的模拟速度，为训练和评估强化学习智能体提供了高效平台。",
+  "score": 7,
+  "tags": [
+    "reinforcement-learning",
+    "simulation",
+    "gpu-acceleration"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-22T10:51:06.450845+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260522-013",
+  "title": "Open-World Evaluations for Measuring Frontier AI Capabilities",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.20520",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-22T10:49:52.252053+00:00",
+  "collected_at": "2026-05-22T10:49:52.252053+00:00",
+  "summary": "该论文提出了一种用于评估前沿AI能力的开放世界评估框架，旨在超越传统基准测试的局限性。核心价值在于通过动态、开放的任务环境，更全面地衡量AI系统的泛化能力和适应性。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-22T10:51:06.450836+00:00"
+}

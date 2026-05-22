@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260522-018",
+  "title": "COAgents: Multi-Agent Framework to Learn and Navigate Routing Problems Search Space",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.20618",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-22T10:49:52.252076+00:00",
+  "collected_at": "2026-05-22T10:49:52.252076+00:00",
+  "summary": "COAgents 提出了一种多智能体框架，用于学习和导航组合优化问题（如路径规划）的搜索空间。该框架通过多个智能体协作，结合强化学习与搜索策略，有效提升了求解效率与质量。其核心价值在于为复杂路由问题提供了一种可扩展的自动化解决方案。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-22T10:51:06.450853+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260522-020",
+  "title": "Declarative Data Services: Structured Agentic Discovery for Composing Data Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.20690",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-22T10:49:52.252085+00:00",
+  "collected_at": "2026-05-22T10:49:52.252085+00:00",
+  "summary": "该论文提出了一种声明式数据服务框架，通过结构化智能体发现机制来组合数据系统。其核心价值在于简化数据系统的构建过程，提升系统的灵活性和可扩展性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-22T10:51:06.450859+00:00"
+}

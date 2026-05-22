@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260522-017",
+  "title": "From Automated to Autonomous: Hierarchical Agent-native Network Architecture (HANA)",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.20608",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-22T10:49:52.252072+00:00",
+  "collected_at": "2026-05-22T10:49:52.252072+00:00",
+  "summary": "该论文提出了从自动化到自主化的层次化智能体原生网络架构（HANA），旨在通过分层设计实现智能体的自主决策与协作。其核心价值在于为复杂任务提供可扩展的自主智能体系统框架，推动AI从工具化向自主化演进。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-22T10:51:06.450850+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260522-008",
+  "title": "Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.20190",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-22T10:49:52.252023+00:00",
+  "collected_at": "2026-05-22T10:49:52.252023+00:00",
+  "summary": "该论文提出了一种工具增强型智能体，用于闭环优化、仿真和建模编排，通过整合外部工具提升AI在复杂工程任务中的自动化与决策能力。其核心价值在于实现动态调整与多步骤推理，适用于工业仿真与优化场景。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-22T10:51:06.450821+00:00"
+}
