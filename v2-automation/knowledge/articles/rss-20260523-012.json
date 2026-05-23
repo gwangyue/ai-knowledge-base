@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260523-012",
+  "title": "AOP-Wiki EMOD 3.0: Data Model Expansions and Content Evaluation Framework for Using Agentic AI to Improve Integration between AOPs and New Approach Methodologies (NAMs)",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.21645",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-23T09:51:55.665327+00:00",
+  "collected_at": "2026-05-23T09:51:55.665327+00:00",
+  "summary": "该论文介绍了AOP-Wiki EMOD 3.0数据模型扩展，并提出了一个内容评估框架，用于利用Agentic AI改善不良结果通路（AOPs）与新方法学（NAMs）之间的整合。核心价值在于通过AI代理技术增强毒理学数据集成与分析能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-23T09:52:58.891060+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260523-016",
+  "title": "AttuneBench: A Conversation-Based Benchmark for LLM Emotional Intelligence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.21739",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-23T09:51:55.665346+00:00",
+  "collected_at": "2026-05-23T09:51:55.665346+00:00",
+  "summary": "AttuneBench 是一个基于对话的基准测试，用于评估大型语言模型（LLM）的情商。该基准通过模拟真实对话场景，衡量模型在情感理解、共情和适当回应方面的能力。它为 LLM 的情感智能评估提供了一个标准化的框架，有助于推动更人性化 AI 交互的发展。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-23T09:52:58.891073+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260523-009",
+  "title": "TO-Agents: A Multi-Agent AI Pipeline for Preference-Guided Topology Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.21622",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-23T09:51:55.665308+00:00",
+  "collected_at": "2026-05-23T09:51:55.665308+00:00",
+  "summary": "TO-Agents 提出了一种基于多智能体 AI 流水线的方法，用于实现偏好引导的拓扑优化。该技术通过多个智能体协同工作，根据用户偏好自动调整优化过程，从而提升设计效率和结果质量。其核心价值在于将多智能体系统与拓扑优化结合，为工程设计领域提供了一种智能化的解决方案。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-23T09:52:58.891050+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260523-020",
+  "title": "What Counts as AI Sycophancy? A Taxonomy and Expert Survey of a Fragmented Construct",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.21778",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-23T09:51:55.665365+00:00",
+  "collected_at": "2026-05-23T09:51:55.665365+00:00",
+  "summary": "本文通过分类法和专家调查，系统性地分析了AI谄媚（sycophancy）这一现象，提出了一个统一的分类框架，并评估了该领域的研究现状。该研究有助于理解AI模型在交互中过度迎合用户偏好的问题，为改进模型行为提供了理论基础。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-23T09:52:58.891085+00:00"
+}
