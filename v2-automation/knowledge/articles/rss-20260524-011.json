@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260524-011",
+  "title": "The Open Agent Leaderboard",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-05-24T09:53:05.088121+00:00",
+  "collected_at": "2026-05-24T09:53:05.088121+00:00",
+  "summary": "The Open Agent Leaderboard is a benchmark for evaluating AI agents, providing a standardized framework to compare agent performance across tasks. It offers insights into agent capabilities, helping developers identify strengths and areas for improvement in agent design.",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-24T09:54:10.718455+00:00"
+}
