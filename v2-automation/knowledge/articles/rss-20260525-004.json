@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260525-004",
+  "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://arxiv.org/abs/2605.06445",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-25T11:52:31.942165+00:00",
+  "collected_at": "2026-05-25T11:52:31.942165+00:00",
+  "summary": "该论文探讨了大型语言模型（LLM）代理在后端代码生成中的脆弱性问题，特别是约束衰减（Constraint Decay）现象。研究发现，随着任务复杂度的增加，LLM代理在保持初始约束条件方面表现不佳，导致生成的代码质量下降。这项工作对理解LLM代理的局限性以及改进代码生成系统的鲁棒性具有重要价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "code-generation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-25T11:53:39.298462+00:00"
+}

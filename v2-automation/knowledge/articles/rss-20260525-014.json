@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260525-014",
+  "title": "PathCal: State-Aware Reflection-Marker Calibration for Efficient Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.23074",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-25T11:52:33.468086+00:00",
+  "collected_at": "2026-05-25T11:52:33.468086+00:00",
+  "summary": "PathCal 提出了一种状态感知的反射标记校准方法，用于提升推理效率。该方法通过动态调整推理路径中的标记，优化了模型在复杂任务中的表现。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-25T11:53:39.298496+00:00"
+}

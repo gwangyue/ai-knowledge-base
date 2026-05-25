@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260525-020",
+  "title": "Design and Report Benchmarks for Knowledge Work",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.23262",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-25T11:52:33.468113+00:00",
+  "collected_at": "2026-05-25T11:52:33.468113+00:00",
+  "summary": "该论文提出了针对知识工作的设计与报告基准测试，旨在评估AI系统在复杂知识任务中的表现。通过标准化基准，为AI在知识工作领域的应用提供量化评估方法。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-25T11:53:39.298514+00:00"
+}

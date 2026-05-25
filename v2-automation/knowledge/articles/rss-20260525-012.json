@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260525-012",
+  "title": "EVE-Agent: Evidence-Verifiable Self-Evolving Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.22905",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-25T11:52:33.468077+00:00",
+  "collected_at": "2026-05-25T11:52:33.468077+00:00",
+  "summary": "EVE-Agent 提出了一种可验证证据的自我进化智能体框架，通过引入证据验证机制来确保智能体在自我改进过程中的可靠性和准确性。该技术旨在解决现有智能体在自主进化时可能产生的错误累积和不可控行为问题，提升了AI系统的安全性和可信度。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-25T11:53:39.298490+00:00"
+}
