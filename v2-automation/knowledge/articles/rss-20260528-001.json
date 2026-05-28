@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260528-001",
+  "title": "YouTube to automatically label AI-generated videos",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-28T11:37:42.468763+00:00",
+  "collected_at": "2026-05-28T11:37:42.468763+00:00",
+  "summary": "YouTube 将要求创作者标记由 AI 生成的视频内容，以提升透明度和用户信任。该政策旨在帮助观众区分真实内容与 AI 合成内容，应对深度伪造等风险。",
+  "score": 7,
+  "tags": [
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-28T11:39:02.277766+00:00"
+}

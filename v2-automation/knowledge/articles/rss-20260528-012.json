@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260528-012",
+  "title": "LaneRoPE: Positional Encoding for Collaborative Parallel Reasoning and Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.27570",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-28T11:37:43.869728+00:00",
+  "collected_at": "2026-05-28T11:37:43.869728+00:00",
+  "summary": "LaneRoPE 提出了一种新的位置编码方法，旨在支持协作式并行推理与生成。该方法通过改进位置编码机制，使模型能够更高效地同时处理推理和生成任务，提升了多任务协同能力。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-28T11:39:02.277817+00:00"
+}
