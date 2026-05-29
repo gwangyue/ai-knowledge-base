@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260529-008",
+  "title": "Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Prediction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.28855",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-29T11:28:36.423608+00:00",
+  "collected_at": "2026-05-29T11:28:36.423608+00:00",
+  "summary": "该论文提出了一种行为感知的辅助校正方法，用于改进离策略时序差分预测的准确性。通过引入辅助校正项，有效缓解了离策略学习中的偏差问题，提升了强化学习算法的稳定性和效率。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-29T11:29:36.614654+00:00"
+}

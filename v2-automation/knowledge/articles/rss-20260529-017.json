@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260529-017",
+  "title": "When Models Disagree: Rethinking LLM Evaluation for Public Comment Analysis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.29025",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-29T11:28:36.423661+00:00",
+  "collected_at": "2026-05-29T11:28:36.423661+00:00",
+  "summary": "该论文探讨了在公众评论分析中，当不同语言模型产生不一致结果时，如何重新评估LLM的有效性。核心价值在于提出了一种更鲁棒的评估框架，以处理模型间的分歧，从而提升分析的可信度。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-29T11:29:36.614690+00:00"
+}

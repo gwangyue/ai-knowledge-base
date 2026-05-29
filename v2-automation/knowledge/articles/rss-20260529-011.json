@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260529-011",
+  "title": "Review Arcade: On the Human Alignment and Gameability of LLM Reviews",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.28897",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-29T11:28:36.423629+00:00",
+  "collected_at": "2026-05-29T11:28:36.423629+00:00",
+  "summary": "该论文提出了一种名为Review Arcade的框架，用于评估和提升大型语言模型（LLM）在生成人类对齐的评论时的表现，同时分析了这些评论的可游戏性（即被操纵或误导的可能性）。核心价值在于为LLM评论系统的可靠性和安全性提供了新的评估维度与改进方向。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-29T11:29:36.614672+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260529-001",
+  "title": "Various LLM Smells",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://shvbsle.in/various-llm-smells/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-29T11:28:34.837755+00:00",
+  "collected_at": "2026-05-29T11:28:34.837755+00:00",
+  "summary": "该内容探讨了大型语言模型（LLM）使用中常见的各种问题或“气味”（smells），例如输出不一致、幻觉、过度泛化等。它可能提供了识别和缓解这些问题的实用技巧，对于提升LLM应用的可靠性和质量具有参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-29T11:29:36.614631+00:00"
+}

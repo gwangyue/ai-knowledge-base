@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260529-002",
+  "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://llmgame.scalex.dev",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-29T11:28:34.837785+00:00",
+  "collected_at": "2026-05-29T11:28:34.837785+00:00",
+  "summary": "这是一个关于AI代理权限疲劳的60秒游戏，通过互动方式展示用户在面对AI代理频繁请求权限时的决策困境。该游戏旨在提高人们对AI代理安全性和权限管理的认识，具有教育意义和娱乐性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-29T11:29:36.614646+00:00"
+}
