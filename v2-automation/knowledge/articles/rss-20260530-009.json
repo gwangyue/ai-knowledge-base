@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260530-009",
+  "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/delta-weight-sync",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-05-30T09:59:57.792597+00:00",
+  "collected_at": "2026-05-30T09:59:57.792597+00:00",
+  "summary": "本文介绍了在TRL（Transformer Reinforcement Learning）中通过Hub Bucket实现万亿参数模型的增量权重同步技术。该方法允许高效地同步大型模型的参数更新，显著降低存储和带宽需求，为大规模分布式训练提供了实用解决方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-30T10:03:02.503235+00:00"
+}
