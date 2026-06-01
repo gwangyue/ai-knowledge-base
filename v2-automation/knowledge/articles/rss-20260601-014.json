@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260601-014",
+  "title": "Learning Agent-Compatible Context Management for Long-Horizon Tasks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30785",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T13:39:09.983029+00:00",
+  "collected_at": "2026-06-01T13:39:09.983029+00:00",
+  "summary": "该论文提出了一种学习型上下文管理方法，旨在提升AI代理在长周期任务中的表现。核心价值在于通过动态调整上下文信息，解决传统方法在长时间任务中上下文丢失或冗余的问题。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-01T13:40:16.950924+00:00"
+}

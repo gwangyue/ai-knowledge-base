@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260601-003",
+  "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30512",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T13:39:09.982923+00:00",
+  "collected_at": "2026-06-01T13:39:09.982923+00:00",
+  "summary": "PhyDrawGen 提出了一种从自然语言描述生成物理示意图的方法，通过结合物理知识图谱和图形引擎，实现了对物理场景的准确可视化。该技术有助于提升物理教学和科学交流的效率。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-01T13:40:16.950883+00:00"
+}

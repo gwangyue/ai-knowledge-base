@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260601-020",
+  "title": "UniScale: Adaptive Unified Inference Scaling via Online Joint Optimization of Model Routing and Test-Time Scaling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30898",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T13:39:09.983060+00:00",
+  "collected_at": "2026-06-01T13:39:09.983060+00:00",
+  "summary": "UniScale 提出了一种在线联合优化方法，将模型路由和测试时扩展相结合，实现自适应统一推理扩展。该方法通过动态选择模型和调整推理计算量，在保持性能的同时提升效率，为大规模AI系统的资源优化提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-01T13:40:16.950944+00:00"
+}
