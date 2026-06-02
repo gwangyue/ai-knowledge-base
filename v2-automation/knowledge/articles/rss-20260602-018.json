@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260602-018",
+  "title": "TIGER: Traceable Inference with Graph-Based Evidence Routing for Mitigating Hallucinations in Multimodal Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00232",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-02T12:03:25.048560+00:00",
+  "collected_at": "2026-06-02T12:03:25.048560+00:00",
+  "summary": "TIGER 提出了一种基于图的证据路由方法，用于在多模态生成中追踪推理过程并缓解幻觉问题。该方法通过构建可追溯的推理路径，增强了模型输出的可靠性和可解释性，在多模态任务中具有重要应用价值。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-02T12:04:26.942653+00:00"
+}

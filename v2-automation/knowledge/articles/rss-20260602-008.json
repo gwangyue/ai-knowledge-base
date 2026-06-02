@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260602-008",
+  "title": "Agents on a Tree: Pathwise Coordination for Multi-Objective Molecular Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00008",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-02T12:03:25.048511+00:00",
+  "collected_at": "2026-06-02T12:03:25.048511+00:00",
+  "summary": "该论文提出了一种基于树形结构的路径协调方法，用于多目标分子优化。通过将多个智能体部署在树上，实现了分子性质的多目标协同优化，提升了优化效率和效果。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-02T12:04:26.942617+00:00"
+}
