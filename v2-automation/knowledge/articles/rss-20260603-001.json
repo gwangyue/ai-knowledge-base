@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260603-001",
+  "title": "AI outperforms law professors in Stanford Law study",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-03T12:41:06.228607+00:00",
+  "collected_at": "2026-06-03T12:41:06.228607+00:00",
+  "summary": "斯坦福法学院研究显示，AI在法律任务上的表现超越了法学教授，表明AI在法律领域的应用潜力巨大。该研究通过对比AI与人类专家的表现，突出了AI在文本理解和逻辑推理方面的优势。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-03T12:42:12.309017+00:00"
+}

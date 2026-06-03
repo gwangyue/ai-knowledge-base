@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260603-014",
+  "title": "Don't Gamble, GAMBLe: An Analytical Framework for AI-Driven Research Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.02863",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-03T12:41:08.083884+00:00",
+  "collected_at": "2026-06-03T12:41:08.083884+00:00",
+  "summary": "该论文提出了一个名为GAMBLe的分析框架，用于设计和评估AI驱动的研究系统。它通过将研究过程分解为可管理的组件，并引入量化指标，帮助研究人员系统地优化AI研究流程，避免常见的陷阱。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-03T12:42:12.309070+00:00"
+}

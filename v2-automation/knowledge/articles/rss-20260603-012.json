@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260603-012",
+  "title": "Thinking Past the Answer: Evaluating Harmful Overthinking in Large Reasoning Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.02835",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-03T12:41:08.083875+00:00",
+  "collected_at": "2026-06-03T12:41:08.083875+00:00",
+  "summary": "该论文探讨了大型推理模型（LRMs）在生成答案后可能出现的“有害过度思考”现象，即模型在已经得出正确结论后仍继续生成不必要的推理步骤，导致输出质量下降。研究通过系统性评估揭示了这一问题的普遍性及其对模型可靠性的负面影响，为改进推理模型提供了重要见解。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-03T12:42:12.309063+00:00"
+}
