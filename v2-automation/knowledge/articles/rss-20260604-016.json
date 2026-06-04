@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260604-016",
+  "title": "Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04315",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-04T11:14:59.680824+00:00",
+  "collected_at": "2026-06-04T11:14:59.680824+00:00",
+  "summary": "该论文探讨了智能体记忆系统在跨场景下的通用性问题，提出了诊断方法并构建了一个强基线模型。核心价值在于揭示了现有记忆系统在不同任务场景中的局限性，并为提升其泛化能力提供了有效解决方案。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-04T11:16:04.158831+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260604-014",
+  "title": "Characterizing initial human-AI proof formalization workflows",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04273",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-04T11:14:59.680815+00:00",
+  "collected_at": "2026-06-04T11:14:59.680815+00:00",
+  "summary": "该论文研究了人类与AI在形式化证明工作流中的初始协作模式，分析了如何通过AI辅助提高证明形式化的效率。核心价值在于为构建更高效的人机协作证明系统提供了实证基础。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-04T11:16:04.158825+00:00"
+}

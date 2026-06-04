@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260604-020",
+  "title": "Trivium: Temporal Regret as a First-Class Objective for Causal-Memory Controllers",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04421",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-04T11:14:59.680842+00:00",
+  "collected_at": "2026-06-04T11:14:59.680842+00:00",
+  "summary": "该论文提出了一种名为Trivium的方法，将时间上的遗憾（temporal regret）作为因果记忆控制器的一阶目标，旨在优化AI系统在时序决策中的记忆管理。其核心价值在于通过引入遗憾最小化框架，提升模型在长期依赖任务中的因果推理和记忆效率。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-04T11:16:04.158848+00:00"
+}

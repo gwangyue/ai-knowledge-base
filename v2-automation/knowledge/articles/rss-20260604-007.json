@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260604-007",
+  "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04150",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-04T11:14:59.680770+00:00",
+  "collected_at": "2026-06-04T11:14:59.680770+00:00",
+  "summary": "该论文探讨了用户在与AI常规互动中可能产生情感依赖的现象，分析了这种依赖如何重塑人际关系。研究通过实证数据揭示了AI交互对用户情感连接的影响，为理解人机关系提供了新视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-04T11:16:04.158804+00:00"
+}
