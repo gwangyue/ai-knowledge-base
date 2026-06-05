@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260605-017",
+  "title": "Harnessing Generalist Agents for Contextualized Time Series",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05404",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-05T11:27:55.367060+00:00",
+  "collected_at": "2026-06-05T11:27:55.367060+00:00",
+  "summary": "该论文探讨了如何利用通用型AI代理（generalist agents）来处理上下文相关的时间序列数据，提出了一种将时间序列分析任务与代理的通用能力相结合的方法。其核心价值在于通过代理的灵活性和适应性，提升时间序列预测或分类在特定上下文中的准确性，为时间序列分析领域提供了新的技术路径。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-05T11:29:01.080801+00:00"
+}

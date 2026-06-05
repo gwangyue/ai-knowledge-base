@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260605-018",
+  "title": "Agents' Last Exam",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05405",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-05T11:27:55.367064+00:00",
+  "collected_at": "2026-06-05T11:27:55.367064+00:00",
+  "summary": "该论文提出了一个针对AI智能体（Agents）的综合性评估基准，旨在测试其在复杂、多步骤任务中的表现。通过设计涵盖多种场景的考试式任务，该工作为衡量和比较不同智能体系统的能力提供了标准化方法。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-05T11:29:01.080804+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260605-020",
+  "title": "A Motivational Architecture for Conversational AGI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05411",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-05T11:27:55.367073+00:00",
+  "collected_at": "2026-06-05T11:27:55.367073+00:00",
+  "summary": "该论文提出了一种面向对话式通用人工智能（AGI）的动机架构，旨在通过内在动机机制增强对话系统的自主性和目标导向性。核心价值在于为构建更智能、更具适应性的对话AI提供理论框架和设计原则。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-05T11:29:01.080811+00:00"
+}

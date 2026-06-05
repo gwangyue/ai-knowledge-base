@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260605-016",
+  "title": "LeanMarathon: Toward Reliable AI Co-Mathematicians through Long-Horizon Lean Autoformalization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05400",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-05T11:27:55.367056+00:00",
+  "collected_at": "2026-06-05T11:27:55.367056+00:00",
+  "summary": "该论文提出LeanMarathon，一种通过长周期自动形式化方法提升AI数学协作者可靠性的技术。核心价值在于利用Lean证明助手进行大规模自动形式化，以增强AI在数学推理中的准确性和鲁棒性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "code-generation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-05T11:29:01.080798+00:00"
+}

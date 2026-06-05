@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260605-008",
+  "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05316",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-05T11:27:55.367014+00:00",
+  "collected_at": "2026-06-05T11:27:55.367014+00:00",
+  "summary": "该论文提出了一种开放世界知识获取方法，用于理解不断演变的网络迷因。核心价值在于解决了传统模型无法识别新出现迷因的问题，通过持续学习新知识来提升对动态网络内容的语义理解。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-05T11:29:01.080769+00:00"
+}
