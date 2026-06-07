@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260607-010",
+  "title": "Adding MCP Tools to Reachy Mini",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-07T10:28:20.954754+00:00",
+  "collected_at": "2026-06-07T10:28:20.954754+00:00",
+  "summary": "本文介绍了如何为 Reachy Mini 机器人添加 MCP（Model Context Protocol）工具支持，使其能够通过标准化接口与 AI 模型交互。这展示了将 MCP 协议应用于物理机器人系统的实践，为机器人集成 AI 能力提供了可复用的技术方案。",
+  "score": 7,
+  "tags": [
+    "mcp",
+    "tool-use",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-07T10:29:24.505461+00:00"
+}
