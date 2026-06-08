@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260608-016",
+  "title": "Evidence-Based Intelligent Diagnostic and Therapeutic Visualization System with Large Language Models: Multi-Turn Interaction and Multimodal Treatment Plan Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06869",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-08T12:27:17.507821+00:00",
+  "collected_at": "2026-06-08T12:27:17.507821+00:00",
+  "summary": "本文提出了一种基于大语言模型的循证智能诊断与治疗可视化系统，支持多轮交互和多模态治疗方案生成。该系统通过整合医学证据和可视化技术，旨在提升临床决策的准确性和效率，展示了LLM在医疗领域的应用潜力。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "vision",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-08T12:28:32.620891+00:00"
+}

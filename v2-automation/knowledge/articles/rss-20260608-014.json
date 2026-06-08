@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260608-014",
+  "title": "OpenSkill: Open-World Self-Evolution for LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06741",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-08T12:27:17.507812+00:00",
+  "collected_at": "2026-06-08T12:27:17.507812+00:00",
+  "summary": "该论文提出了一种名为OpenSkill的开放世界自我进化框架，旨在使LLM智能体能够在动态环境中持续学习和提升技能。核心价值在于通过自主探索和反馈机制，实现智能体在开放世界中的自适应进化，无需人工干预。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "llm",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-08T12:28:32.620885+00:00"
+}

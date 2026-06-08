@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260608-011",
+  "title": "A Study of Parallel Continuous Local Search",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06656",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-08T12:27:17.507796+00:00",
+  "collected_at": "2026-06-08T12:27:17.507796+00:00",
+  "summary": "该论文研究了并行连续局部搜索算法，旨在通过并行化提高连续优化问题的求解效率。核心价值在于为大规模连续优化问题提供了一种高效的并行求解策略。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-08T12:28:32.620875+00:00"
+}

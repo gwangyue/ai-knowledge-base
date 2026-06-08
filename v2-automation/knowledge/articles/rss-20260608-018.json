@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260608-018",
+  "title": "Declarative Skills for AI Agents in Knowledge-Grounded Tool-Use Workflows",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06923",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-08T12:27:17.507830+00:00",
+  "collected_at": "2026-06-08T12:27:17.507830+00:00",
+  "summary": "该论文探讨了在知识驱动的工具使用工作流中，为AI代理设计声明式技能的方法。通过将技能以声明式方式定义，代理能够更灵活地组合和复用工具，提升在复杂任务中的适应性和效率。这项工作为构建更鲁棒和可解释的AI代理系统提供了有价值的框架。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-08T12:28:32.620900+00:00"
+}
