@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260609-016",
+  "title": "Safety is Contextual, LLM-Judges Are Not: Navigating the Rigid Priors of Evaluators",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07874",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-09T11:13:52.266630+00:00",
+  "collected_at": "2026-06-09T11:13:52.266630+00:00",
+  "summary": "该论文探讨了LLM作为安全评估者时存在的固有偏见问题，指出安全判断高度依赖上下文，而现有评估器往往带有僵化的先验假设。研究揭示了这种不匹配导致的安全评估偏差，为构建更可靠、上下文感知的AI安全评估系统提供了重要见解。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-09T11:15:10.576780+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260609-018",
+  "title": "Contract2Tool: Learning Preconditions and Effects for Reliable Tool-Augmented LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07904",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-09T11:13:52.266639+00:00",
+  "collected_at": "2026-06-09T11:13:52.266639+00:00",
+  "summary": "Contract2Tool 提出了一种通过自动学习工具使用的前置条件和后置效果来增强 LLM 代理可靠性的方法。该方法使代理能够更准确地判断何时以及如何使用工具，从而减少错误调用并提升任务完成质量。其核心价值在于为工具增强型 LLM 代理提供了一种系统化的可靠性保障机制。",
+  "score": 7,
+  "tags": [
+    "tool-use",
+    "llm",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-09T11:15:10.576786+00:00"
+}

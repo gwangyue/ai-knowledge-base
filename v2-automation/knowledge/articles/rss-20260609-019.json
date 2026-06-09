@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260609-019",
+  "title": "MemToolAgent overview with a simple restaurant booking scenario where the agent retrieves similar memories, receives feedback on an invalid time format, and generates a reflection to update its memory",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07909",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-09T11:13:52.266644+00:00",
+  "collected_at": "2026-06-09T11:13:52.266644+00:00",
+  "summary": "该内容介绍了MemToolAgent在餐厅预订场景中的应用，展示了其通过检索相似记忆、处理无效时间格式反馈并生成反思来更新记忆的能力。核心价值在于演示了基于记忆的智能体如何通过反思机制实现自我改进。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-09T11:15:10.576789+00:00"
+}

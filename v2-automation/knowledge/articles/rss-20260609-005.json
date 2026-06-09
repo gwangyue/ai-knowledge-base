@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260609-005",
+  "title": "Why Limit the Residual Stream to Layers and Not Tokens? Persistent Memory for Continuous Latent Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07720",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-09T11:13:52.266577+00:00",
+  "collected_at": "2026-06-09T11:13:52.266577+00:00",
+  "summary": "该论文提出了一种在残差流中引入持久记忆机制的方法，使模型能够在连续潜在空间中进行推理，突破了传统仅按层限制残差流的范式。核心价值在于提升了模型在长序列任务中的推理连贯性和效率。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-09T11:15:10.576746+00:00"
+}

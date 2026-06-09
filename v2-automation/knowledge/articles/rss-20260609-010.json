@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260609-010",
+  "title": "Improving Multimodal Reasoning via Worst Dimension Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07801",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-09T11:13:52.266603+00:00",
+  "collected_at": "2026-06-09T11:13:52.266603+00:00",
+  "summary": "该论文提出了一种通过优化最差维度来提升多模态推理能力的方法，旨在解决多模态大模型在复杂推理任务中表现不稳定的问题。核心价值在于提供了一种新的训练策略，能够在不显著增加计算成本的情况下，显著改善模型在视觉-语言推理任务上的性能。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-09T11:15:10.576762+00:00"
+}

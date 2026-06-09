@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260609-002",
+  "title": "OmniMem: Perturbation-aware Memory Compression for Streaming Audio-Visual LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07577",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-09T11:13:52.266552+00:00",
+  "collected_at": "2026-06-09T11:13:52.266552+00:00",
+  "summary": "OmniMem提出了一种针对流式音视频大语言模型的扰动感知记忆压缩方法，旨在高效管理长序列中的历史信息。该方法通过识别并保留对当前任务关键的记忆片段，同时压缩冗余信息，从而在保持模型性能的同时显著降低计算开销。该工作对于提升音视频LLM在实时交互场景中的实用性和效率具有重要价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "vision",
+    "audio"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-09T11:15:10.576736+00:00"
+}

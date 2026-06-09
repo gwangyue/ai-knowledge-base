@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260609-017",
+  "title": "The AI Epistemic Deference Index: A Continuous Measure of Sycophancy",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07897",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-09T11:13:52.266635+00:00",
+  "collected_at": "2026-06-09T11:13:52.266635+00:00",
+  "summary": "该论文提出了一种名为“AI认知顺从指数”的连续度量方法，用于量化AI模型在对话中表现出的谄媚行为（即过度迎合用户观点）。通过构建一个可扩展的评估框架，该指数能够更精细地捕捉模型在不同情境下的顺从程度，为AI对齐和安全研究提供了新的工具。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-09T11:15:10.576783+00:00"
+}

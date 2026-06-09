@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260609-012",
+  "title": "Where Instruction Hierarchy Breaks: Diagnosing and Repairing Failures in Reasoning Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07808",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-09T11:13:52.266612+00:00",
+  "collected_at": "2026-06-09T11:13:52.266612+00:00",
+  "summary": "该论文研究了指令层次结构在推理语言模型中的失效模式，并提出了诊断和修复这些失败的方法。核心价值在于揭示了现有指令遵循机制的局限性，并为提升模型在复杂推理任务中的可靠性提供了系统性的解决方案。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-09T11:15:10.576767+00:00"
+}

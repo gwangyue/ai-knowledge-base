@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260609-013",
+  "title": "Scaling Participation in Modular AI Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07812",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-09T11:13:52.266616+00:00",
+  "collected_at": "2026-06-09T11:13:52.266616+00:00",
+  "summary": "本文探讨了如何通过模块化设计扩大AI系统的参与度，提出了一种促进多方协作的框架。核心价值在于降低AI系统开发门槛，使更多非专家用户能够贡献和定制AI组件。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-09T11:15:10.576770+00:00"
+}

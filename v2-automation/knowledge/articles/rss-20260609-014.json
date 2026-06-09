@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260609-014",
+  "title": "Joint Structural Pruning and Mixed-Precision Quantization for LLM Compression",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07819",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-09T11:13:52.266620+00:00",
+  "collected_at": "2026-06-09T11:13:52.266620+00:00",
+  "summary": "该论文提出了一种联合结构剪枝与混合精度量化的方法，用于压缩大型语言模型（LLM），在保持模型性能的同时显著降低计算和存储成本。其核心价值在于通过协同优化剪枝和量化策略，实现了更高效的LLM部署。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-09T11:15:10.576773+00:00"
+}
