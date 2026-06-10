@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260610-003",
+  "title": "Cleaning up after AI rockstar developers",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-10T11:38:00.354293+00:00",
+  "collected_at": "2026-06-10T11:38:00.354293+00:00",
+  "summary": "本文讨论了AI领域明星开发者带来的技术债务和清理问题，强调了在快速迭代中保持代码质量和可维护性的重要性。核心价值在于提醒团队关注AI开发后的长期维护和清理工作。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T11:39:27.809907+00:00"
+}

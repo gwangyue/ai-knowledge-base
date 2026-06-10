@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260610-012",
+  "title": "Exploratory Responsiveness and Adaptive Rigidity under AI-Assisted Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10086",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-10T11:38:01.671422+00:00",
+  "collected_at": "2026-06-10T11:38:01.671422+00:00",
+  "summary": "该论文探讨了在AI辅助优化下，探索性响应与适应性刚性之间的平衡问题，提出了一种新的框架来理解AI系统如何在保持灵活性的同时避免过度适应。核心价值在于为AI系统的动态优化提供了理论指导，有助于设计更鲁棒的AI辅助决策系统。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T11:39:27.809942+00:00"
+}

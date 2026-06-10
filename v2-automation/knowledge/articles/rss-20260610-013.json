@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260610-013",
+  "title": "Predictive Assistance and the Temporal Dynamics of Exploratory Compression",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10094",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-10T11:38:01.671432+00:00",
+  "collected_at": "2026-06-10T11:38:01.671432+00:00",
+  "summary": "该论文探讨了预测性辅助与探索性压缩的时间动态关系，提出了一种通过压缩探索过程来优化预测辅助效率的方法。核心价值在于揭示了时间维度上辅助与压缩的协同机制，为智能系统设计提供了新视角。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T11:39:27.809945+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260610-007",
+  "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://news.ycombinator.com/item?id=48449187",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-10T11:38:00.354315+00:00",
+  "collected_at": "2026-06-10T11:38:00.354315+00:00",
+  "summary": "该内容探讨了自AI兴起以来，个人开发者为自己构建的实用工具。核心价值在于分享社区中涌现的、针对特定需求（如自动化、内容生成、数据分析）的定制化AI工具，展示了AI在个人生产力提升方面的广泛应用。",
+  "score": 7,
+  "tags": [
+    "tool-use",
+    "code-generation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T11:39:27.809925+00:00"
+}

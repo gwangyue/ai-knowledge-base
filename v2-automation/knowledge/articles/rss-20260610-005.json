@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260610-005",
+  "title": "Apple reveals new AI architecture built around Google Gemini models",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-10T11:38:00.354304+00:00",
+  "collected_at": "2026-06-10T11:38:00.354304+00:00",
+  "summary": "Apple 发布了基于 Google Gemini 模型构建的新 AI 架构，展示了其在 AI 领域的战略布局。该架构整合了 Gemini 的先进能力，可能用于增强 Apple 设备的智能功能。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T11:39:27.809915+00:00"
+}

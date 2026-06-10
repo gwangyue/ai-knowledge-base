@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260610-016",
+  "title": "Minimalist Genetic Programming",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10237",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-10T11:38:01.671447+00:00",
+  "collected_at": "2026-06-10T11:38:01.671447+00:00",
+  "summary": "该论文提出了一种极简化的遗传编程方法，旨在通过减少算法复杂性和参数数量来提升进化计算的效率与可解释性。其核心价值在于为符号回归等任务提供一种更简洁、更易部署的替代方案，同时保持与传统遗传编程相当的性能。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T11:39:27.809957+00:00"
+}
