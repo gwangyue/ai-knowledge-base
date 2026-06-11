@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260611-006",
+  "title": "Can AI Agents Synthesize Scientific Conclusions?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11337",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-11T12:09:03.751152+00:00",
+  "collected_at": "2026-06-11T12:09:03.751152+00:00",
+  "summary": "该论文探讨了AI代理能否综合科学结论的问题，评估了大型语言模型在科学推理和结论生成方面的能力。研究可能涉及多步骤推理、证据整合和假设检验，对自动化科学发现具有潜在价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-11T12:10:29.748210+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260611-011",
+  "title": "Search Discipline for Long-Horizon Research Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11522",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-11T12:09:03.751185+00:00",
+  "collected_at": "2026-06-11T12:09:03.751185+00:00",
+  "summary": "该论文提出了一种针对长期研究型AI代理的搜索纪律方法，旨在提升其在复杂任务中的自主搜索效率和结果质量。通过引入结构化的搜索策略和约束机制，该方法有效减少了无效探索，增强了代理在长周期研究场景下的决策可靠性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-11T12:10:29.748231+00:00"
+}

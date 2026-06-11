@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260611-019",
+  "title": "Organize then Retrieve: Hierarchical Memory Navigation for Efficient Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11680",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-11T12:09:03.751223+00:00",
+  "collected_at": "2026-06-11T12:09:03.751223+00:00",
+  "summary": "该论文提出了一种名为“Organize then Retrieve”的分层记忆导航方法，旨在提升AI智能体的信息检索效率。通过先组织记忆结构再进行检索，该方法能有效减少无关信息的干扰，从而在复杂任务中实现更快速、更准确的决策。其核心价值在于为智能体提供了一种更高效的长时记忆管理机制。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-11T12:10:29.748258+00:00"
+}
