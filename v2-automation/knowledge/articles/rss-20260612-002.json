@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260612-002",
+  "title": "Why AI hasn't replaced software engineers, and won't",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-12T11:42:28.743674+00:00",
+  "collected_at": "2026-06-12T11:42:28.743674+00:00",
+  "summary": "文章探讨了AI未能取代软件工程师的原因，指出当前AI在复杂软件工程任务中的局限性，如缺乏深度理解、上下文感知和创造性问题解决能力。核心价值在于理性分析AI辅助而非替代的角色，适合开发者反思技术边界。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-12T11:43:38.202570+00:00"
+}
