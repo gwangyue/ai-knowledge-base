@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260614-002",
+  "title": "AI coding at home without going broke",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-14T10:48:00.322673+00:00",
+  "collected_at": "2026-06-14T10:48:00.322673+00:00",
+  "summary": "本文探讨了如何在预算有限的情况下，在本地环境中进行AI编码实践，重点介绍了使用开源工具和低成本硬件（如消费级GPU）搭建AI开发环境的策略。内容实用性强，适合希望降低AI开发门槛的开发者参考。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-14T10:49:11.648119+00:00"
+}

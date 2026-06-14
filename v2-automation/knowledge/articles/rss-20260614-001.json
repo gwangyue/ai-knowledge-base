@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260614-001",
+  "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-14T10:48:00.322641+00:00",
+  "collected_at": "2026-06-14T10:48:00.322641+00:00",
+  "summary": "一名警察因在多个案件中使用AI生成虚假证据而受到调查，这凸显了AI在法律领域被滥用的风险。该事件引发了对AI生成内容可靠性和法律伦理的讨论。",
+  "score": 7,
+  "tags": [
+    "security",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-14T10:49:11.648106+00:00"
+}
