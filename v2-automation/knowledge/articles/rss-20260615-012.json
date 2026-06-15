@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260615-012",
+  "title": "YeasierAgent: Agentic Social Sandbox as a Canvas for Intent-Driven Creation of Platform-Agnostic Symbiotic Agent-Native Applications",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.13722",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-15T13:54:18.780179+00:00",
+  "collected_at": "2026-06-15T13:54:18.780179+00:00",
+  "summary": "YeasierAgent 提出了一种基于社交沙盒的智能体原生应用创建框架，通过意图驱动的方式实现平台无关的共生智能体应用开发。该框架利用社交环境作为画布，支持智能体之间的协作与交互，从而简化复杂应用的构建过程。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-15T13:55:37.616700+00:00"
+}

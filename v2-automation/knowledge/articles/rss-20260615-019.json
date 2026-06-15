@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260615-019",
+  "title": "Capability Minimization as a Safety Primitive: Risk-Aware Causal Gating for Least-Privilege LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.13884",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-15T13:54:18.780212+00:00",
+  "collected_at": "2026-06-15T13:54:18.780212+00:00",
+  "summary": "本文提出了一种名为“能力最小化”的安全原语，通过风险感知的因果门控机制，为LLM代理实现最小权限原则。该方法旨在限制代理在运行时仅使用完成任务所必需的能力，从而降低潜在风险，提升安全性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-15T13:55:37.616722+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260615-002",
+  "title": "Not everyone is using AI for everything",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-15T13:54:17.502201+00:00",
+  "collected_at": "2026-06-15T13:54:17.502201+00:00",
+  "summary": "这篇文章讨论了AI技术并非被所有人广泛采用，强调了在某些场景下传统方法或人工干预仍然重要。它提供了对AI应用现状的客观分析，有助于理解技术落地的实际挑战。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-15T13:55:37.616674+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260615-010",
+  "title": "WorkBench Revisited: Workplace Agents Two Years On",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.13715",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-15T13:54:18.780164+00:00",
+  "collected_at": "2026-06-15T13:54:18.780164+00:00",
+  "summary": "该论文重新审视了WorkBench基准测试，评估了工作场所AI代理在两年间的发展。核心内容是通过更新测试集和分析代理性能变化，揭示当前代理技术的进步与局限。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-15T13:55:37.616695+00:00"
+}
