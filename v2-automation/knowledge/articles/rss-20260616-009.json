@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260616-009",
+  "title": "Semantics-Enhanced Retrieval-Augmented Time Series Forecasting",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.14941",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T12:52:08.717219+00:00",
+  "collected_at": "2026-06-16T12:52:08.717219+00:00",
+  "summary": "该论文提出了一种语义增强的检索增强时间序列预测方法，通过结合语义信息与检索机制来提升时间序列预测的准确性。其核心价值在于利用外部知识库或相关序列的语义相似性，为传统时间序列模型提供更丰富的上下文信息，从而改善预测性能。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T12:53:16.992878+00:00"
+}

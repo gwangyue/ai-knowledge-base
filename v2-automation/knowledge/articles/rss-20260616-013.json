@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260616-013",
+  "title": "Fusion is not one-size-fits-all: Cross-Modal Representation Alignment for Time-to-Event Modeling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.15038",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T12:52:08.717237+00:00",
+  "collected_at": "2026-06-16T12:52:08.717237+00:00",
+  "summary": "该论文提出了一种跨模态表示对齐方法，用于时间-事件建模，解决了传统融合方法无法适应多模态数据异质性的问题。通过对齐不同模态的表示，提升了事件预测的准确性和鲁棒性，为医疗、金融等领域的生存分析提供了新思路。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T12:53:16.992891+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260616-020",
+  "title": "chopratejas/headroom",
+  "source": "github",
+  "source_url": "https://github.com/chopratejas/headroom",
+  "author": "chopratejas",
+  "published_at": "2026-06-16T06:35:10Z",
+  "collected_at": "2026-06-16T12:52:07.750664+00:00",
+  "summary": "headroom 是一个压缩工具，能够在数据到达大语言模型之前，对工具输出、日志、文件和 RAG 块进行压缩，减少 60-95% 的 token 消耗，同时保持相同的答案质量。它提供了库、代理和 MCP 服务器三种使用方式，旨在降低 LLM 调用的成本和延迟。",
+  "score": 8,
+  "tags": [
+    "rag",
+    "llm",
+    "mcp"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T12:53:16.992845+00:00"
+}
