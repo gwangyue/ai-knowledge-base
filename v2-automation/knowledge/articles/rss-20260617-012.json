@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260617-012",
+  "title": "Treatment Response Optimized Clinical Decision Support AI System via Digital Twin Simulation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.17405",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-17T12:15:25.902119+00:00",
+  "collected_at": "2026-06-17T12:15:25.902119+00:00",
+  "summary": "该论文提出了一种基于数字孪生模拟的治疗反应优化临床决策支持AI系统，通过模拟患者个体化治疗反应来辅助医生制定最优治疗方案。其核心价值在于利用数字孪生技术实现精准医疗决策，提升治疗效果并减少试错成本。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-17T12:16:45.393567+00:00"
+}

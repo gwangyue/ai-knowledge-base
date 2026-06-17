@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260617-014",
+  "title": "A Machine-Learned Comorbidity Index",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.17450",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-17T12:15:25.902127+00:00",
+  "collected_at": "2026-06-17T12:15:25.902127+00:00",
+  "summary": "该研究提出了一种基于机器学习的共病指数，用于量化患者多种疾病共存时的综合健康状况。通过分析电子健康记录数据，该指数能够更准确地预测患者预后，优于传统的共病评分方法。其价值在于为临床决策和健康管理提供更精准的风险分层工具。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-17T12:16:45.393573+00:00"
+}

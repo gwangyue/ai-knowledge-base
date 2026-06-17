@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260617-005",
+  "title": "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.17266",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-17T12:15:25.902082+00:00",
+  "collected_at": "2026-06-17T12:15:25.902082+00:00",
+  "summary": "该论文提出了SkillChain-Gym，一个用于评估在中断情况下考虑再技能化的生产库存控制的基准测试。它旨在解决供应链中断时，如何通过工人技能再培训来优化生产与库存决策的挑战。该基准测试为强化学习和运筹优化算法提供了标准化的评估环境。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-17T12:16:45.393541+00:00"
+}

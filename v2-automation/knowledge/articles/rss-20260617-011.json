@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260617-011",
+  "title": "Distributed General-Purpose Agent Networks: Architecture, Key Mechanisms, and Prototypes",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.17368",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-17T12:15:25.902114+00:00",
+  "collected_at": "2026-06-17T12:15:25.902114+00:00",
+  "summary": "该论文提出了分布式通用代理网络（DGPAN）架构，通过去中心化的方式实现多代理系统的协作与扩展，并详细阐述了其关键机制（如通信协议、任务分配与资源管理）及原型实现。其核心价值在于为构建灵活、可扩展的通用AI代理系统提供了理论框架和实证基础，有望推动代理技术在复杂现实场景中的应用。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-17T12:16:45.393560+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260617-006",
+  "title": "Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.17269",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-17T12:15:25.902091+00:00",
+  "collected_at": "2026-06-17T12:15:25.902091+00:00",
+  "summary": "该论文提出了一种基于技能约束的模型预测控制方法，用于提升制造供应链的韧性。通过将工人技能作为约束条件，该方法能够在动态环境中优化生产调度和资源分配，从而有效应对供应链中断等不确定性。其核心价值在于将人工智能与运筹学结合，为制造业提供了一种实用的韧性增强方案。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-17T12:16:45.393545+00:00"
+}

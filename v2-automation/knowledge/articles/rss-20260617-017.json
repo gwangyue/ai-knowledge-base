@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260617-017",
+  "title": "Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.17459",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-17T12:15:25.902140+00:00",
+  "collected_at": "2026-06-17T12:15:25.902140+00:00",
+  "summary": "该论文通过多角色智能体模拟，评估大型语言模型（LLMs）在战略资源重新分配任务中的表现，探讨其作为CEO的潜力。核心价值在于为LLMs在复杂决策场景中的应用提供了基准测试方法，揭示了当前模型在战略规划方面的能力与局限。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-17T12:16:45.393582+00:00"
+}

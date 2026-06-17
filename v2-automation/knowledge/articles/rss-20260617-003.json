@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260617-003",
+  "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.17209",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-17T12:15:25.902046+00:00",
+  "collected_at": "2026-06-17T12:15:25.902046+00:00",
+  "summary": "本文提出了一种超越传统并行采样的方法，通过多样化的查询初始化来增强智能体搜索的效率。该方法旨在解决智能体搜索中查询多样性不足的问题，从而提升搜索覆盖率和结果质量。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-17T12:16:45.393534+00:00"
+}
