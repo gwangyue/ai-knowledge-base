@@ -1,0 +1,19 @@
+{
+  "id": "github-20260618-020",
+  "title": "DietrichGebert/ponytail",
+  "source": "github",
+  "source_url": "https://github.com/DietrichGebert/ponytail",
+  "author": "DietrichGebert",
+  "published_at": "2026-06-17T02:35:22Z",
+  "collected_at": "2026-06-18T11:49:56.430603+00:00",
+  "summary": "该项目通过提示工程使AI代理模仿资深开发者的懒惰思维，优先考虑不写代码或最小化代码量，从而提升代码质量和开发效率。其核心价值在于利用LLM的推理能力，引导AI生成更简洁、更高效的解决方案。",
+  "score": 7,
+  "tags": [
+    "prompt-engineering",
+    "code-generation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-18T11:51:15.321194+00:00"
+}
