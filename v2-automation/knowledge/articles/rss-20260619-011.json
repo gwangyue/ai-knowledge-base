@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260619-011",
+  "title": "Emergent Alignment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19527",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T12:05:13.428442+00:00",
+  "collected_at": "2026-06-19T12:05:13.428442+00:00",
+  "summary": "该内容标题为“Emergent Alignment”，可能探讨大语言模型在训练或推理过程中涌现出的对齐特性，即模型自发表现出与人类价值观一致的行为。核心价值在于揭示对齐机制的新视角，对提升AI安全性和可控性具有潜在意义。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-19T12:06:35.236210+00:00"
+}
