@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260622-002",
+  "title": "When I reject AI code even if it works",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-22T13:34:00.425530+00:00",
+  "collected_at": "2026-06-22T13:34:00.425530+00:00",
+  "summary": "本文探讨了开发者拒绝使用AI生成的代码的原因，即使这些代码在功能上是正确的。核心价值在于提醒开发者关注代码的可维护性、可读性和长期质量，而非仅关注功能实现。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-22T13:35:18.417515+00:00"
+}

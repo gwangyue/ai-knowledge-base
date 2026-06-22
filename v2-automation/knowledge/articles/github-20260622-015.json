@@ -1,0 +1,19 @@
+{
+  "id": "github-20260622-015",
+  "title": "headroomlabs-ai/headroom",
+  "source": "github",
+  "source_url": "https://github.com/headroomlabs-ai/headroom",
+  "author": "headroomlabs-ai",
+  "published_at": "2026-06-22T05:57:31Z",
+  "collected_at": "2026-06-22T13:33:59.073260+00:00",
+  "summary": "Headroom 是一个在将工具输出、日志、文件和 RAG 分块发送到 LLM 之前进行压缩的库，可减少 60-95% 的 token 使用量，同时保持答案质量。它提供库、代理和 MCP 服务器三种使用方式，旨在降低 LLM 调用成本并提高效率。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "rag",
+    "mcp"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-22T13:35:18.417495+00:00"
+}
