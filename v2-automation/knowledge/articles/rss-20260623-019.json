@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260623-019",
+  "title": "Hypothesis-Disciplined Multi-Agent Automated Formalization of Asymptotic Statistical Theory",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.20642",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-23T11:15:31.780577+00:00",
+  "collected_at": "2026-06-23T11:15:31.780577+00:00",
+  "summary": "该论文提出了一种假设驱动的多智能体自动化形式化方法，用于渐近统计理论的形式化验证。通过多智能体协作，该方法能够自动将统计理论转化为形式化证明，提高了理论验证的效率和可靠性。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-23T11:16:44.906923+00:00"
+}

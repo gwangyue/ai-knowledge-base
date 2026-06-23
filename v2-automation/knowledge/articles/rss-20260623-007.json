@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260623-007",
+  "title": "Darwin Mobile Agent: A Roadmap for Self-Evolution",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.20622",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-23T11:15:31.780523+00:00",
+  "collected_at": "2026-06-23T11:15:31.780523+00:00",
+  "summary": "该论文提出了Darwin移动智能体，一种能够通过自我进化机制在移动设备上持续改进其行为策略的框架。核心价值在于实现了智能体在真实移动环境中的自适应学习和长期性能提升，为移动端AI应用提供了新的发展路径。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-23T11:16:44.906880+00:00"
+}

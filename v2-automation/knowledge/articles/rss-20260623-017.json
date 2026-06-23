@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260623-017",
+  "title": "RIZZ: Routing Interactions to Near Zero-Interference Zones for Continual Adaptation of Black-Box Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.20638",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-23T11:15:31.780568+00:00",
+  "collected_at": "2026-06-23T11:15:31.780568+00:00",
+  "summary": "该论文提出了一种名为RIZZ的方法，通过将交互路由到近零干扰区域，实现黑盒智能体的持续适应。其核心价值在于在不修改智能体内部参数的情况下，提升其在动态环境中的适应性和鲁棒性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-23T11:16:44.906917+00:00"
+}

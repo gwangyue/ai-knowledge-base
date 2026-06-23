@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260623-003",
+  "title": "Beyond Fixed Budgets: Characterizing the Inelasticity and Limitations of Tree-of-Thought Reasoning Strategies",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.20599",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-23T11:15:31.780493+00:00",
+  "collected_at": "2026-06-23T11:15:31.780493+00:00",
+  "summary": "该论文研究了思维树（Tree-of-Thought）推理策略在预算固定情况下的局限性，揭示了其非弹性特征。通过分析不同推理路径的分配效率，提出了优化推理资源分配的方法，为提升LLM推理性能提供了新视角。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-23T11:16:44.906866+00:00"
+}

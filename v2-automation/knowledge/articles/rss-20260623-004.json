@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260623-004",
+  "title": "The New Associationism: Lessons from Deep Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.20600",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-23T11:15:31.780502+00:00",
+  "collected_at": "2026-06-23T11:15:31.780502+00:00",
+  "summary": "该论文从深度学习的最新进展中提炼出新的关联主义（Associationism）理论框架，探讨了神经网络如何通过分布式表示和端到端学习来模拟认知过程。其核心价值在于为理解深度学习的认知基础提供了理论视角，并可能启发未来AI架构的设计。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-23T11:16:44.906871+00:00"
+}
