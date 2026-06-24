@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260624-012",
+  "title": "ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.24112",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-24T10:48:11.772027+00:00",
+  "collected_at": "2026-06-24T10:48:11.772027+00:00",
+  "summary": "该论文提出了一种名为ReMMD的多语言多图像真实性验证框架，用于多模态虚假信息检测。其核心价值在于通过智能体协作和跨模态验证，提升了多语言环境下多图像内容的真实性判断能力。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-24T10:49:33.902453+00:00"
+}

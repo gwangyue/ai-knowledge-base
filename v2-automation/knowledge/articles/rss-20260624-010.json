@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260624-010",
+  "title": "Beyond Trajectory Imitation: Strategy-Guided Policy Optimization for LLM Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.24064",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-24T10:48:11.772018+00:00",
+  "collected_at": "2026-06-24T10:48:11.772018+00:00",
+  "summary": "该论文提出了一种策略引导的优化方法，旨在超越传统的轨迹模仿学习，提升大型语言模型在推理任务中的表现。通过引入策略引导机制，模型能够更有效地学习推理策略，而非简单模仿示例轨迹，从而在复杂推理场景中取得更优性能。这项工作为LLM推理能力的提升提供了新的思路，具有重要的技术价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-24T10:49:33.902442+00:00"
+}

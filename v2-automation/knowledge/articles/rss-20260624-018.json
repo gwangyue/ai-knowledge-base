@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260624-018",
+  "title": "Data Scale, Not Latency, Shapes Cross-Lingual Encoder Transfer in Streaming ASR",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.24169",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-24T10:48:11.772054+00:00",
+  "collected_at": "2026-06-24T10:48:11.772054+00:00",
+  "summary": "该研究探讨了在流式语音识别（ASR）中，跨语言编码器迁移的关键影响因素。实验表明，数据规模而非延迟是决定迁移效果的主要因素，为多语言ASR系统设计提供了重要指导。",
+  "score": 7,
+  "tags": [
+    "audio",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-24T10:49:33.902470+00:00"
+}

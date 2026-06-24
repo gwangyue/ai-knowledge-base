@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260624-002",
+  "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.23927",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-24T10:48:11.771945+00:00",
+  "collected_at": "2026-06-24T10:48:11.771945+00:00",
+  "summary": "RIFT-Bench 提出了一种针对 AI 代理系统的动态红队测试框架，通过自动化生成对抗性场景来评估系统的安全性和鲁棒性。其核心价值在于弥补了传统静态测试的不足，为代理型 AI 提供了更贴近真实攻击的评估方法。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-24T10:49:33.902414+00:00"
+}

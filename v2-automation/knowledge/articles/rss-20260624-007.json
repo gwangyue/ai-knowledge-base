@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260624-007",
+  "title": "Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.24026",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-24T10:48:11.772004+00:00",
+  "collected_at": "2026-06-24T10:48:11.772004+00:00",
+  "summary": "该研究探讨了语言模型代理在机械可解释性中作为电路解释器的有效性，评估了它们自动生成电路解释的能力。核心价值在于探索AI辅助理解神经网络内部机制的可能性，为可解释性研究提供新工具。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-24T10:49:33.902433+00:00"
+}
