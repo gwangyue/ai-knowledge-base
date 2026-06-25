@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260625-018",
+  "title": "Offline Multi-agent Continual Cooperation via Skill Partition and Reuse",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.25389",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-25T10:40:40.309681+00:00",
+  "collected_at": "2026-06-25T10:40:40.309681+00:00",
+  "summary": "该论文提出了一种通过技能划分与重用的方法，解决离线多智能体持续协作问题。核心价值在于使智能体在非在线交互环境下，仍能通过复用已有技能实现高效协作，拓展了多智能体系统的应用场景。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-25T10:42:00.091492+00:00"
+}

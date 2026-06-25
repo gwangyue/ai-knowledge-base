@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260625-015",
+  "title": "Omni-Perception Policy Optimization for Multimodal Emotion Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.25325",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-25T10:40:40.309664+00:00",
+  "collected_at": "2026-06-25T10:40:40.309664+00:00",
+  "summary": "该论文提出了一种名为Omni-Perception Policy Optimization（OPPO）的方法，用于多模态情感推理。通过优化感知策略，该方法能够有效整合视觉、音频和文本等多模态信息，提升情感识别的准确性和鲁棒性。其核心价值在于为多模态情感分析提供了一种新的优化框架，具有广泛的应用前景。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "audio",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-25T10:42:00.091483+00:00"
+}

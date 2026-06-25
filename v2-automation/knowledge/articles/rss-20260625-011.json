@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260625-011",
+  "title": "Elo-Disentangled Player-Style Embeddings for Human Chess via Rating-Conditioned Residual Move Model",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.25176",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-25T10:40:40.309647+00:00",
+  "collected_at": "2026-06-25T10:40:40.309647+00:00",
+  "summary": "该研究提出了一种基于Elo评分的条件残差走子模型，用于从人类国际象棋对局中解耦并学习玩家的风格嵌入。通过将玩家风格与棋力水平分离，该方法能够更准确地捕捉不同棋手的个性化策略，为棋类AI和人机交互研究提供了新视角。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-25T10:42:00.091465+00:00"
+}
