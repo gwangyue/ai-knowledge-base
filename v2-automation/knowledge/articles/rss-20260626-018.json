@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260626-018",
+  "title": "OpenFinGym: A Verifiable Multi-Task Gym Environment for Evaluating Quant Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.26350",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-26T10:50:03.769618+00:00",
+  "collected_at": "2026-06-26T10:50:03.769618+00:00",
+  "summary": "OpenFinGym 是一个可验证的多任务 Gym 环境，专门用于评估量化交易智能体的性能。它提供了标准化的测试平台，支持多种交易任务，并确保结果的可重复性和可验证性，为量化 AI 研究提供了可靠的基准。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-26T10:51:20.977732+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260626-008",
+  "title": "Refusal Lives Downstream of Persona in Chat Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.26161",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-26T10:50:03.769573+00:00",
+  "collected_at": "2026-06-26T10:50:03.769573+00:00",
+  "summary": "该论文研究了聊天模型中拒绝行为（refusal）与角色设定（persona）之间的关联，发现拒绝机制主要受模型下游层的影响。通过调整角色设定，可以显著改变模型对不安全请求的拒绝模式，为提升AI安全对齐提供了新视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "safety"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-26T10:51:20.977697+00:00"
+}
