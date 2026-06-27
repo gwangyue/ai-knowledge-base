@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260627-014",
+  "title": "We got local models to triage the OpenClaw repo for FREE!*",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/local-models-pr-triage",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-27T10:07:07.674478+00:00",
+  "collected_at": "2026-06-27T10:07:07.674478+00:00",
+  "summary": "本文介绍了如何使用本地模型对OpenClaw仓库进行自动分类，实现了免费且高效的代码库管理。该方法通过本地部署的AI模型，无需外部API即可完成代码审查和分类任务，降低了成本并提高了隐私性。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-27T10:08:18.437833+00:00"
+}
