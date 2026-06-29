@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260629-010",
+  "title": "MER-R1: Multimodal Emotion Reasoning via Slow-Fast Thinking Synergy",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.27652",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-29T12:31:41.035089+00:00",
+  "collected_at": "2026-06-29T12:31:41.035089+00:00",
+  "summary": "MER-R1 提出了一种多模态情感推理方法，通过结合慢速和快速思维协同机制，提升情感理解的准确性和深度。该技术为情感计算领域提供了新的推理框架，具有较高的实用价值。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-29T12:32:58.574794+00:00"
+}

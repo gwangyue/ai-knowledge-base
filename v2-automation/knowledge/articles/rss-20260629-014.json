@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260629-014",
+  "title": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.27806",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-29T12:31:41.035106+00:00",
+  "collected_at": "2026-06-29T12:31:41.035106+00:00",
+  "summary": "该论文提出了一种基于参数化世界模型的迭代语言规划方法，旨在减少LLM代理在任务执行过程中的幻觉传播。通过将世界模型作为约束条件，该方法能够更可靠地生成和修正行动计划，从而提升代理在复杂环境中的表现。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-29T12:32:58.574810+00:00"
+}

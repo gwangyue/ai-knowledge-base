@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260629-016",
+  "title": "NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.27826",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-29T12:31:41.035115+00:00",
+  "collected_at": "2026-06-29T12:31:41.035115+00:00",
+  "summary": "该论文提出了NormAct基准，用于评估具身智能体在规划任务中遵守隐性社会规范的能力。通过构建包含多种社会规范场景的测试集，该基准为衡量AI系统在复杂社会环境中做出符合规范决策的能力提供了标准化评估方法。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-29T12:32:58.574815+00:00"
+}

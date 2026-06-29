@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260629-013",
+  "title": "Understanding Rollout Error in Graph World Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.27780",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-29T12:31:41.035102+00:00",
+  "collected_at": "2026-06-29T12:31:41.035102+00:00",
+  "summary": "该论文探讨了图世界模型中的展开误差问题，分析了在基于图的强化学习环境中，模型预测误差如何随展开步长累积，并提出了缓解策略。其核心价值在于提升图世界模型在长期规划任务中的可靠性和准确性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-29T12:32:58.574803+00:00"
+}
