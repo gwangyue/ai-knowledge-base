@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260630-019",
+  "title": "Tandem Reinforcement Learning with Verifiable Rewards",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.28166",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-30T10:55:43.577724+00:00",
+  "collected_at": "2026-06-30T10:55:43.577724+00:00",
+  "summary": "该论文提出了一种名为Tandem Reinforcement Learning with Verifiable Rewards的强化学习方法，通过结合可验证奖励机制来提升学习效率和稳定性。其核心价值在于为复杂任务提供更可靠的奖励信号，从而改进强化学习的训练效果。",
+  "score": 7,
+  "tags": [
+    "reinforcement-learning",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-30T10:56:59.403073+00:00"
+}
