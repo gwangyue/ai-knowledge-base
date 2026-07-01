@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260701-003",
+  "title": "Contrastive Reflection for Iterative Prompt Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.30840",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T11:22:03.335919+00:00",
+  "collected_at": "2026-07-01T11:22:03.335919+00:00",
+  "summary": "该论文提出了一种名为对比反思的迭代提示优化方法，通过对比不同提示的生成结果来引导提示的改进。该方法旨在提升大型语言模型在特定任务上的表现，具有实用价值。",
+  "score": 7,
+  "tags": [
+    "prompt-engineering",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-01T11:23:16.512956+00:00"
+}

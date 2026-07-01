@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260701-013",
+  "title": "HyPOLE: Hyperproperty-Guided Multi-Agent Reinforcement Learning under Partial Observation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.30966",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T11:22:03.335976+00:00",
+  "collected_at": "2026-07-01T11:22:03.335976+00:00",
+  "summary": "本文提出了一种名为HyPOLE的框架，用于在部分可观测环境下进行超属性引导的多智能体强化学习。该方法通过利用超属性（hyperproperties）来指导智能体的学习过程，从而在信息不完全的情况下提升协作性能。该研究为多智能体系统在复杂环境中的决策提供了新的理论支持和实践方案。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reinforcement-learning",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-01T11:23:16.512990+00:00"
+}

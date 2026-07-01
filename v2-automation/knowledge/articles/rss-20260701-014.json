@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260701-014",
+  "title": "AgentBound: Verifiable Behavioral Governance for Autonomous AI Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.30970",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T11:22:03.335980+00:00",
+  "collected_at": "2026-07-01T11:22:03.335980+00:00",
+  "summary": "该论文提出AgentBound框架，旨在为自主AI代理提供可验证的行为治理机制，通过形式化方法确保代理行为符合预设规则。其核心价值在于增强AI系统的可信度与安全性，尤其适用于需要严格合规性的应用场景。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-01T11:23:16.512993+00:00"
+}

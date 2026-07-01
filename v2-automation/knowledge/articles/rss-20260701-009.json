@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260701-009",
+  "title": "Why Solve It Twice? Hierarchical Accumulation of Skills for Transfer-Efficient ML Engineering",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.30911",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T11:22:03.335959+00:00",
+  "collected_at": "2026-07-01T11:22:03.335959+00:00",
+  "summary": "该论文提出了一种层次化技能积累方法，旨在通过复用先前学到的技能来减少机器学习工程中的重复工作，从而提高迁移效率。其核心价值在于提供一种系统化的框架，使得在不同任务间迁移时无需从头开始训练，显著降低计算成本和时间开销。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-01T11:23:16.512975+00:00"
+}

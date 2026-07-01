@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260701-015",
+  "title": "When Regulation Has Memory: Hysteresis and Control Burden in Artificial Agency",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.30975",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T11:22:03.335985+00:00",
+  "collected_at": "2026-07-01T11:22:03.335985+00:00",
+  "summary": "该论文探讨了人工智能代理监管中的滞后效应与控制负担问题，指出监管措施可能因历史状态而产生记忆性，从而影响代理行为。研究为设计更有效的AI监管机制提供了理论框架。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-01T11:23:16.512996+00:00"
+}
