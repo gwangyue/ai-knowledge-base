@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260702-016",
+  "title": "Agri-SAGE: Simulation-Grounded Multi-Agent LLM for Context-Aware Agricultural Advisory Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.00454",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-02T10:37:43.319549+00:00",
+  "collected_at": "2026-07-02T10:37:43.319549+00:00",
+  "summary": "Agri-SAGE 提出了一种基于模拟的多智能体 LLM 框架，用于生成上下文感知的农业咨询。该方法通过模拟农业场景，结合多智能体协作，提升了 LLM 在农业领域生成建议的准确性和实用性。该研究展示了 LLM 在垂直领域应用中的潜力，特别是在需要专业知识和上下文理解的场景。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-02T10:38:43.892775+00:00"
+}

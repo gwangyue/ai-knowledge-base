@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260702-001",
+  "title": "Godot will no longer accept AI-authored code contributions",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-02T10:37:42.261553+00:00",
+  "collected_at": "2026-07-02T10:37:42.261553+00:00",
+  "summary": "Godot 游戏引擎宣布不再接受由 AI 生成的代码贡献，主要出于版权和代码质量方面的担忧。这一决定反映了开源社区对 AI 生成内容的法律和伦理问题的关注。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-02T10:38:43.892702+00:00"
+}
