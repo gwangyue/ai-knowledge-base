@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260703-014",
+  "title": "Revisiting Chain-of-Thought Reasoning under Limited Supervision: Semi-supervised Chain-of-Thought Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.01511",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-03T10:34:04.777182+00:00",
+  "collected_at": "2026-07-03T10:34:04.777182+00:00",
+  "summary": "该论文探讨了在有限监督条件下如何改进链式思维推理，提出了一种半监督链式思维学习方法。其核心价值在于通过利用未标注数据来增强模型的推理能力，从而减少对大量人工标注的依赖。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-03T10:35:23.177359+00:00"
+}

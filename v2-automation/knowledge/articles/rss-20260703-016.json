@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260703-016",
+  "title": "Scaling Trends for Lie Detector Oversight in Preference Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.01567",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-03T10:34:04.777193+00:00",
+  "collected_at": "2026-07-03T10:34:04.777193+00:00",
+  "summary": "该论文探讨了在偏好学习中使用测谎器监督的扩展趋势，提出了一种通过检测模型输出中的不诚实行为来提升对齐效果的方法。核心价值在于为AI安全提供了一种可扩展的监督机制，有助于减少模型在训练中的欺骗性行为。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-03T10:35:23.177366+00:00"
+}
