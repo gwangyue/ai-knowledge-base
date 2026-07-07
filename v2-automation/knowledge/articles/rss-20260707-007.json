@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260707-007",
+  "title": "SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.02807",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T10:53:58.455378+00:00",
+  "collected_at": "2026-07-07T10:53:58.455378+00:00",
+  "summary": "SwarmResearch 提出了一种通过编排多个编码代理实现开放式科学发现的技术框架，核心价值在于利用多代理协作自动探索未知问题空间。该方法通过动态任务分配与代码生成，显著提升了复杂研究任务的自动化水平。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "code-generation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-07T10:55:06.003406+00:00"
+}

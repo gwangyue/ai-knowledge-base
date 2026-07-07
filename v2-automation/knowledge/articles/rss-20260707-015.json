@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260707-015",
+  "title": "Beyond Forecasting: The Belief-to-Trade Layer in Prediction-Market Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.03015",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T10:53:58.455417+00:00",
+  "collected_at": "2026-07-07T10:53:58.455417+00:00",
+  "summary": "该论文提出了一种超越传统预测市场预测功能的新方法，通过引入信念到交易层，使智能体能够基于信念进行交易决策。核心价值在于将预测市场从单纯的预测工具转变为智能体进行信念表达和交易的动态平台。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-07T10:55:06.003452+00:00"
+}

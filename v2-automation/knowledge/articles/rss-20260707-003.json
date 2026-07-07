@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260707-003",
+  "title": "iFLYTEK-Embodied-Omni Technical Report",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.02542",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T10:53:58.455325+00:00",
+  "collected_at": "2026-07-07T10:53:58.455325+00:00",
+  "summary": "该技术报告介绍了iFLYTEK在具身智能领域的全模态技术方案，融合了视觉、语音、触觉等多种感知模态，旨在提升机器人在复杂环境中的交互与操作能力。报告展示了其在多模态融合、实时推理和任务执行方面的创新，为具身智能研究提供了有价值的参考。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "audio",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-07T10:55:06.003388+00:00"
+}

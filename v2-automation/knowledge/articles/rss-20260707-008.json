@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260707-008",
+  "title": "Object-Centric Environment Modeling for Agentic Tasks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.02846",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T10:53:58.455383+00:00",
+  "collected_at": "2026-07-07T10:53:58.455383+00:00",
+  "summary": "该论文提出了一种以对象为中心的智能体任务环境建模方法，通过将环境分解为独立的对象表示来提升智能体在复杂场景中的推理和操作能力。其核心价值在于为具身智能体提供更结构化的环境理解，从而支持更高效的任务规划与执行。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-07T10:55:06.003409+00:00"
+}

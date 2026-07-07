@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260707-013",
+  "title": "Evaluating Generative Agents with Actions Grounded in Socially Distributed Task Environments using Incognita",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.02975",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T10:53:58.455408+00:00",
+  "collected_at": "2026-07-07T10:53:58.455408+00:00",
+  "summary": "该论文提出了一种名为Incognita的评估框架，用于测试生成式智能体在社交分布式任务环境中的行动能力。通过将智能体置于需要协作和任务分配的社会环境中，该研究为评估智能体的社会智能和任务执行能力提供了新方法。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-07T10:55:06.003445+00:00"
+}
