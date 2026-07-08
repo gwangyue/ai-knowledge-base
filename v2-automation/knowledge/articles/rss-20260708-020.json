@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260708-020",
+  "title": "StateFuse: Deterministic Conflict-Preserving Memory for Multi-Agent Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.05844",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-08T10:15:54.149546+00:00",
+  "collected_at": "2026-07-08T10:15:54.149546+00:00",
+  "summary": "StateFuse 提出了一种确定性冲突保留内存机制，用于多智能体系统，确保在分布式环境中内存操作的一致性和冲突解决。该技术通过保留冲突历史来增强系统的可靠性和可调试性，对构建健壮的多智能体协作系统具有重要价值。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "memory"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-08T10:17:11.680093+00:00"
+}

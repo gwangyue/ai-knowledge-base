@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260708-011",
+  "title": "Akashic: A Low-Overhead LLM Inference Service with MemAttention",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.05708",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-08T10:15:54.149500+00:00",
+  "collected_at": "2026-07-08T10:15:54.149500+00:00",
+  "summary": "Akashic 提出了一种名为 MemAttention 的低开销 LLM 推理服务方法，旨在优化大语言模型在推理过程中的内存使用和计算效率。该技术通过减少注意力机制中的冗余计算，显著降低了推理延迟和资源消耗，为大规模部署 LLM 提供了更经济的解决方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T10:17:11.680065+00:00"
+}

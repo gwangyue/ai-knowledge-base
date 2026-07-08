@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260708-007",
+  "title": "Foundation Models for Automatic CAD Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.05573",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-08T10:15:54.149480+00:00",
+  "collected_at": "2026-07-08T10:15:54.149480+00:00",
+  "summary": "该论文探讨了利用基础模型（如大语言模型）自动生成计算机辅助设计（CAD）模型的方法，旨在简化设计流程并提升效率。核心价值在于将AI生成能力扩展到工程和设计领域，实现从文本或图像到CAD模型的端到端生成。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "vision",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T10:17:11.680045+00:00"
+}
