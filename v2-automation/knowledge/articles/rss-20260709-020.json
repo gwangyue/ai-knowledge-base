@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260709-020",
+  "title": "Agentic Data Environments",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07397",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-09T10:52:50.884869+00:00",
+  "collected_at": "2026-07-09T10:52:50.884869+00:00",
+  "summary": "Agentic Data Environments 提出了一种基于智能体的数据环境框架，通过自主代理动态管理和处理数据，提升数据分析和决策效率。该技术结合了多智能体协作与数据管道优化，为复杂数据任务提供了可扩展的解决方案。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-09T10:54:08.869823+00:00"
+}

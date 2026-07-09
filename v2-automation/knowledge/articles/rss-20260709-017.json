@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260709-017",
+  "title": "From Atomic Actions to Standard Operating Procedures: Iterative Tool Optimization for Self-Evolving LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07321",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-09T10:52:50.884856+00:00",
+  "collected_at": "2026-07-09T10:52:50.884856+00:00",
+  "summary": "该论文提出了一种迭代工具优化方法，使LLM智能体能够从原子动作逐步构建标准操作程序（SOP），从而实现自我进化。核心价值在于通过自动化的工具优化流程，提升智能体在复杂任务中的表现和适应性。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "llm",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-09T10:54:08.869814+00:00"
+}

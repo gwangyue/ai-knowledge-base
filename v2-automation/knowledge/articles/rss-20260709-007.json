@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260709-007",
+  "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.06764",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-09T10:52:50.884812+00:00",
+  "collected_at": "2026-07-09T10:52:50.884812+00:00",
+  "summary": "该论文提出了一种成本效益高的智能体框架，用于在ARC-AGI-1基准上实现抽象推理和泛化能力。通过优化智能体架构和资源利用，该方法在保持高性能的同时显著降低了计算成本，为通用人工智能的推理研究提供了实用方案。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-09T10:54:08.869780+00:00"
+}
