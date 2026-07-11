@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260711-010",
+  "title": "Infinity-Parser2 Technical Report",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07836",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T09:27:44.347405+00:00",
+  "collected_at": "2026-07-11T09:27:44.347405+00:00",
+  "summary": "Infinity-Parser2 技术报告介绍了一种新型解析器，旨在提升 AI 系统对复杂文档的解析效率与准确性。该技术通过优化解析流程，为 RAG 等应用提供了更可靠的数据预处理方案。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T09:28:59.218453+00:00"
+}

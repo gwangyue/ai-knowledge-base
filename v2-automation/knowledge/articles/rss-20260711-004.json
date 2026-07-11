@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260711-004",
+  "title": "Context Graphs for Proactive Enterprise Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07721",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T09:27:44.347348+00:00",
+  "collected_at": "2026-07-11T09:27:44.347348+00:00",
+  "summary": "该论文提出了一种基于上下文图谱（Context Graphs）的方法，用于构建主动型企业智能体。通过将企业环境中的实体、关系和动态信息组织成图谱，智能体能够主动感知和推理上下文，从而更有效地执行任务和提供决策支持。该方法旨在提升企业智能体的自主性和响应能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T09:28:59.218433+00:00"
+}

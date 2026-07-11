@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260711-015",
+  "title": "Nigeria Machinery: A Low-Resource Industrial Dataset with a Domain-Grounded Reasoning Layer",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07883",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T09:27:44.347428+00:00",
+  "collected_at": "2026-07-11T09:27:44.347428+00:00",
+  "summary": "该论文提出了一个名为Nigeria Machinery的低资源工业数据集，并引入了基于领域知识的推理层。该数据集旨在解决工业场景中数据稀缺的问题，通过领域特定的推理机制提升模型在低资源条件下的性能。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T09:28:59.218466+00:00"
+}
