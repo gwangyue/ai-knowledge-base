@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260712-012",
+  "title": "PRX Part 4: Our Data Strategy",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-12T09:49:33.767072+00:00",
+  "collected_at": "2026-07-12T09:49:33.767072+00:00",
+  "summary": "该内容介绍了Hugging Face的数据策略，包括数据收集、管理和使用的方法，旨在支持AI模型的训练和优化。其核心价值在于提供可扩展的数据基础设施，以提升模型性能和可靠性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-12T09:50:53.876013+00:00"
+}
