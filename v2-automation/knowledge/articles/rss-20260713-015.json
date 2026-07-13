@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260713-015",
+  "title": "KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09153",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-13T11:09:00.167026+00:00",
+  "collected_at": "2026-07-13T11:09:00.167026+00:00",
+  "summary": "该论文提出KV-PRM，一种通过KV缓存传输实现高效过程奖励建模的方法，旨在解决多智能体测试时扩展中的计算效率问题。核心价值在于利用缓存机制减少重复计算，从而提升多智能体系统在推理阶段的性能。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-13T11:10:18.064974+00:00"
+}

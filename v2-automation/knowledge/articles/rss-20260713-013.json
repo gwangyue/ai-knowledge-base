@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260713-013",
+  "title": "L-MAD: A Systematic Evaluation of Multi-Agent Debate Structures in Legal Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09099",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-13T11:09:00.167019+00:00",
+  "collected_at": "2026-07-13T11:09:00.167019+00:00",
+  "summary": "该论文系统评估了多智能体辩论结构在法律推理任务中的有效性，比较了不同辩论拓扑和交互策略对推理质量的影响。研究为构建更可靠的法律AI系统提供了实证指导，展示了多智能体协作在复杂推理场景中的潜力。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T11:10:18.064969+00:00"
+}

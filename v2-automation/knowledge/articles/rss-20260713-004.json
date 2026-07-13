@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260713-004",
+  "title": "Stop Telling Me to Ask an LLM",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-13T11:08:59.093190+00:00",
+  "collected_at": "2026-07-13T11:08:59.093190+00:00",
+  "summary": "这篇文章批评了当前AI社区中过度依赖LLM（大语言模型）作为万能解决方案的趋势，强调需要更谨慎地评估其适用场景和局限性。核心价值在于提醒开发者避免盲目跟风，应基于具体问题选择合适的技术方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T11:10:18.064944+00:00"
+}
