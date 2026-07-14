@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260714-018",
+  "title": "A Theory of Least Autonomy in AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09744",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-14T09:56:35.177308+00:00",
+  "collected_at": "2026-07-14T09:56:35.177308+00:00",
+  "summary": "该论文提出了一种名为“最小自主性理论”的框架，用于定义和量化AI系统的自主性水平。该理论为评估AI系统的自主决策能力提供了理论基础，有助于指导AI系统的设计和监管。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-14T09:57:41.524708+00:00"
+}

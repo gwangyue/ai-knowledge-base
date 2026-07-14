@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260714-019",
+  "title": "SupplyNetPy: An Open-Source Python Library for High-Fidelity Modeling and Simulation of Arbitrary Supply Chain and Inventory Networks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09745",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-14T09:56:35.177312+00:00",
+  "collected_at": "2026-07-14T09:56:35.177312+00:00",
+  "summary": "SupplyNetPy 是一个开源的 Python 库，用于对任意供应链和库存网络进行高保真建模与仿真。它提供了灵活的建模工具，支持复杂网络拓扑和动态策略模拟，有助于优化供应链管理决策。",
+  "score": 7,
+  "tags": [
+    "tool-use",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-14T09:57:41.524711+00:00"
+}
