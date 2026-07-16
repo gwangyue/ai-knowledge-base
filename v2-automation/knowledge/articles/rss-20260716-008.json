@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260716-008",
+  "title": "Improving Molecular Property Prediction in Small Language Models Using Graph-based Tools",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13115",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:07:10.360716+00:00",
+  "collected_at": "2026-07-16T10:07:10.360716+00:00",
+  "summary": "该研究探讨了如何利用基于图的工具来提升小型语言模型在分子性质预测任务中的性能。核心价值在于提出了一种结合图神经网络与语言模型的方法，以在资源受限的情况下实现更准确的分子性质预测。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:08:07.753539+00:00"
+}
