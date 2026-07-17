@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260717-001",
+  "title": "LM Studio Bionic: the AI agent for open models",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-17T09:55:12.309762+00:00",
+  "collected_at": "2026-07-17T09:55:12.309762+00:00",
+  "summary": "LM Studio Bionic 是一个针对开放模型的 AI 代理框架，旨在简化模型部署和交互。它可能提供工具集成或自动化能力，以提升开放模型在本地或云端的实用性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-17T09:56:25.668404+00:00"
+}
