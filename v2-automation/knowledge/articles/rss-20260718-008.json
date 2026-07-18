@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260718-008",
+  "title": "Newer Models, Same Advantage",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-18T09:23:33.543151+00:00",
+  "collected_at": "2026-07-18T09:23:33.543151+00:00",
+  "summary": "本文探讨了新一代AI模型在保持传统优势的同时，如何通过优化架构和训练方法进一步提升性能。核心价值在于揭示了模型演进中持续存在的关键优势，为开发者提供了选择和改进模型的参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-18T09:24:43.738874+00:00"
+}

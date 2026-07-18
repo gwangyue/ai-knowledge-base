@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260718-010",
+  "title": "What building Shippy taught us about building agents",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-18T09:23:33.543167+00:00",
+  "collected_at": "2026-07-18T09:23:33.543167+00:00",
+  "summary": "本文分享了构建Shippy智能体过程中的经验教训，重点讨论了智能体设计中的实用技巧和常见陷阱。内容对于理解如何构建可靠、高效的AI智能体具有参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-18T09:24:43.738880+00:00"
+}
