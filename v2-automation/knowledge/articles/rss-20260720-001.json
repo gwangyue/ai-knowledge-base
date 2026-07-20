@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260720-001",
+  "title": "AI advice made people less accurate but more confident – sudy",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-20T10:50:21.499094+00:00",
+  "collected_at": "2026-07-20T10:50:21.499094+00:00",
+  "summary": "该研究探讨了AI建议对人类决策准确性和自信度的影响，发现AI建议虽然降低了用户的准确性，但显著提升了他们的自信度。这揭示了AI辅助决策中可能存在的认知偏差风险，对设计人机协作系统具有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-20T10:51:31.521512+00:00"
+}

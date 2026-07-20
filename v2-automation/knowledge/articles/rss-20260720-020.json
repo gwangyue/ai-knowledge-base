@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260720-020",
+  "title": "Neuro-Symbolic AI for LEED compliance: Document-Centric Benchmarking, Deterministic Numeric Checking, and When Multimodal Hurts",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.15647",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-20T10:50:22.507582+00:00",
+  "collected_at": "2026-07-20T10:50:22.507582+00:00",
+  "summary": "该论文提出了一种神经符号AI方法，用于LEED合规性文档的基准测试和确定性数值检查，并探讨了多模态技术在此场景下的局限性。核心价值在于结合符号推理与神经网络，提升建筑合规性审核的准确性和可解释性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-20T10:51:31.521568+00:00"
+}

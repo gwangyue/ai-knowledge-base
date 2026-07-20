@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260720-015",
+  "title": "From Black Box to Executable Logic: Explainable Reinforcement Learning through Prolog Expert Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.15459",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-20T10:50:22.507520+00:00",
+  "collected_at": "2026-07-20T10:50:22.507520+00:00",
+  "summary": "该论文提出了一种将强化学习黑盒模型转化为可解释的Prolog专家系统的方法，通过符号逻辑规则实现决策过程透明化。核心价值在于平衡了强化学习的性能与可解释性，适用于需要高可靠性的决策场景。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-20T10:51:31.521555+00:00"
+}

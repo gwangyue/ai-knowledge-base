@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-010",
+  "title": "AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.15367",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-20T10:50:22.507439+00:00",
+  "collected_at": "2026-07-20T10:50:22.507439+00:00",
+  "summary": "AnovaX 是一个本地化的多智能体语音助手，利用大语言模型进行任务规划，通过类型化执行器执行具体操作，并具备自适应恢复能力以处理错误。该技术展示了如何将 LLM 的推理能力与模块化、可恢复的语音交互系统相结合，为本地化 AI 助手提供了新的架构思路。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "audio"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-20T10:51:31.521539+00:00"
+}

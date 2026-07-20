@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260720-002",
+  "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-20T10:50:21.499123+00:00",
+  "collected_at": "2026-07-20T10:50:21.499123+00:00",
+  "summary": "Moonshot AI 因 Kimi K3 需求激增而暂停新订阅，表明该模型在用户中受到高度欢迎。这一事件反映了 AI 模型在满足大规模需求时面临的扩展挑战。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-20T10:51:31.521527+00:00"
+}
