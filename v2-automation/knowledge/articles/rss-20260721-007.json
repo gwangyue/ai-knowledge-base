@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260721-007",
+  "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.16196",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-21T10:24:10.284303+00:00",
+  "collected_at": "2026-07-21T10:24:10.284303+00:00",
+  "summary": "本文提出并验证了一种轻量级一维卷积神经网络（1D CNN），用于在软毛绒伴侣机器人中实现情感触觉分类。该模型在保持高分类精度的同时显著降低了计算复杂度，适用于资源受限的嵌入式系统。研究通过实验验证了模型的有效性，为社交机器人中的触觉交互提供了高效解决方案。",
+  "score": 7,
+  "tags": [
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T10:25:20.669097+00:00"
+}

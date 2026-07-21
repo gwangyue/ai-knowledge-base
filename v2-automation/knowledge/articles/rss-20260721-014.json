@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260721-014",
+  "title": "Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.16204",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-21T10:24:10.284346+00:00",
+  "collected_at": "2026-07-21T10:24:10.284346+00:00",
+  "summary": "该论文提出了一种基于掩码扩散语言模型的文本世界模型，用于强化学习中的智能体训练。该方法通过生成可控的文本环境模拟，提升了智能体的决策能力和泛化性能。核心价值在于将扩散模型与强化学习结合，实现了强且可引导的文本世界建模。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T10:25:20.669123+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260721-006",
+  "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.16195",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-21T10:24:10.284247+00:00",
+  "collected_at": "2026-07-21T10:24:10.284247+00:00",
+  "summary": "该论文提出了一种审计框架，用于检测和量化RLHF偏好数据中标注者状态偏差（如疲劳、情绪等）对模型训练的影响。通过系统性分析偏差来源和影响机制，为构建更可靠的偏好数据集提供了方法论指导。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T10:25:20.669089+00:00"
+}

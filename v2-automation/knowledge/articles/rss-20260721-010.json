@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260721-010",
+  "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.16199",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-21T10:24:10.284324+00:00",
+  "collected_at": "2026-07-21T10:24:10.284324+00:00",
+  "summary": "本文提出了一种针对多智能体LLM系统的攻击方法PlanFlip，通过在规划阶段注入恶意提示来操纵系统行为。该研究揭示了多智能体协作中的安全漏洞，对提升AI系统鲁棒性具有重要价值。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "security",
+    "prompt-engineering"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-21T10:25:20.669107+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260721-015",
+  "title": "It Takes 8 Tokens: Weak-to-Strong Off-Policy RL via Auxiliary Branches",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.16205",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-21T10:24:10.284350+00:00",
+  "collected_at": "2026-07-21T10:24:10.284350+00:00",
+  "summary": "该论文提出了一种通过辅助分支实现弱到强离线强化学习的方法，仅需8个token即可显著提升模型性能。核心价值在于提供了一种高效、低成本的强化学习策略，适用于现有模型的快速优化。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-21T10:25:20.669126+00:00"
+}

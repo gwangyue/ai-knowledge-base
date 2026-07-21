@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260721-013",
+  "title": "Democratizing AI with Small Language Models: Structured Benchmarking and Parameter-Efficient Fine-Tuning for Local Deployment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.16202",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-21T10:24:10.284339+00:00",
+  "collected_at": "2026-07-21T10:24:10.284339+00:00",
+  "summary": "本文探讨了通过结构化基准测试和参数高效微调方法，使小型语言模型能够在本地部署中实现AI民主化。核心价值在于降低AI应用门槛，推动小型模型在资源受限环境中的高效利用。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T10:25:20.669120+00:00"
+}
