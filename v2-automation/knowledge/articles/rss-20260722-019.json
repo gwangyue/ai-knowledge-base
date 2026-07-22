@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260722-019",
+  "title": "FindStatBench: Evaluating Large Language Models on Combinatorial Code Synthesis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.18260",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-22T10:23:51.493461+00:00",
+  "collected_at": "2026-07-22T10:23:51.493461+00:00",
+  "summary": "该论文提出了FindStatBench，一个用于评估大型语言模型在组合代码合成任务上的基准测试。它通过设计需要组合多个代码片段的复杂问题，来测试模型在代码生成中的组合推理能力，为评估LLM的代码合成性能提供了新的视角。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-22T10:25:01.954515+00:00"
+}

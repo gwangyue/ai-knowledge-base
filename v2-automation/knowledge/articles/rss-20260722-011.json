@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260722-011",
+  "title": "Integro-differential equations in angular stabilization of drone motion by distributed feedback control",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.18251",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-22T10:23:51.493423+00:00",
+  "collected_at": "2026-07-22T10:23:51.493423+00:00",
+  "summary": "该论文提出了一种基于分布反馈控制的积分微分方程方法，用于无人机运动的角稳定。该方法通过数学建模和反馈机制，增强了无人机在复杂环境下的姿态控制精度和鲁棒性。研究为无人机自主飞行控制提供了新的理论支持。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-22T10:25:01.954491+00:00"
+}
