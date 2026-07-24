@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260724-016",
+  "title": "Robust Critics: Defending LLMs Against Multi-Turn Attacks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.20472",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-24T10:14:42.188012+00:00",
+  "collected_at": "2026-07-24T10:14:42.188012+00:00",
+  "summary": "本文提出了一种名为'Robust Critics'的方法，旨在防御大型语言模型（LLMs）在多轮对话中遭受的对抗性攻击。该方法通过引入一个批评模型来检测和阻止恶意输入，从而增强LLM的安全性和鲁棒性。核心价值在于为多轮交互场景下的LLM安全提供了一种有效的防御机制。",
+  "score": 7,
+  "tags": [
+    "security",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-24T10:15:47.646958+00:00"
+}

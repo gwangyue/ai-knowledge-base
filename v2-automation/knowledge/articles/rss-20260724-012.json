@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260724-012",
+  "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.20468",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-24T10:14:42.188000+00:00",
+  "collected_at": "2026-07-24T10:14:42.188000+00:00",
+  "summary": "InferenceBench 是一个用于评估 AI 代理在开放式 LLM 推理优化任务中性能的基准测试。它旨在衡量代理如何自动优化 LLM 的推理过程，包括提示工程、模型选择和参数调整等。该基准为研究自动化推理优化提供了标准化的评估框架。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-24T10:15:47.646946+00:00"
+}

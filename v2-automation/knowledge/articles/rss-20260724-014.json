@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260724-014",
+  "title": "PlanE: Meta Planning of Data, Tuning, and Inference for Extractive-based LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.20470",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-24T10:14:42.188006+00:00",
+  "collected_at": "2026-07-24T10:14:42.188006+00:00",
+  "summary": "PlanE 提出了一种元规划框架，用于协调基于抽取式大语言模型的数据、微调和推理过程，以优化整体性能。其核心价值在于通过系统化的规划方法，提升 LLM 在抽取任务中的效率和准确性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-24T10:15:47.646953+00:00"
+}

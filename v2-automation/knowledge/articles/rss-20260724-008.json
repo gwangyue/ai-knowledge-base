@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260724-008",
+  "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.20463",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-24T10:14:42.187988+00:00",
+  "collected_at": "2026-07-24T10:14:42.187988+00:00",
+  "summary": "该论文提出了一种名为ClickGuard的方法，用于检测和破坏点击诱饵新闻。它利用信息量度量和大型语言模型（LLMs）来识别并生成对抗性内容，以中和点击诱饵的误导性。核心价值在于提供了一种自动化工具，帮助用户免受低质量新闻的干扰，并提升了信息消费的质量。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-24T10:15:47.646937+00:00"
+}
