@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260727-009",
+  "title": "AgentKVShift: Efficient KV Cache Reuse for Agentic Memory Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.21604",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-27T11:18:33.778090+00:00",
+  "collected_at": "2026-07-27T11:18:33.778090+00:00",
+  "summary": "该论文提出AgentKVShift方法，通过重用键值缓存来提升基于代理的记忆系统的效率，解决了长上下文场景下的计算和存储瓶颈。核心价值在于为代理系统提供了一种高效的内存管理机制，从而支持更复杂的多步推理和交互。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-27T11:19:40.607241+00:00"
+}

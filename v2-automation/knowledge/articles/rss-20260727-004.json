@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260727-004",
+  "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.21596",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-27T11:18:33.778029+00:00",
+  "collected_at": "2026-07-27T11:18:33.778029+00:00",
+  "summary": "FlowEvo提出了一种通过工作流与可执行技能的协同进化来实现AI代理自我进化的框架。该框架允许代理动态优化其工作流程并生成新技能，从而提升在复杂任务中的适应性和性能。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-27T11:19:40.607219+00:00"
+}

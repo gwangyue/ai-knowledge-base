@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260727-006",
+  "title": "Securing Multimodal AI through Internal Information Decomposition",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.21600",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-27T11:18:33.778074+00:00",
+  "collected_at": "2026-07-27T11:18:33.778074+00:00",
+  "summary": "该论文提出了一种通过内部信息分解来增强多模态AI安全性的方法，旨在防止模型在处理图像、文本等多模态数据时泄露敏感信息。其核心价值在于为多模态系统的隐私保护和对抗攻击防御提供了新的技术路径。",
+  "score": 7,
+  "tags": [
+    "security",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-27T11:19:40.607230+00:00"
+}

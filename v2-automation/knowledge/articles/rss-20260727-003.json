@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260727-003",
+  "title": "Open-weight AI is having its Kubernetes moment",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-27T11:18:32.650131+00:00",
+  "collected_at": "2026-07-27T11:18:32.650131+00:00",
+  "summary": "本文探讨了开放权重AI模型（如Llama、Mistral等）正在经历类似Kubernetes在云计算领域的崛起过程，即通过开放标准、社区驱动和灵活部署来推动AI技术的民主化和普及。文章强调了开放权重模型在降低门槛、促进创新和避免供应商锁定方面的核心价值，同时指出其面临的挑战如安全性和治理问题。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "llm",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-27T11:19:40.607215+00:00"
+}

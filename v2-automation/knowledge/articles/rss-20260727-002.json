@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260727-002",
+  "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/slvDev/esp32-ai",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-27T11:18:32.650120+00:00",
+  "collected_at": "2026-07-27T11:18:32.650120+00:00",
+  "summary": "该内容展示了在极低成本微控制器（8美元）上运行一个2890万参数的大语言模型（LLM）的技术实现，核心价值在于证明了LLM在资源受限设备上的可行性，为边缘计算和低成本AI部署提供了新思路。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-27T11:19:40.607211+00:00"
+}
