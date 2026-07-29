@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260729-006",
+  "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24762",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T10:37:03.259528+00:00",
+  "collected_at": "2026-07-29T10:37:03.259528+00:00",
+  "summary": "本文介绍Kernel Forge，一个基于LLM的智能体框架，用于自动生成和优化CUDA内核。该框架通过智能体编排和迭代优化，显著提升了GPU内核开发的效率与性能。核心价值在于将LLM的代码生成能力与CUDA优化技术结合，为高性能计算领域提供自动化解决方案。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "code-generation",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-29T10:38:19.082514+00:00"
+}

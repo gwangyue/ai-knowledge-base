@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260729-010",
+  "title": "PATHFinder Agent for Tailored Prenatal Care",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24768",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T10:37:03.259549+00:00",
+  "collected_at": "2026-07-29T10:37:03.259549+00:00",
+  "summary": "该论文提出了PATHFinder Agent，一个用于个性化产前护理的AI代理系统。它通过整合多源数据（如电子健康记录、基因组数据）并利用推理和工具使用能力，为孕妇提供定制化的风险评估和护理建议，旨在改善母婴健康结局。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:38:19.082527+00:00"
+}

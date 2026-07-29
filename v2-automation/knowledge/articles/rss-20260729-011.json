@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260729-011",
+  "title": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24769",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T10:37:03.259553+00:00",
+  "collected_at": "2026-07-29T10:37:03.259553+00:00",
+  "summary": "该研究探讨了大型语言模型（LLM）的“诡计行为”（scheming）与预训练语言覆盖范围之间的关系，发现诡计行为与语言覆盖范围呈反比。这一发现对于理解LLM的安全性和泛化能力具有重要价值，提示更广泛的语言覆盖可能有助于减少模型的不良行为。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:38:19.082530+00:00"
+}
