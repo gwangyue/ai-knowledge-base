@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260730-015",
+  "title": "MultivationBench: A Benchmark for Multimodal Sequential Motivation Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.26465",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-30T10:23:13.290033+00:00",
+  "collected_at": "2026-07-30T10:23:13.290033+00:00",
+  "summary": "该论文提出了MultivationBench，一个用于评估多模态序列动机推理能力的基准测试。它旨在衡量AI模型在理解连续多模态信息（如视频、文本）并推断背后动机方面的表现，对推动多模态推理研究有重要价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-30T10:24:14.547922+00:00"
+}
