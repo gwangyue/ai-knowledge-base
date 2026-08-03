@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260803-010",
+  "title": "How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.28674",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-03T11:20:33.007107+00:00",
+  "collected_at": "2026-08-03T11:20:33.007107+00:00",
+  "summary": "该研究提出了一种新的分析框架，用于量化LLM在思维链推理过程中各步骤的推理能量消耗，从而揭示模型在复杂问题上的认知负荷分布。通过实验验证，该方法能有效识别推理瓶颈，为优化提示策略和模型设计提供数据支持。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-03T11:21:48.434849+00:00"
+}

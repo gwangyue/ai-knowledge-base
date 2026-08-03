@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260803-008",
+  "title": "Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.28659",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-03T11:20:33.007097+00:00",
+  "collected_at": "2026-08-03T11:20:33.007097+00:00",
+  "summary": "该论文提出了一种结合混合分词与串并行解码的跨域序列推荐方法，通过统一处理不同域的物品表示并优化解码过程，显著提升了推荐性能。其核心价值在于解决了跨域推荐中数据异构性和序列依赖建模的挑战，为推荐系统领域提供了新的技术思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-03T11:21:48.434844+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260803-018",
+  "title": "Model or Harness? An Interaction-Centric Taxonomy for Localizing Agent Failures",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.28802",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-03T11:20:33.007149+00:00",
+  "collected_at": "2026-08-03T11:20:33.007149+00:00",
+  "summary": "该论文提出了一种以交互为中心的故障定位分类法，用于区分AI代理系统中的模型缺陷与框架（harness）缺陷。通过分析代理与环境交互的各个环节，该分类法有助于更精准地诊断和修复代理失败问题，提升代理系统的可靠性和可维护性。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "evaluation",
+    "multi-agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-03T11:21:48.434879+00:00"
+}
