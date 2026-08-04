@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260804-002",
+  "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-04T10:36:55.192253+00:00",
+  "collected_at": "2026-08-04T10:36:55.192253+00:00",
+  "summary": "本文探讨了通过手动重新输入LLM生成的代码来防止认知债务的观点，强调在依赖AI生成代码时保持对代码的深入理解和所有权的重要性。该方法旨在减少因盲目接受AI输出而导致的长期维护问题和知识缺失，提升代码质量和开发者技能。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T10:38:04.140314+00:00"
+}

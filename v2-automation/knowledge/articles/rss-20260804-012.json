@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260804-012",
+  "title": "Motif-Mamba: network motif improved mamba for long-range sequence modeling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00027",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T10:36:56.226352+00:00",
+  "collected_at": "2026-08-04T10:36:56.226352+00:00",
+  "summary": "Motif-Mamba 提出一种将网络基序（network motif）集成到 Mamba 架构中的方法，以增强长序列建模能力。该方法通过利用基序结构改进状态空间模型的表示，在长程依赖任务上表现出色，为序列建模提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T10:38:04.140348+00:00"
+}
