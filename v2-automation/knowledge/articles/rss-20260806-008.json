@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260806-008",
+  "title": "MatrAIx: Simulating the World with 8.3 Billion Persona Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.04205",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-06T10:36:18.555812+00:00",
+  "collected_at": "2026-08-06T10:36:18.555812+00:00",
+  "summary": "该论文提出MatrAIx框架，通过8.3亿个个性化智能体模拟真实世界，每个智能体具备独特行为模式，用于大规模社会模拟和决策分析。其核心价值在于实现高保真度的社会动态建模，为社会科学和AI研究提供新工具。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-06T10:37:31.171074+00:00"
+}

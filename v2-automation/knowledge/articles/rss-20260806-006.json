@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260806-006",
+  "title": "BrainBench: Benchmarking Large Language Models for Comprehensive EEG Understanding",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.04156",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-06T10:36:18.555802+00:00",
+  "collected_at": "2026-08-06T10:36:18.555802+00:00",
+  "summary": "BrainBench 是一个用于评估大型语言模型在脑电图（EEG）理解方面能力的基准测试。该基准测试旨在全面衡量模型对 EEG 数据的解读能力，包括信号分类、异常检测和认知状态推断等任务，为脑机接口和神经科学领域的 AI 应用提供标准化评估工具。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-06T10:37:31.171063+00:00"
+}

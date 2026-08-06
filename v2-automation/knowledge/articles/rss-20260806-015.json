@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260806-015",
+  "title": "CARGO-VL: Counterfactual Arbitration with Risk-Constrained Group Optimization for Vision-Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.04509",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-06T10:36:18.555843+00:00",
+  "collected_at": "2026-08-06T10:36:18.555843+00:00",
+  "summary": "CARGO-VL 提出了一种用于视觉语言模型的反事实仲裁与风险约束组优化方法，旨在提升模型在不确定性下的决策鲁棒性。该方法通过反事实推理和风险约束优化，有效平衡了模型性能与安全风险，为多模态AI系统的可靠部署提供了新思路。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-06T10:37:31.171096+00:00"
+}
