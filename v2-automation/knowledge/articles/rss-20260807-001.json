@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260807-001",
+  "title": "Software development with AI is starting to feel like cooking steak",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-07T08:57:03.237866+00:00",
+  "collected_at": "2026-08-07T08:57:03.237866+00:00",
+  "summary": "本文以烹饪牛排为比喻，探讨了AI辅助软件开发的新范式，强调开发者需要像掌握火候一样掌握AI工具的使用时机与技巧。文章指出，AI并非万能，而是需要开发者具备判断力与经验来引导，从而提升开发效率与代码质量。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "tool-use",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-07T08:58:16.508729+00:00"
+}

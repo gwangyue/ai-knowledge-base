@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260807-019",
+  "title": "TriQua: Reconciling Granularity and Context in Factuality Evaluation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.05228",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-07T08:57:03.988256+00:00",
+  "collected_at": "2026-08-07T08:57:03.988256+00:00",
+  "summary": "TriQua 提出了一种新的事实性评估方法，旨在调和粒度与上下文之间的权衡，通过多粒度评估提升 LLM 生成内容的准确性。该方法在事实性检测任务上表现出色，为评估领域提供了新的思路。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-07T08:58:16.508804+00:00"
+}

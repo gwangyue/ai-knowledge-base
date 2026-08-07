@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260807-011",
+  "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.05204",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-07T08:57:03.988218+00:00",
+  "collected_at": "2026-08-07T08:57:03.988218+00:00",
+  "summary": "SkillTrace 提出了一种针对大型语言模型智能体技能复用过程的多轨迹来源审计框架，通过追踪技能执行的历史轨迹来增强可追溯性和安全性。该工作为智能体系统的可靠部署提供了重要的审计机制，有助于识别和缓解技能复用中的潜在风险。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-07T08:58:16.508777+00:00"
+}

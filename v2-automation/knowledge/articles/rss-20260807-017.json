@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260807-017",
+  "title": "Small Foundation Models of Human Cognition and Behaviour",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.05224",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-07T08:57:03.988246+00:00",
+  "collected_at": "2026-08-07T08:57:03.988246+00:00",
+  "summary": "该论文提出构建小规模基础模型来模拟人类认知与行为，强调在资源受限条件下实现高效建模。其核心价值在于探索轻量级模型在认知科学中的应用，为行为预测提供新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-07T08:58:16.508798+00:00"
+}

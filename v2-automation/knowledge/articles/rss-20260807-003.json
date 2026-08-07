@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260807-003",
+  "title": "Prime Agent: A self-improving RLM agent",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.primeintellect.ai/blog/prime-agent",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-07T08:57:03.237900+00:00",
+  "collected_at": "2026-08-07T08:57:03.237900+00:00",
+  "summary": "Prime Agent 是一个自我改进的强化学习智能体，通过反馈循环持续优化其决策策略。该技术展示了智能体在动态环境中自主学习和适应能力，为构建更自主的AI系统提供了新思路。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-07T08:58:16.508747+00:00"
+}
