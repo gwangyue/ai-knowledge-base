@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260810-017",
+  "title": "Vehicle routing problem using deep reinforcement learning - A case study about truck planning in the industry",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06668",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T09:18:10.892884+00:00",
+  "collected_at": "2026-08-10T09:18:10.892884+00:00",
+  "summary": "该研究探讨了使用深度强化学习解决车辆路径问题（VRP），并针对工业卡车调度场景进行了案例研究。通过将VRP建模为强化学习问题，该方法旨在提高调度效率并降低运输成本，展示了深度强化学习在物流优化中的实际应用价值。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-10T09:19:19.717600+00:00"
+}

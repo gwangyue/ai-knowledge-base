@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260810-005",
+  "title": "ADIAS: Automated Design of Interactive Agentic Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06410",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T09:18:10.892837+00:00",
+  "collected_at": "2026-08-10T09:18:10.892837+00:00",
+  "summary": "ADIAS 提出了一种自动化设计交互式智能体系统的方法，通过优化智能体的架构和交互策略来提升任务完成效率。该研究为智能体系统的自动化构建提供了新思路，具有较高的实用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-10T09:19:19.717566+00:00"
+}

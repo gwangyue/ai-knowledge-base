@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260810-016",
+  "title": "CellWorld: From Gene-Level Reconstruction to Latent Cell Prediction in Spatial Transcriptomics Foundation Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06659",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T09:18:10.892880+00:00",
+  "collected_at": "2026-08-10T09:18:10.892880+00:00",
+  "summary": "该论文提出了CellWorld，一个用于空间转录组学的基础模型，能够从基因级重建到潜在细胞预测，为理解细胞微环境提供了新的计算框架。其核心价值在于将空间转录组数据与深度学习结合，实现了对细胞状态和空间组织的精准建模，有望推动生物医学研究中的细胞功能解析和疾病机制探索。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-10T09:19:19.717598+00:00"
+}

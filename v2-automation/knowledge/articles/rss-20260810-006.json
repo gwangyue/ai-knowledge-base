@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260810-006",
+  "title": "Learning to Predict Middle-Layer Attention in MLLMs for Visual Token Prunin",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06411",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T09:18:10.892843+00:00",
+  "collected_at": "2026-08-10T09:18:10.892843+00:00",
+  "summary": "该论文提出了一种通过预测多模态大语言模型（MLLMs）中间层注意力来剪枝视觉令牌的方法，旨在减少计算开销并提升推理效率。其核心创新在于利用轻量级预测器替代昂贵的注意力计算，实现高效且准确的视觉令牌选择，从而在不显著损失性能的情况下加速MLLMs的推理过程。这项工作为视觉令牌剪枝提供了新的思路，具有实际应用价值。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-10T09:19:19.717569+00:00"
+}
