@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260811-018",
+  "title": "TREAT: Evaluating Access to Formal Knowledge across Equivalent Mathematical Representations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07540",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-11T08:53:21.486371+00:00",
+  "collected_at": "2026-08-11T08:53:21.486371+00:00",
+  "summary": "TREAT 提出了一种评估框架，用于衡量 AI 模型在数学表示形式变化时访问形式知识的能力，强调表示不变性对推理鲁棒性的影响。该工作为数学推理评估提供了新视角，有助于提升模型在多样化表示下的泛化能力。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-11T08:54:20.512758+00:00"
+}

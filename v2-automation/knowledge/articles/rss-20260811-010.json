@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260811-010",
+  "title": "Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07476",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-11T08:53:21.486340+00:00",
+  "collected_at": "2026-08-11T08:53:21.486340+00:00",
+  "summary": "该论文提出了一种基于闭包、可比性和联合可接受性的统一框架，用于结构理论中的确定性化（determinization）问题。该框架整合了多种现有方法，为AI系统中的结构决策提供了理论支撑，具有较高的学术价值和实践指导意义。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-11T08:54:20.512735+00:00"
+}

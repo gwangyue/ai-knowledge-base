@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260811-013",
+  "title": "The Knowing-Saying Gap: When Probes See Errors that Confidence Misses",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07528",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-11T08:53:21.486353+00:00",
+  "collected_at": "2026-08-11T08:53:21.486353+00:00",
+  "summary": "该研究探讨了模型内部表征（探针）与模型自我报告置信度之间的差异，发现探针能检测到模型自身置信度无法反映的错误。这一发现对模型评估和错误检测机制具有重要意义，可能推动更可靠的AI系统开发。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-11T08:54:20.512746+00:00"
+}

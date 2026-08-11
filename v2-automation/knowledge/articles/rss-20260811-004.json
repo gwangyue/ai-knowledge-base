@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260811-004",
+  "title": "Humanising LLM Outputs Is Dumb",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-11T08:53:20.426297+00:00",
+  "collected_at": "2026-08-11T08:53:20.426297+00:00",
+  "summary": "本文批判了过度追求让LLM输出更像人类的行为，认为这忽视了AI技术的本质优势，并可能导致效率降低和误导。文章强调应专注于提升模型的准确性和实用性，而非模仿人类表达风格。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-11T08:54:20.512717+00:00"
+}
