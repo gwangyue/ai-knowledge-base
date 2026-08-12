@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260812-003",
+  "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://stolen-thoughts.com/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-12T09:09:20.282665+00:00",
+  "collected_at": "2026-08-12T09:09:20.282665+00:00",
+  "summary": "该文章探讨了如何从专有LLM API中窃取推理痕迹，揭示了模型在生成答案时暴露内部推理过程的安全漏洞。核心价值在于提高对LLM API安全性的认识，并可能引发对推理过程保护机制的改进。",
+  "score": 8,
+  "tags": [
+    "security",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-12T09:10:25.154025+00:00"
+}
