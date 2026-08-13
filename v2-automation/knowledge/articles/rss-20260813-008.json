@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260813-008",
+  "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.11211",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-13T09:10:13.039173+00:00",
+  "collected_at": "2026-08-13T09:10:13.039173+00:00",
+  "summary": "该论文提出了一种强制结构约简方法，并给出了Conway 99-图存在性的可验证边界。通过算法约束搜索空间，为这一长期未解的图论问题提供了新的计算证据。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-13T09:11:18.759371+00:00"
+}

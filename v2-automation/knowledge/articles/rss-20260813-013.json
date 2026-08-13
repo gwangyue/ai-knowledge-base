@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260813-013",
+  "title": "From Monolithic to Modular: Segment-level Automatic Prompt Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.11219",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-13T09:10:13.039190+00:00",
+  "collected_at": "2026-08-13T09:10:13.039190+00:00",
+  "summary": "该论文提出了一种从整体到模块化的提示词优化方法，通过将提示词分解为多个段落并分别优化，以提升大型语言模型在复杂任务上的表现。这种方法相比传统的整体优化策略，能更精细地调整提示词的各个部分，从而增强模型的推理能力和任务适应性。",
+  "score": 8,
+  "tags": [
+    "prompt-engineering",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-13T09:11:18.759387+00:00"
+}
