@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260815-001",
+  "title": "AI by Hand",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.byhand.ai/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-15T08:26:04.916188+00:00",
+  "collected_at": "2026-08-15T08:26:04.916188+00:00",
+  "summary": "AI by Hand 是一篇来自 Hacker News 的技术文章，可能通过手工或可视化方式深入讲解 AI 核心概念，帮助读者理解底层原理。其价值在于以直观方式呈现复杂技术，适合希望夯实基础的中级学习者。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-15T08:27:11.065713+00:00"
+}

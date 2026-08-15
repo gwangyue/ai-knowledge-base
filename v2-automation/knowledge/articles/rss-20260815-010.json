@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-010",
+  "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12385",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T08:26:05.987532+00:00",
+  "collected_at": "2026-08-15T08:26:05.987532+00:00",
+  "summary": "该论文提出了一种双流Transformer架构，将主要的预填充路径与额外的解码计算解耦，以优化推理效率。通过分离计算流程，该方法有望减少解码阶段的延迟和资源消耗，同时保持模型性能。这项研究为Transformer推理优化提供了新的思路，具有实际部署价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-15T08:27:11.065747+00:00"
+}

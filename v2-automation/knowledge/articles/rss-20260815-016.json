@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-016",
+  "title": "$\\varepsilon$-MemEvo: Adaptive Cross-Task Memory Transfer for LLM Program Evolution",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12522",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T08:26:05.987559+00:00",
+  "collected_at": "2026-08-15T08:26:05.987559+00:00",
+  "summary": "该论文提出了一种名为ε-MemEvo的自适应跨任务记忆迁移方法，用于增强大型语言模型在程序进化任务中的表现。其核心价值在于通过动态调整记忆迁移策略，使模型能够更有效地利用历史任务经验，提升代码生成和程序修复的准确性与效率。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "code-generation",
+    "fine-tuning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-15T08:27:11.065766+00:00"
+}

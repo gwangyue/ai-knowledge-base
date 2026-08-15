@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260815-005",
+  "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12346",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T08:26:05.987506+00:00",
+  "collected_at": "2026-08-15T08:26:05.987506+00:00",
+  "summary": "该论文提出警示，AI对齐社区的研究成果可能被误用于构建审查工具，而非仅用于提升AI安全。作者分析了当前对齐技术（如RLHF、红队测试）的潜在双重用途，并呼吁社区反思其社会影响。该内容对AI治理和伦理具有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-15T08:27:11.065727+00:00"
+}
