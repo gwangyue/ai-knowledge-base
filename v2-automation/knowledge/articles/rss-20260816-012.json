@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260816-012",
+  "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-16T08:26:36.649930+00:00",
+  "collected_at": "2026-08-16T08:26:36.649930+00:00",
+  "summary": "本文探讨了如何降低知识蒸馏（Knowledge Distillation）的计算成本，使其能够在大规模场景下高效运行。文章提出了优化蒸馏流程的方法，旨在减少资源消耗的同时保持模型性能，为实际部署提供了实用指导。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-16T08:27:39.293188+00:00"
+}

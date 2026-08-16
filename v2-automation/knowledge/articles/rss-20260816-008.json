@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260816-008",
+  "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-16T08:26:36.649917+00:00",
+  "collected_at": "2026-08-16T08:26:36.649917+00:00",
+  "summary": "OlmoEarth 推出自定义嵌入导出功能，允许用户从 OlmoEarth Studio 中导出定制化的嵌入向量，用于下游分析任务。该功能旨在简化嵌入生成流程，提升数据处理的灵活性和效率。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-16T08:27:39.293177+00:00"
+}

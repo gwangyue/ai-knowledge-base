@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260816-007",
+  "title": "What We Learned by Reproducing 2,200 papers from ICML",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-16T08:26:36.649914+00:00",
+  "collected_at": "2026-08-16T08:26:36.649914+00:00",
+  "summary": "该文章分享了复现ICML会议2200篇论文的经验，总结了可复现性挑战、常见失败模式及最佳实践，为研究人员提供了宝贵的实践指导。内容具有较高的实用价值，有助于提升AI研究的可复现性和效率。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-16T08:27:39.293175+00:00"
+}
