@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260817-020",
+  "title": "SemPlan: Benchmarking Structured Semantic Planning for LLM-Based Queries over Enterprise Data",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.13612",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-17T08:40:37.772958+00:00",
+  "collected_at": "2026-08-17T08:40:37.772958+00:00",
+  "summary": "SemPlan 提出了一个针对企业数据上基于 LLM 查询的结构化语义规划基准，旨在评估和提升 LLM 在复杂企业数据环境中的规划能力。该工作通过定义结构化语义规划任务，为衡量 LLM 在真实业务场景中的推理和规划性能提供了标准化测试平台，对推动 LLM 在企业级应用中的落地具有重要价值。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T08:41:36.299197+00:00"
+}

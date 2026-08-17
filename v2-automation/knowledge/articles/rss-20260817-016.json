@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260817-016",
+  "title": "Active Perception for Embodied Disambiguation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.13605",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-17T08:40:37.772936+00:00",
+  "collected_at": "2026-08-17T08:40:37.772936+00:00",
+  "summary": "该论文提出了一种主动感知方法，使具身智能体能够通过主动选择视角或动作来消除环境中的歧义，从而提高任务执行的准确性和鲁棒性。核心价值在于将感知与行动紧密结合，为具身智能在复杂动态环境中的决策提供了新思路。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T08:41:36.299184+00:00"
+}
