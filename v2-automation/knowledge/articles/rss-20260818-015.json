@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260818-015",
+  "title": "Position: Certified Correctness in Neural Constraint Reasoning Requires Symbolic Integration",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.14569",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-18T08:34:03.542884+00:00",
+  "collected_at": "2026-08-18T08:34:03.542884+00:00",
+  "summary": "该论文提出，在神经约束推理中实现可认证的正确性需要符号集成，而非仅依赖神经网络。通过结合符号推理与神经方法，可以确保推理结果的正确性，并提高可解释性和可靠性。该工作为神经符号融合提供了新的理论视角和实用框架。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-18T08:35:12.033492+00:00"
+}

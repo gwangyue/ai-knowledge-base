@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260818-009",
+  "title": "When to Communicate: Belief Distributions and KL Divergence for Principled Gating in Multi-Agent RL",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.14559",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-18T08:34:03.542856+00:00",
+  "collected_at": "2026-08-18T08:34:03.542856+00:00",
+  "summary": "该论文提出了一种基于信念分布和KL散度的通信门控机制，用于多智能体强化学习中的通信决策。通过计算智能体信念分布之间的差异，系统能够智能地决定何时进行通信，从而在保持性能的同时减少通信开销。该方法为多智能体系统中的通信策略提供了理论依据和实用框架。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-18T08:35:12.033468+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260818-014",
+  "title": "Position: AI Governance Needs ISO-like Interoperability Protocols, Not Just Laws",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.14568",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-18T08:34:03.542879+00:00",
+  "collected_at": "2026-08-18T08:34:03.542879+00:00",
+  "summary": "本文提出AI治理需要类似ISO的互操作性协议，而不仅仅是法律，以确保不同AI系统间的一致性和兼容性。该观点强调技术标准在治理中的核心作用，为AI治理提供了新的视角。",
+  "score": 7,
+  "tags": [
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-18T08:35:12.033489+00:00"
+}

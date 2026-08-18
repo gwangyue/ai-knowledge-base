@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260818-002",
+  "title": "AI;DR (AI; Didn't Read)",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-18T08:34:02.705637+00:00",
+  "collected_at": "2026-08-18T08:34:02.705637+00:00",
+  "summary": "AI;DR 是一个旨在帮助用户快速理解 AI 相关文章或论文的工具，通过自动生成简洁摘要来节省阅读时间。它利用大语言模型提取关键信息，适合信息过载环境下的高效学习。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "beginner",
+  "status": "review",
+  "updated_at": "2026-08-18T08:35:12.033445+00:00"
+}

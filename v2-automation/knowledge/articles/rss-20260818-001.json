@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260818-001",
+  "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-18T08:34:02.705607+00:00",
+  "collected_at": "2026-08-18T08:34:02.705607+00:00",
+  "summary": "该报道揭露以色列创建虚假智库，意图通过操纵AI聊天机器人的信息源来影响其输出，涉及AI安全与信息完整性议题。此事件凸显了AI系统在对抗性信息操纵下的脆弱性，对AI安全研究具有警示价值。",
+  "score": 7,
+  "tags": [
+    "security",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-18T08:35:12.033425+00:00"
+}
