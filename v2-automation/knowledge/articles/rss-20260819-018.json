@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260819-018",
+  "title": "Benchmarking the Benchmarks: Evaluating Automated Safety Benchmarks for Small Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.17183",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-19T08:34:53.346232+00:00",
+  "collected_at": "2026-08-19T08:34:53.346232+00:00",
+  "summary": "该论文评估了针对小型语言模型（SLMs）的自动化安全基准测试的有效性，比较了不同基准在检测模型安全漏洞方面的表现。研究发现现有基准存在局限性，并提出了改进建议，为SLM安全评估提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "security",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-19T08:35:55.706564+00:00"
+}

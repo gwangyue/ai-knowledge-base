@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260819-009",
+  "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.16977",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-19T08:34:53.346198+00:00",
+  "collected_at": "2026-08-19T08:34:53.346198+00:00",
+  "summary": "该论文提出了一种新的数学发现方法，强调问题定义本身的重要性，而非仅关注求解过程。通过可扩展的框架，该方法旨在提升AI在数学推理和发现中的能力，具有潜在的理论与实践价值。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-19T08:35:55.706539+00:00"
+}

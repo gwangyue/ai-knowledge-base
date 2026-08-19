@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260819-017",
+  "title": "Synthesizing Feature Extractors: An Agentic Approach for Algorithm Selection",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.17170",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-19T08:34:53.346228+00:00",
+  "collected_at": "2026-08-19T08:34:53.346228+00:00",
+  "summary": "该论文提出了一种基于智能体的方法，用于自动合成特征提取器，以解决算法选择问题。通过智能体驱动的搜索和评估，该方法能够为特定任务生成定制化的特征提取流程，提升算法选择的效率和准确性。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-19T08:35:55.706562+00:00"
+}

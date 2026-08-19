@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260819-011",
+  "title": "Memory Is Communication: The Frontier Between Remembering and Signaling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.17053",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-19T08:34:53.346205+00:00",
+  "collected_at": "2026-08-19T08:34:53.346205+00:00",
+  "summary": "本文探讨了记忆与通信之间的界限，提出记忆本质上是一种通信形式，并分析了在AI系统中如何区分内部状态存储与外部信号传递。该研究为设计更高效的记忆机制和通信协议提供了理论框架，对AI系统架构有重要启示。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-19T08:35:55.706544+00:00"
+}

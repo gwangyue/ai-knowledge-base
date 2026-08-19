@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260819-007",
+  "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.16956",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-19T08:34:53.346190+00:00",
+  "collected_at": "2026-08-19T08:34:53.346190+00:00",
+  "summary": "本文探讨了推理成本（reasoning effort）作为模型特定API契约的概念，分析了不同模型在推理时所需的计算资源差异及其对API设计和定价的影响。该研究为AI服务提供商和开发者提供了优化推理成本与性能平衡的见解，具有实际应用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-19T08:35:55.706533+00:00"
+}

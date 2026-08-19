@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260819-019",
+  "title": "Fool's Gold: Defensive Deception Against Safety-Removal Attacks on Open-Weight Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.17202",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-19T08:34:53.346236+00:00",
+  "collected_at": "2026-08-19T08:34:53.346236+00:00",
+  "summary": "本文提出了一种针对开放权重模型的安全移除攻击的防御策略，通过防御性欺骗（Defensive Deception）来保护模型不被恶意修改其安全机制。该方法在模型发布前嵌入诱饵，使攻击者难以有效移除安全限制，从而提升模型部署的安全性。该研究为开放权重模型的安全防护提供了新的思路，具有重要的实际应用价值。",
+  "score": 8,
+  "tags": [
+    "security",
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-19T08:35:55.706567+00:00"
+}
