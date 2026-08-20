@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260820-013",
+  "title": "Safety Alignment Illusion: The Cross-Lingual Safety Gap in LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.18131",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-20T08:35:39.095523+00:00",
+  "collected_at": "2026-08-20T08:35:39.095523+00:00",
+  "summary": "该论文揭示了大型语言模型（LLMs）在跨语言场景下的安全对齐漏洞，指出模型在非英语语言中可能更容易生成有害内容，从而规避安全机制。研究通过系统性测试证明了这一安全差距的存在，并提出了潜在的影响与缓解方向，对提升LLM的全球部署安全性具有重要价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-20T08:36:42.274902+00:00"
+}

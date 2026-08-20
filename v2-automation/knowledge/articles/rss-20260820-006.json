@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260820-006",
+  "title": "A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.18088",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-20T08:35:39.095489+00:00",
+  "collected_at": "2026-08-20T08:35:39.095489+00:00",
+  "summary": "该论文提出了一种基于飞行日志的无人机螺旋桨健康监测决策支持原型系统，利用变形人工智能（Metamorphic AI）技术评估螺旋桨状态。该系统通过分析飞行数据，为维护决策提供量化评分，有助于提升无人机运行安全性和维护效率。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-20T08:36:42.274876+00:00"
+}

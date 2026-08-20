@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260820-011",
+  "title": "Solving Is Not Drawing: A Benchmark for Diagrammatic Reasoning in Olympiad Geometry",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.18111",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-20T08:35:39.095514+00:00",
+  "collected_at": "2026-08-20T08:35:39.095514+00:00",
+  "summary": "该论文提出一个用于奥林匹克几何问题中图解推理的基准测试，强调解题过程而非绘图结果，旨在评估AI模型在几何推理方面的能力。通过该基准，作者揭示了当前模型在几何图解推理上的不足，并为该领域的研究提供了标准化的评估工具。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-20T08:36:42.274896+00:00"
+}
