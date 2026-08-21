@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260821-003",
+  "title": "Don't paste the AI, please",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://dontpastetheai.com/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-21T08:37:52.166881+00:00",
+  "collected_at": "2026-08-21T08:37:52.166881+00:00",
+  "summary": "这篇文章讨论了在应用开发中不应简单地将AI模型粘贴到现有系统中，而是需要深入思考如何将AI能力与业务逻辑、用户交互和系统架构进行有机整合。文章强调了AI集成需要关注上下文管理、工具调用和用户体验设计，以充分发挥AI的潜力并避免常见陷阱。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "tool-use",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-21T08:38:56.549717+00:00"
+}
