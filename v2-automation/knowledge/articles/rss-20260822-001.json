@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260822-001",
+  "title": "I'm becoming AI-blind",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://cymerys.com/w/im-becoming-ai-blind",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-22T08:26:40.528632+00:00",
+  "collected_at": "2026-08-22T08:26:40.528632+00:00",
+  "summary": "这篇文章探讨了随着AI工具在日常开发中的普及，开发者可能逐渐丧失对AI生成代码的批判性审查能力，即'AI盲'现象。文章分析了这一现象的技术根源、潜在风险，并提出了保持代码审查严谨性的策略，对AI辅助开发实践具有警示和指导价值。",
+  "score": 8,
+  "tags": [
+    "code-generation",
+    "evaluation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-22T08:27:43.162901+00:00"
+}

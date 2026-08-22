@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260822-010",
+  "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/multi-vector-encoder",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-22T08:26:42.021931+00:00",
+  "collected_at": "2026-08-22T08:26:42.021931+00:00",
+  "summary": "本文介绍了如何使用 Sentence Transformers 实现多向量（晚期交互）嵌入模型，如 ColBERT，以提升检索精度。文章详细说明了模型原理、训练方法和实际应用场景，为信息检索和 RAG 系统提供了高效解决方案。",
+  "score": 8,
+  "tags": [
+    "rag",
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-22T08:27:43.162939+00:00"
+}
