@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260824-008",
+  "title": "Environmental Slow AI: Design Principles for Generative Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.20398",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-24T08:45:19.500746+00:00",
+  "collected_at": "2026-08-24T08:45:19.500746+00:00",
+  "summary": "该论文提出'环境慢速AI'设计原则，针对生成式系统在环境可持续性和计算效率方面的挑战，强调通过降低生成频率、优化资源分配和设计慢速交互来减少能耗。其核心价值在于为生成式AI提供了一套兼顾性能与环境影响的系统设计框架，推动可持续AI发展。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-24T08:46:25.754608+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260824-006",
+  "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.20389",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-24T08:45:19.500737+00:00",
+  "collected_at": "2026-08-24T08:45:19.500737+00:00",
+  "summary": "该论文探讨了在多模态智能体框架中，表示方式如何影响检索效果，并通过技能发现与路由的案例研究进行了深入分析。研究揭示了表示选择对智能体性能的关键影响，为多模态智能体的设计与优化提供了有价值的见解。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-24T08:46:25.754601+00:00"
+}

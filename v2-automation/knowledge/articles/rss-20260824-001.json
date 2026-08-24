@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260824-001",
+  "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.20341",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-24T08:45:19.500664+00:00",
+  "collected_at": "2026-08-24T08:45:19.500664+00:00",
+  "summary": "SDAD 提出了一种基于规格说明的智能体驱动开发方法，旨在实现 AI 原生的软件开发生命周期。该方法通过将需求转化为明确的规格，指导 AI 智能体在编码、测试和部署等环节自动执行，从而提升开发效率和质量。该研究为 AI 辅助软件开发提供了新的范式，具有较高的实用价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "code-generation",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-24T08:46:25.754566+00:00"
+}

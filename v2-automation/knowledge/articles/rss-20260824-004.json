@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260824-004",
+  "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.20379",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-24T08:45:19.500722+00:00",
+  "collected_at": "2026-08-24T08:45:19.500722+00:00",
+  "summary": "该论文对多模态智能体框架的技术基础与前沿进展进行了全面综述，系统梳理了其核心技术（如感知、推理、工具使用）及在各类应用中的实践，为研究者提供了该领域的结构化知识图谱和未来研究方向。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-24T08:46:25.754595+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260824-018",
+  "title": "FL-MAESTRO: Multi-Agent LLM Orchestration for Resource-Constrained Federated Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.20518",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-24T08:45:19.500785+00:00",
+  "collected_at": "2026-08-24T08:45:19.500785+00:00",
+  "summary": "FL-MAESTRO 提出了一种多智能体 LLM 编排框架，用于在资源受限的联邦学习环境中优化模型训练和通信效率。该框架通过智能体协作动态分配任务，显著降低了通信开销并提升了模型收敛速度，为边缘计算场景下的联邦学习提供了可扩展的解决方案。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-24T08:46:25.754637+00:00"
+}

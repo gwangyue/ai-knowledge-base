@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260824-005",
+  "title": "Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.20384",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-24T08:45:19.500731+00:00",
+  "collected_at": "2026-08-24T08:45:19.500731+00:00",
+  "summary": "该论文提出了一种可解释的多模态分类方法，通过线性判别树集成（LDTE）结合了线性判别分析和决策树的优势，在保持高分类性能的同时提供了模型决策的透明解释。该方法适用于多模态数据（如文本、图像等），为需要可解释性的应用场景（如医疗诊断）提供了有效的解决方案。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-24T08:46:25.754598+00:00"
+}
