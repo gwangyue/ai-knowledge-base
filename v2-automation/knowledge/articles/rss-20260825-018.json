@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260825-018",
+  "title": "Composable Trust Infrastructure for Manufacturing Knowledge Graphs: Cross-System Provenance, Temporal Reasoning, and Decision Traceability",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.21418",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-25T08:39:25.452289+00:00",
+  "collected_at": "2026-08-25T08:39:25.452289+00:00",
+  "summary": "该论文提出了一种用于制造业知识图谱的可组合信任基础设施，通过跨系统溯源、时间推理和决策可追溯性来增强数据可信度与决策透明度。其核心价值在于为工业环境中的知识图谱应用提供了系统化的信任保障机制，支持复杂制造场景下的可验证决策。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "security",
+    "knowledge-graph"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-25T08:40:25.294497+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260825-013",
+  "title": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.21382",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-25T08:39:25.452268+00:00",
+  "collected_at": "2026-08-25T08:39:25.452268+00:00",
+  "summary": "该论文指出现代LLM排行榜因配置敏感项（config-fragile items）而被人为操纵，即不同评测配置（如温度、采样参数）会显著影响模型排名，导致排行榜缺乏中立性。研究通过实验揭示了这一现象，并提出了更稳健的评测方法，对LLM评估领域具有重要参考价值。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-25T08:40:25.294465+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260825-002",
+  "title": "I built a low-latency AI companion that plays Skyrim with me",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://pantel.is/projects/ai-gaming-companion/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-25T08:39:24.524632+00:00",
+  "collected_at": "2026-08-25T08:39:24.524632+00:00",
+  "summary": "该内容展示了一个低延迟AI伴侣的构建过程，能够与《Skyrim》游戏进行实时交互，体现了AI在游戏环境中的实际应用。其核心价值在于通过技术实现AI与游戏的无缝集成，为玩家提供沉浸式体验。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-25T08:40:25.294425+00:00"
+}

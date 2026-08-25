@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260825-009",
+  "title": "AI Learning and Conceptual Transfer in the Game of Hidden Rules",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.21372",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-25T08:39:25.452247+00:00",
+  "collected_at": "2026-08-25T08:39:25.452247+00:00",
+  "summary": "该论文探讨了AI在隐藏规则游戏中的学习与概念迁移能力，通过游戏环境研究模型如何从有限经验中抽象规则并应用于新情境。其核心价值在于为评估和提升AI的泛化与推理能力提供了新颖的实验框架。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-25T08:40:25.294452+00:00"
+}
