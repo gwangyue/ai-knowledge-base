@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260826-005",
+  "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.23622",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-26T08:40:20.921381+00:00",
+  "collected_at": "2026-08-26T08:40:20.921381+00:00",
+  "summary": "该论文探讨了如何利用大型语言模型（LLM）作为智能体，通过仿真模型进行受控实验，以验证其决策和推理能力。研究提出了一种框架，使LLM能够在模拟环境中自主设计、执行和分析实验，从而提升其在复杂任务中的可靠性和可解释性。该工作为LLM在科学研究中的应用提供了新的方法论，具有重要的实践价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-26T08:41:24.140290+00:00"
+}

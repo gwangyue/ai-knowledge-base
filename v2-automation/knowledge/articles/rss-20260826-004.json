@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260826-004",
+  "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.23569",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-26T08:40:20.921370+00:00",
+  "collected_at": "2026-08-26T08:40:20.921370+00:00",
+  "summary": "ESQ-Bench 是一个专为企业 Oracle 数据库设计的 NL2SQL 基准测试，用于评估模型在 SQL 方言泛化方面的能力，并检测静默语义分歧（即模型生成的 SQL 在语法正确但语义与用户意图不符的情况）。该基准通过多层级任务设计，为提升 NL2SQL 系统在真实企业场景中的可靠性和准确性提供了重要评测工具。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "code-generation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-26T08:41:24.140286+00:00"
+}

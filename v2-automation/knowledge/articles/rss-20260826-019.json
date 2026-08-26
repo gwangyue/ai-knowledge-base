@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260826-019",
+  "title": "AgentRoom: Concurrent Multi-Agent Coding in a CRDT-Backed Shared Workspace",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.23740",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-26T08:40:20.921450+00:00",
+  "collected_at": "2026-08-26T08:40:20.921450+00:00",
+  "summary": "AgentRoom 提出了一种基于 CRDT（无冲突复制数据类型）的共享工作空间，支持多个 AI 编码代理并发协作，通过实时同步和冲突解决机制提升多代理代码生成的效率与一致性。该工作为多代理协作编码提供了基础设施层面的创新，具有实际应用价值。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-26T08:41:24.140340+00:00"
+}

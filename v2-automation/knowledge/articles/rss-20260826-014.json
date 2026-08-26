@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260826-014",
+  "title": "MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.23646",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-26T08:40:20.921428+00:00",
+  "collected_at": "2026-08-26T08:40:20.921428+00:00",
+  "summary": "MolEmb 提出利用多模态大语言模型作为分子嵌入模型，通过将分子结构（如SMILES）与文本描述结合，生成更具表达力的分子表示，从而提升分子性质预测和药物发现等任务的性能。该工作展示了多模态LLM在科学领域的新应用，具有较高的实用价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-26T08:41:24.140322+00:00"
+}

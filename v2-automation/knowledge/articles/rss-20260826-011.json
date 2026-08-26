@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260826-011",
+  "title": "AI Agents Push Humans Out of the Loop",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.23642",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-26T08:40:20.921412+00:00",
+  "collected_at": "2026-08-26T08:40:20.921412+00:00",
+  "summary": "本文探讨了AI代理系统在自动化决策和任务执行中逐步减少人类干预的趋势，分析了其技术实现路径与潜在风险。文章强调了自主代理在效率提升方面的价值，同时指出了对监管和伦理框架的需求。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-26T08:41:24.140313+00:00"
+}
