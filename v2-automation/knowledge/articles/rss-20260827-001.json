@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260827-001",
+  "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/SenteLabsAI/OpenExecutive",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-27T18:50:40.454533+00:00",
+  "collected_at": "2026-08-27T18:50:40.454533+00:00",
+  "summary": "这篇报道讲述了一个讽刺性事件：CEO 解雇开发者以引入 AI，而开发者则创建了一个开源的 AI CEO 作为回应。它探讨了 AI 在管理角色中的应用潜力，以及开发者社区对自动化决策的创造性反抗，同时展示了开源社区如何利用 AI 技术进行社会评论和实验。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-27T18:51:44.160889+00:00"
+}
