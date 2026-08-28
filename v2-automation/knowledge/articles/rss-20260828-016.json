@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260828-016",
+  "title": "GROUND: Reducing Hallucinations in LLM-Based Enterprise Analytics Through Governed Semantic Definitions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.26157",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-28T19:53:44.675429+00:00",
+  "collected_at": "2026-08-28T19:53:44.675429+00:00",
+  "summary": "该论文提出GROUND框架，通过受治理的语义定义来减少基于LLM的企业分析中的幻觉问题，确保分析结果与业务术语和规则一致。其核心价值在于提升企业级AI分析的可靠性和可信度，为LLM在关键业务场景中的应用提供了重要保障。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-28T19:54:50.025922+00:00"
+}

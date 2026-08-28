@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260828-010",
+  "title": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.26145",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-28T19:53:44.675398+00:00",
+  "collected_at": "2026-08-28T19:53:44.675398+00:00",
+  "summary": "该研究评估了大型语言模型（LLMs）在学术工作流程中生成文献综述的能力，特别比较了短上下文窗口和长上下文窗口对综述质量的影响。研究发现长上下文窗口能提升综述的全面性和准确性，但需注意信息冗余和成本问题，为LLM在学术写作中的应用提供了实证参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-28T19:54:50.025902+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260828-013",
+  "title": "Explainable Artificial Intelligence for Customer Churn Prediction in Telecommunications: A Framework for CRM Integration",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.26151",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-28T19:53:44.675412+00:00",
+  "collected_at": "2026-08-28T19:53:44.675412+00:00",
+  "summary": "该论文提出了一种用于电信行业客户流失预测的可解释人工智能框架，并集成到CRM系统中，旨在提升预测准确性和模型可解释性。通过结合机器学习模型与解释技术，该框架帮助业务人员理解客户流失原因，从而制定更有效的保留策略，具有实际应用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-28T19:54:50.025912+00:00"
+}
