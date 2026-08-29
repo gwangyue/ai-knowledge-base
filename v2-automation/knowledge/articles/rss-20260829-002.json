@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260829-002",
+  "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/train-multi-vector-encoder",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-29T13:37:27.957546+00:00",
+  "collected_at": "2026-08-29T13:37:27.957546+00:00",
+  "summary": "本文介绍了如何使用 Sentence Transformers 库训练和微调多向量嵌入模型，重点讲解了多向量表示在信息检索和语义匹配中的应用。文章提供了详细的实现步骤和代码示例，帮助开发者构建更强大的文本嵌入系统。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-29T13:38:30.752897+00:00"
+}
