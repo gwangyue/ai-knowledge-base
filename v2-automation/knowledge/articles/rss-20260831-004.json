@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260831-004",
+  "title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.27459",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-31T15:50:57.835249+00:00",
+  "collected_at": "2026-08-31T15:50:57.835249+00:00",
+  "summary": "该论文介绍了一个基于41年Jeopardy!问答数据构建的本地可运行模型，旨在测试和评估人类知识的可检验性。通过将历史问答数据整合到单一模型中，它提供了一个独特的基准测试资源，用于衡量AI在事实性知识检索和推理方面的能力。该工作对于知识密集型AI系统的评估和开发具有重要价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-31T15:52:03.506700+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260831-008",
+  "title": "LLM-Augmented Causal Discovery: Probabilistic Fusion of Edge Existence and Orientation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.27472",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-31T15:50:57.835291+00:00",
+  "collected_at": "2026-08-31T15:50:57.835291+00:00",
+  "summary": "该论文提出了一种将大语言模型（LLM）与因果发现算法相结合的新方法，通过概率融合边的存在性和方向性来提升因果结构学习的准确性。该方法利用LLM的先验知识，与数据驱动方法互补，在因果发现任务中展现出显著优势。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-31T15:52:03.506709+00:00"
+}

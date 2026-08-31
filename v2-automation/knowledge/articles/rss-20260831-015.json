@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260831-015",
+  "title": "Thinking Costs Tokens: When More Structure is Worth the Price",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.27506",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-31T15:50:57.835310+00:00",
+  "collected_at": "2026-08-31T15:50:57.835310+00:00",
+  "summary": "本文探讨了在AI系统中增加结构化思考过程所带来的计算成本与性能收益之间的权衡，提出了一种评估框架来帮助开发者决定何时值得为更复杂的推理结构支付额外token费用。该研究为优化LLM应用的成本效益提供了实用指导。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-31T15:52:03.506731+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260831-001",
+  "title": "No AI Fridays",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://noaifridays.com/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-31T15:50:56.516788+00:00",
+  "collected_at": "2026-08-31T15:50:56.516788+00:00",
+  "summary": "No AI Fridays 是一篇关于在特定日子（如周五）暂停使用 AI 工具的技术实践分享，旨在探讨 AI 依赖性问题并促进深度思考。文章可能提供了实施方法、团队协作建议以及反思 AI 在日常工作中的角色，对平衡 AI 使用与人类创造力具有参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-31T15:52:03.506679+00:00"
+}

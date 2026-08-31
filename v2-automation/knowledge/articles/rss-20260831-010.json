@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260831-010",
+  "title": "Class-Based Heuristic Selection for Solving the Flying Block Puzzle",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.27476",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-31T15:50:57.835296+00:00",
+  "collected_at": "2026-08-31T15:50:57.835296+00:00",
+  "summary": "该论文提出了一种基于类别的启发式选择方法，用于高效解决飞行积木拼图问题，通过动态选择最优搜索策略来提升求解性能。该方法在多个实例上验证了有效性，为组合优化和启发式搜索领域提供了新的思路。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-31T15:52:03.506720+00:00"
+}
