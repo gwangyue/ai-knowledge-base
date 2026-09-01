@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260901-001",
+  "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-01T13:06:39.413368+00:00",
+  "collected_at": "2026-09-01T13:06:39.413368+00:00",
+  "summary": "苹果对Mac Mini和Mac Studio的AI需求感到意外，表明市场对本地AI推理硬件的需求激增。这反映了AI工作负载正从云端向边缘设备转移的趋势，对开发者意味着本地部署AI模型的机会增加。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-01T13:07:48.825616+00:00"
+}

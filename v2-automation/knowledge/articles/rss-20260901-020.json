@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260901-020",
+  "title": "If Agents Were Angels, No Governance Would Be Necessary: Out-of-Band Policy Enforcement at a Trusted Tool Boundary",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.27646",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-01T13:06:40.370319+00:00",
+  "collected_at": "2026-09-01T13:06:40.370319+00:00",
+  "summary": "该论文提出在可信工具边界实施带外策略执行，以管理AI代理行为，无需依赖代理自身的“天使”般自律。通过将策略强制置于代理外部，增强了安全性和可控性，为AI代理治理提供了新思路。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "security",
+    "tool-use"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-01T13:07:48.825632+00:00"
+}
