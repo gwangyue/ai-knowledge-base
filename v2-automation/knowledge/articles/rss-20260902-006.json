@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260902-006",
+  "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.00004",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-02T12:33:38.743722+00:00",
+  "collected_at": "2026-09-02T12:33:38.743722+00:00",
+  "summary": "本文提出一种离散时间马尔可夫决策过程（MDP）模型，用于解决多物品、有容量限制的批量生产计划问题，其中需求到达时间具有随机性。该模型能够有效处理随机需求时序下的生产决策优化，为供应链和生产管理提供了新的建模方法。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "optimization"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-02T12:34:42.734237+00:00"
+}

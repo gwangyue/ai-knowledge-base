@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260902-014",
+  "title": "MiNER: Fine-Tuned Biomedical Natural Language Processing for Malaria Disease Entity Recognition in Clinical Texts",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.00073",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-02T12:33:38.743751+00:00",
+  "collected_at": "2026-09-02T12:33:38.743751+00:00",
+  "summary": "该论文介绍了MiNER，一个针对疟疾病实体识别的微调生物医学自然语言处理模型，旨在从临床文本中准确提取疟疾相关实体。通过领域特定微调，MiNER提升了生物医学文本挖掘的精度，为疟疾研究和临床决策支持提供了有力工具。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-02T12:34:42.734262+00:00"
+}

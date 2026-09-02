@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260902-017",
+  "title": "Deploying and Evaluating a Smart-Agriculture Agentic Engine for Full-Season Soybean Farm Operations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.00106",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-02T12:33:38.743766+00:00",
+  "collected_at": "2026-09-02T12:33:38.743766+00:00",
+  "summary": "该论文介绍了一个用于全季大豆农场运营的智能农业代理引擎，该引擎集成了多种AI代理以执行从种植到收获的决策任务。通过实际部署和评估，展示了代理系统在农业场景中的有效性和潜力，为精准农业提供了新的技术路径。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-02T12:34:42.734269+00:00"
+}
