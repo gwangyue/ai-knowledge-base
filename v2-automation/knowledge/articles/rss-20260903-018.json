@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260903-018",
+  "title": "When Agents Implement Systems: A Case Study in Defects, Detection, and Evaluation Rigor",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.01985",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-03T12:36:36.037576+00:00",
+  "collected_at": "2026-09-03T12:36:36.037576+00:00",
+  "summary": "该论文通过案例研究探讨了AI代理在实现系统时可能出现的缺陷、检测方法以及评估严谨性问题，强调了在复杂系统构建中代理的潜在风险和评估的重要性。研究提供了对代理系统实际部署中挑战的深入见解，并为改进代理评估框架提供了指导。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "evaluation",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-03T12:37:32.474245+00:00"
+}

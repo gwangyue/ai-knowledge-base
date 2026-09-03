@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260903-009",
+  "title": "Architecting Conversational Data Systems for Stateless LLM APIs: The Hydration Proxy Pattern",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.01834",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-03T12:36:36.037536+00:00",
+  "collected_at": "2026-09-03T12:36:36.037536+00:00",
+  "summary": "本文提出了一种名为“水合代理模式”的架构设计，用于在无状态LLM API之上构建对话数据系统。该模式通过代理层管理对话上下文和状态，从而在不修改底层API的情况下实现持久化和上下文感知的交互，提升了系统的可扩展性和效率。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "architecture"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-03T12:37:32.474207+00:00"
+}

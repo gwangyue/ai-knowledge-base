@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260903-010",
+  "title": "SSAKG 2.0: An Open-Source Package for Structural Associative Sequence Memory and Context-Based Retrieval",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.01849",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-03T12:36:36.037541+00:00",
+  "collected_at": "2026-09-03T12:36:36.037541+00:00",
+  "summary": "SSAKG 2.0 是一个开源软件包，用于实现结构关联序列记忆和基于上下文的检索，旨在增强AI模型对序列数据的记忆和检索能力。该工具通过结构化的关联记忆机制，支持更高效的上下文感知信息提取，适用于需要复杂序列处理的AI应用。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "memory",
+    "retrieval"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-03T12:37:32.474211+00:00"
+}

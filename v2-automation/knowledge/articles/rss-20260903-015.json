@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260903-015",
+  "title": "Looped Transformers under the Jacobian Lens: Does the Global Workspace Survive Recurrence?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.01924",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-03T12:36:36.037563+00:00",
+  "collected_at": "2026-09-03T12:36:36.037563+00:00",
+  "summary": "该研究通过雅可比透镜分析循环Transformer的内部机制，探讨全局工作空间理论在递归结构中是否仍然成立。研究为理解循环架构中的信息流和计算过程提供了新的视角，对AI可解释性研究具有参考价值。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-03T12:37:32.474234+00:00"
+}

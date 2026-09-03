@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260903-016",
+  "title": "Post-Training Ternarization of Qwen3-4B Capability, Effective Bit Budget, Storage Compression, and Deployment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.01962",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-03T12:36:36.037568+00:00",
+  "collected_at": "2026-09-03T12:36:36.037568+00:00",
+  "summary": "该论文提出了一种针对Qwen3-4B模型的后训练三值化方法，旨在压缩模型存储并保持其能力，通过有效比特预算分析实现高效部署。研究展示了三值化在资源受限场景下的实用价值，为大型语言模型的轻量化部署提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-03T12:37:32.474237+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260903-008",
+  "title": "Induction and Inquiry via Probabilistic Reasoning over Language and Code",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.01815",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-03T12:36:36.037531+00:00",
+  "collected_at": "2026-09-03T12:36:36.037531+00:00",
+  "summary": "该研究提出了一种通过概率推理统一归纳与探究的方法，在语言和代码两种模态上进行建模，旨在提升AI系统的推理与代码生成能力。其核心价值在于将归纳学习与主动探究结合，为复杂任务提供更稳健的推理框架。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "code-generation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-03T12:37:32.474202+00:00"
+}
