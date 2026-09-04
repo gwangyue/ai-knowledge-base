@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260904-006",
+  "title": "Speculative Macro Commit for Faster Tool-Using Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.03236",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-04T12:30:42.472048+00:00",
+  "collected_at": "2026-09-04T12:30:42.472048+00:00",
+  "summary": "该论文提出了一种推测性宏提交机制，旨在加速工具使用型AI代理的执行效率。通过预测性提交多个工具调用结果，减少代理与外部工具间的交互延迟，从而提升整体任务完成速度。此方法为优化代理工作流提供了新的思路，具有实际应用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-04T12:31:40.591181+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260904-005",
+  "title": "MasterControl Seventeen Every Time",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.03209",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-04T12:30:42.472039+00:00",
+  "collected_at": "2026-09-04T12:30:42.472039+00:00",
+  "summary": "该论文提出了一种名为MasterControl Seventeen Every Time的控制机制，旨在提高AI系统在多次执行任务时的稳定性和一致性。通过引入新的控制策略，该方法在多个基准测试中显著降低了输出变异性，同时保持了生成质量，为需要高可靠性的AI应用提供了有效解决方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-04T12:31:40.591178+00:00"
+}

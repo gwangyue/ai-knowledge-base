@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260904-002",
+  "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-04T12:30:41.481980+00:00",
+  "collected_at": "2026-09-04T12:30:41.481980+00:00",
+  "summary": "该报道描述了围棋大师申真谑在让两子的情况下击败了AI系统KataGo，展示了人类棋手在特定条件下对AI的战术优势。这一事件对AI在博弈领域的鲁棒性和局限性提出了新的思考，具有重要的技术讨论价值。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-04T12:31:40.591169+00:00"
+}

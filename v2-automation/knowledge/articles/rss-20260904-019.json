@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260904-019",
+  "title": "CulturalMenuBench: Probing the Knowledge-Application Gap in Multimodal Culinary Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.03526",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-04T12:30:42.472109+00:00",
+  "collected_at": "2026-09-04T12:30:42.472109+00:00",
+  "summary": "该论文介绍了CulturalMenuBench，这是一个用于评估多模态大语言模型在跨文化烹饪推理中知识应用能力的基准测试。研究发现模型存在知识与应用之间的差距，即模型虽具备相关文化知识，但在实际推理任务中未能有效运用。该工作为多模态推理评估提供了新视角，并揭示了文化敏感性在AI系统中的重要性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-04T12:31:40.591226+00:00"
+}

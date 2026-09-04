@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260904-020",
+  "title": "NeoRed: A Knowledge-Logic-Alignment Multimodal Large Language Model for Neonatal Respiratory Disease Diagnosis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.03527",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-04T12:30:42.472116+00:00",
+  "collected_at": "2026-09-04T12:30:42.472116+00:00",
+  "summary": "NeoRed 提出了一种面向新生儿呼吸疾病诊断的多模态大语言模型，通过知识-逻辑对齐机制整合医学知识与图像推理，提升诊断准确性和可解释性。该研究展示了领域专用多模态模型在医疗场景中的潜力，并为知识增强的视觉语言推理提供了新思路。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-04T12:31:40.591229+00:00"
+}

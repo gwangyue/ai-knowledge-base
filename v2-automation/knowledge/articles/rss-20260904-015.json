@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260904-015",
+  "title": "Making Every Tool Call Count: Necessary Tool-Evidence Path Rewards for Agentic Vision-Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.03493",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-04T12:30:42.472091+00:00",
+  "collected_at": "2026-09-04T12:30:42.472091+00:00",
+  "summary": "该论文提出了一种名为“必要工具证据路径奖励”的新方法，用于增强智能体视觉语言模型（VLMs）的工具调用能力。通过奖励模型在推理过程中生成必要的工具调用路径，该方法显著提升了模型在复杂视觉任务中的工具使用效率和准确性。其核心价值在于为视觉语言智能体提供了一种更有效的训练信号，使其能够更精准地决定何时以及如何调用外部工具。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "tool-use",
+    "vision",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-04T12:31:40.591214+00:00"
+}
