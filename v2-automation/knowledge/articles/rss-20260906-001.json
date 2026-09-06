@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260906-001",
+  "title": "AI handles incidents, engineers lose touch with their systems",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-06T11:57:40.170931+00:00",
+  "collected_at": "2026-09-06T11:57:40.170931+00:00",
+  "summary": "本文探讨了AI系统在处理运维事件时，工程师逐渐与底层系统脱节的现象。文章分析了这种趋势带来的技术风险与知识断层，并强调了保持工程师对系统理解的重要性。内容对AI运维实践具有警示和指导价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-06T11:58:39.865854+00:00"
+}

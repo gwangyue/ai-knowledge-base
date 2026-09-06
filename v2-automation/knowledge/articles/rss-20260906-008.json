@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260906-008",
+  "title": "Give Your Coding Agents a Memory You Own",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/funes",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-09-06T11:57:41.134529+00:00",
+  "collected_at": "2026-09-06T11:57:41.134529+00:00",
+  "summary": "本文探讨了如何为编码智能体构建一个用户自主拥有的记忆系统，以增强其长期上下文理解与个性化能力。文章可能涉及利用向量数据库或文件存储实现可移植、私有的记忆机制，从而提升代码生成任务的连续性和准确性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-06T11:58:39.865879+00:00"
+}
