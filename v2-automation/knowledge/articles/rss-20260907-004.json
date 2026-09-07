@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260907-004",
+  "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.04298",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-07T13:58:46.630806+00:00",
+  "collected_at": "2026-09-07T13:58:46.630806+00:00",
+  "summary": "本文介绍了Harbor Adapters和Harbor-Index，为大规模智能体评估提供基础设施和精选元数据集。Harbor Adapters标准化了不同环境下的智能体交互，而Harbor-Index则汇集了多种基准测试，便于统一评估。该工作旨在提升智能体评估的可扩展性和可复现性，对AI研究社区具有实用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-07T14:00:00.514436+00:00"
+}

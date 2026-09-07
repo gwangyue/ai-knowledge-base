@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260907-006",
+  "title": "Iris: Climbing to the Search Frontier",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.04304",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-07T13:58:46.630820+00:00",
+  "collected_at": "2026-09-07T13:58:46.630820+00:00",
+  "summary": "Iris 提出了一种新的搜索方法，旨在提升 AI 系统在复杂信息检索中的效率与准确性。该方法通过优化搜索策略，使模型能够更深入地探索搜索空间，从而在知识密集型任务中取得更优表现。其核心价值在于为 AI 搜索领域提供了一种前沿的解决方案，有望推动相关应用的发展。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-07T14:00:00.514442+00:00"
+}

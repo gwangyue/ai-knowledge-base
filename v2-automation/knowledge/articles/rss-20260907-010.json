@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260907-010",
+  "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.04444",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-07T13:58:46.630838+00:00",
+  "collected_at": "2026-09-07T13:58:46.630838+00:00",
+  "summary": "HarvestBench 是一个新的基准测试，用于评估大型语言模型（LLM）代理在面临道德困境时是否会选择支付代价以避免伤害动物，从而衡量其价值对齐和决策能力。该基准通过模拟资源分配场景，测试代理是否能在追求目标的同时考虑伦理因素，为AI安全和对齐研究提供了重要工具。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-07T14:00:00.514455+00:00"
+}

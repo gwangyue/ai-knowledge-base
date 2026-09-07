@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260907-001",
+  "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-07T13:58:45.553356+00:00",
+  "collected_at": "2026-09-07T13:58:45.553356+00:00",
+  "summary": "这篇文章探讨了使用大型语言模型（LLM）撰写帖子时可能暴露出的思维漏洞，强调了AI辅助写作在表达个人观点和逻辑推理上的局限性。作者通过具体案例分析了LLM生成内容中常见的逻辑不连贯和过度自信问题，并提出了改进建议，旨在帮助读者更审慎地使用AI工具进行内容创作。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-07T14:00:00.514411+00:00"
+}

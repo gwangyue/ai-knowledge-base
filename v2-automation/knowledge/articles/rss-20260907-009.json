@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260907-009",
+  "title": "Corporate Language Model (CLM): Transforming Tacit and Fragmented Enterprise Knowledge into a Sovereign, Auditable, and Executable Corporate Intelligence Layer",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.04377",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-07T13:58:46.630834+00:00",
+  "collected_at": "2026-09-07T13:58:46.630834+00:00",
+  "summary": "本文提出企业语言模型（CLM）概念，旨在将企业内隐性和碎片化知识转化为主权化、可审计且可执行的企业智能层。该模型强调知识治理与合规性，为企业级AI应用提供结构化知识管理框架。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "llm",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-07T14:00:00.514450+00:00"
+}

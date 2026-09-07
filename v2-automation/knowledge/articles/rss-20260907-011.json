@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260907-011",
+  "title": "PerfReasoning: How Well Do LLMs Reason on Hardware Performance?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.04476",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-07T13:58:46.630841+00:00",
+  "collected_at": "2026-09-07T13:58:46.630841+00:00",
+  "summary": "该论文研究了大型语言模型（LLMs）在硬件性能推理任务上的表现，提出了一个名为PerfReasoning的基准或评估框架，以衡量模型对硬件性能相关问题的理解和推理能力。其核心价值在于填补了LLM在硬件性能分析领域评估的空白，为未来优化模型在该领域的应用提供了参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-07T14:00:00.514458+00:00"
+}

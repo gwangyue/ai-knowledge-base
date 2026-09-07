@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260907-005",
+  "title": "Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.04300",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-07T13:58:46.630815+00:00",
+  "collected_at": "2026-09-07T13:58:46.630815+00:00",
+  "summary": "该论文提出了一种基于机器学习的数据优化应急筛选方法，用于电力系统安全评估，通过智能筛选关键故障场景以提升计算效率。其核心价值在于将ML技术应用于传统电力工程领域，实现快速且准确的安全分析。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-07T14:00:00.514439+00:00"
+}

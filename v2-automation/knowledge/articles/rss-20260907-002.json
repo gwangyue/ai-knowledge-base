@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260907-002",
+  "title": "EXAONE Forecast for Finance",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.04239",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-07T13:58:46.630763+00:00",
+  "collected_at": "2026-09-07T13:58:46.630763+00:00",
+  "summary": "该论文介绍了EXAONE Forecast for Finance，一个专为金融预测任务设计的AI模型，可能结合了时间序列分析与语言模型技术，旨在提升金融决策的准确性和效率。其核心价值在于为金融领域提供更专业、更可靠的预测工具，填补通用模型在金融场景中的不足。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-07T14:00:00.514428+00:00"
+}
