@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260909-013",
+  "title": "PGP-Clinical-TimeKAN: Prior-Guided Joint Probabilistic Forecasting of Clinical Trajectories",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.05488",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-09T12:44:27.838684+00:00",
+  "collected_at": "2026-09-09T12:44:27.838684+00:00",
+  "summary": "该论文提出了一种名为PGP-Clinical-TimeKAN的临床轨迹预测方法，该方法利用先验知识引导的联合概率预测框架，结合KAN网络来建模临床时间序列数据。其核心价值在于通过概率预测和先验知识融合，提高了临床轨迹预测的准确性和可靠性，有望辅助临床决策。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-09T12:45:27.143575+00:00"
+}
