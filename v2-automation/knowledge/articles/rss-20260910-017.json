@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260910-017",
+  "title": "CityPlanner: A Sandbox Agent for Executable Urban Planning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.09578",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-10T12:42:27.164264+00:00",
+  "collected_at": "2026-09-10T12:42:27.164264+00:00",
+  "summary": "CityPlanner 提出了一种用于可执行城市规划的沙盒智能体，旨在让 AI 智能体在模拟环境中生成、验证和优化城市规划方案。该工作将智能体技术与城市设计相结合，为自动化规划决策提供了可执行、可评估的新范式。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-10T12:43:27.867274+00:00"
+}

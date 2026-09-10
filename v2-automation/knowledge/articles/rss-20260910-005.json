@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260910-005",
+  "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.09203",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-10T12:42:27.164173+00:00",
+  "collected_at": "2026-09-10T12:42:27.164173+00:00",
+  "summary": "该论文提出了 OpenDiscoveryTrace，一个用于评估 AI Scientist 工作流的流程追踪数据集与框架。通过记录 AI 科学家在科学发现过程中的完整推理与操作轨迹，为自动化科研系统的评估提供了可复现的基准，推动了 AI 驱动科学发现领域的标准化评测。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "agent",
+    "reasoning",
+    "multi-agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-10T12:43:27.867218+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260910-018",
+  "title": "A Function-Space Approach to the Statistical Mechanics of Learning Dynamics",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.09589",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-10T12:42:27.164268+00:00",
+  "collected_at": "2026-09-10T12:42:27.164268+00:00",
+  "summary": "本文提出了一种基于函数空间的统计力学方法，用于分析学习动力学，将参数空间中的随机梯度下降等优化过程映射到函数空间，从而更直观地理解泛化、隐式正则化等学习现象。该工作为深度学习理论提供了新的分析工具，有助于连接统计物理与机器学习理论。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-10T12:43:27.867277+00:00"
+}

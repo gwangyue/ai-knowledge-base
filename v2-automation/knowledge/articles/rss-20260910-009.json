@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260910-009",
+  "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.09374",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-10T12:42:27.164226+00:00",
+  "collected_at": "2026-09-10T12:42:27.164226+00:00",
+  "summary": "该论文提出了一种自主地理空间AI智能体（GeoAI Agent），用于北极生态导航。该智能体结合地理空间数据与自主决策能力，旨在支持北极地区环境敏感型航行，提升生态保护与航行安全。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-10T12:43:27.867245+00:00"
+}
