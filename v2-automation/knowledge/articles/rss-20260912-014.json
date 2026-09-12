@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260912-014",
+  "title": "Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.10964",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-12T11:58:10.135356+00:00",
+  "collected_at": "2026-09-12T11:58:10.135356+00:00",
+  "summary": "该论文针对智能体LLM工作流中的尾延迟问题，提出将就绪状态与释放解耦的调度策略，实现尾感知调度。其核心价值在于通过解耦机制优化资源分配，显著降低长尾延迟，提升多智能体工作流的整体效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "deployment",
+    "multi-agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-12T11:59:03.063123+00:00"
+}

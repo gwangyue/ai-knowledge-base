@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260912-012",
+  "title": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.10824",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-12T11:58:10.135347+00:00",
+  "collected_at": "2026-09-12T11:58:10.135347+00:00",
+  "summary": "该论文提出了一种任务无关的环境预处理方法，旨在无需预先定义任务或课程大纲的情况下，让智能体通过预处理环境来提升后续任务学习的效率和泛化能力。其核心价值在于为通用智能体提供了一种可扩展的环境理解与准备机制，减少对人工任务设计的依赖。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-12T11:59:03.063114+00:00"
+}
