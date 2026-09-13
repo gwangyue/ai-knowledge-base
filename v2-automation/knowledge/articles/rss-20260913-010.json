@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260913-010",
+  "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-09-13T13:06:44.138495+00:00",
+  "collected_at": "2026-09-13T13:06:44.138495+00:00",
+  "summary": "IBM 发布了 Granite Time Series PatchTST-FM-r2 模型，这是一个基于 PatchTST 架构的时间序列基础模型，在多个基准测试中达到 SOTA 性能。该模型采用商业友好许可证，允许企业自由用于商业场景，降低了时间序列预测的部署门槛。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-13T13:07:39.934110+00:00"
+}

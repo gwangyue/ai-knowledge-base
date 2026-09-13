@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260913-011",
+  "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-09-13T13:06:44.138504+00:00",
+  "collected_at": "2026-09-13T13:06:44.138504+00:00",
+  "summary": "本文探讨了AI安全对齐中的粒度问题，提出不应因主题的部分敏感内容而拒绝整个主题，而应精准识别并拒绝真正有害的子集。该工作为构建更精细、更少过度拒绝的安全策略提供了技术思路，对LLM安全部署具有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-13T13:07:39.934113+00:00"
+}
