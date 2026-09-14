@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260914-017",
+  "title": "Soft Symbol Grounding for Prototypical Concepts",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.12247",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-14T14:44:04.259371+00:00",
+  "collected_at": "2026-09-14T14:44:04.259371+00:00",
+  "summary": "该论文提出了一种软符号接地（Soft Symbol Grounding）方法，用于为原型概念建立可学习的符号表示，从而弥合符号推理与神经表示之间的鸿沟。其核心价值在于提升概念学习的可解释性和泛化能力，为结合符号与亚符号的AI系统提供了新思路。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-14T14:45:00.851723+00:00"
+}

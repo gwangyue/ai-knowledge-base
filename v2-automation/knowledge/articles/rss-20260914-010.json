@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260914-010",
+  "title": "Language Is an Insufficient Substrate for Quantitative Reasoning, and Consequential Domains Need Large Quantitative Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.12105",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-14T14:44:04.259339+00:00",
+  "collected_at": "2026-09-14T14:44:04.259339+00:00",
+  "summary": "该论文指出语言模型在定量推理任务上存在根本性局限，认为语言本身不足以作为定量推理的基础，并主张在重要领域需要专门的大型定量模型（LQM）。其价值在于为AI推理能力的研究提供了新的方向，强调了定量模型与语言模型互补的必要性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-14T14:45:00.851696+00:00"
+}

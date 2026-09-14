@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260914-006",
+  "title": "Occamy-1.0: Open Pareto-frontier 35B Intelligence for Co-work",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.11977",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-14T14:44:04.259287+00:00",
+  "collected_at": "2026-09-14T14:44:04.259287+00:00",
+  "summary": "Occamy-1.0 是一个 35B 参数的开源大语言模型，旨在实现帕累托前沿的智能协作能力。该模型专注于协同工作场景，在性能与效率之间取得平衡，为开源社区提供了强大的协作智能基础。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-14T14:45:00.851680+00:00"
+}
