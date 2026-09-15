@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260915-013",
+  "title": "Grounded Adjudication of Variations across Extracted TimeLines (GAVEL): Comparing Clinical Timelines Against Their Case Reports",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.13475",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-15T13:08:42.438730+00:00",
+  "collected_at": "2026-09-15T13:08:42.438730+00:00",
+  "summary": "GAVEL 提出了一种基于临床时间线提取与案例报告对比的自动评估方法，用于验证临床时间线的准确性。该工作通过将提取的时间线与原始病例报告进行对齐和裁决，提升了临床信息抽取系统的可信度与可解释性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-15T13:09:33.240804+00:00"
+}

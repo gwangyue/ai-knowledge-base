@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260915-018",
+  "title": "AutoTailor: Automatic, User-Aligned Capability Selection and Adaptation for Web Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.13548",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-15T13:08:42.438748+00:00",
+  "collected_at": "2026-09-15T13:08:42.438748+00:00",
+  "summary": "AutoTailor 提出了一种针对 Web 智能体的自动、用户对齐的能力选择与适配方法，旨在解决通用智能体在特定用户需求下能力冗余或不足的问题。该方法通过自动识别用户所需能力并动态调整智能体行为，提升了 Web 任务执行的个性化和效率，为智能体部署提供了实用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "tool-use",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-15T13:09:33.240817+00:00"
+}

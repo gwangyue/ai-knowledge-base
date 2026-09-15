@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260915-020",
+  "title": "Carbon-Aware Routing for Function Calling in Edge-Cloud LLM Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.13559",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-15T13:08:42.438755+00:00",
+  "collected_at": "2026-09-15T13:08:42.438755+00:00",
+  "summary": "该论文提出了一种碳感知路由策略，用于在边缘-云LLM系统中优化函数调用的能耗和碳排放。通过动态选择执行位置（边缘或云），在保证延迟要求的同时最小化碳足迹，为可持续AI部署提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-15T13:09:33.240821+00:00"
+}

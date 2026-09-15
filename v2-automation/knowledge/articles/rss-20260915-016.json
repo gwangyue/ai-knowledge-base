@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260915-016",
+  "title": "From Legal Text to AI-specific Risk Sources: A Systematic Analysis of the EU AI Act's High-Risk Requirements",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.13535",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-15T13:08:42.438740+00:00",
+  "collected_at": "2026-09-15T13:08:42.438740+00:00",
+  "summary": "本文系统分析了欧盟《人工智能法案》中高风险AI系统的法律要求，并将其转化为AI特定的风险源，为合规性评估和风险建模提供了结构化框架。该研究有助于将法律文本转化为可操作的技术风险指标，对AI治理和合规实践具有重要价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-15T13:09:33.240811+00:00"
+}

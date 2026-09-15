@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260915-010",
+  "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.13463",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-15T13:08:42.438719+00:00",
+  "collected_at": "2026-09-15T13:08:42.438719+00:00",
+  "summary": "该论文将长时程智能体（agent）的故障根因归因问题形式化为一个搜索问题，提出通过持续搜索来定位导致失败的早期决策或状态。其核心价值在于为复杂多步智能体系统的调试与可靠性分析提供了系统化的方法论，有助于提升长时程任务中的故障诊断效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-15T13:09:33.240794+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260915-014",
+  "title": "Token Efficient Task Execution via Application Behavior Modeling for Web Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.13491",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-15T13:08:42.438733+00:00",
+  "collected_at": "2026-09-15T13:08:42.438733+00:00",
+  "summary": "该论文提出通过应用行为建模来实现Web代理的Token高效任务执行，旨在减少Web自动化任务中的Token消耗。核心价值在于提升Web代理在复杂网页环境中的执行效率和成本效益，对基于LLM的Web自动化具有实用意义。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "tool-use",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-15T13:09:33.240807+00:00"
+}

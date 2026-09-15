@@ -1,0 +1,19 @@
+{
+  "id": "github-20260915-006",
+  "title": "JuliusBrussee/caveman",
+  "source": "github",
+  "source_url": "https://github.com/JuliusBrussee/caveman",
+  "author": "JuliusBrussee",
+  "published_at": "2026-09-15T07:52:04Z",
+  "collected_at": "2026-09-15T13:08:39.882235+00:00",
+  "summary": "JuliusBrussee/caveman 是一个针对编码代理的病毒式技能和代理，通过让代理像原始人一样说话来减少 65% 的 token 消耗。其核心价值在于显著降低 LLM 调用成本，同时保持编码任务的有效性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "prompt-engineering",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-15T13:09:33.240759+00:00"
+}
