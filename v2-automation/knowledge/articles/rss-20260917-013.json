@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260917-013",
+  "title": "Imitation Learning for Autonomous Driving in CARLA",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.17757",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-17T13:03:05.617676+00:00",
+  "collected_at": "2026-09-17T13:03:05.617676+00:00",
+  "summary": "该内容探讨在CARLA仿真环境中使用模仿学习实现自动驾驶，属于自动驾驶与强化学习交叉领域的技术分享。其核心价值在于利用高保真仿真平台验证模仿学习策略，为自动驾驶算法研究提供可复现的实验基础。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-17T13:03:56.859323+00:00"
+}

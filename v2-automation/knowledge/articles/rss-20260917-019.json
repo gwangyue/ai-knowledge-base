@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260917-019",
+  "title": "The Inference Engineering Pareto Atlas: Which Optimizations Dominate the Cost, Quality, and Latency Frontier?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.17863",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-17T13:03:05.617708+00:00",
+  "collected_at": "2026-09-17T13:03:05.617708+00:00",
+  "summary": "本文提出了推理工程帕累托图谱，系统分析了多种推理优化技术（如量化、批处理、推测解码等）在成本、质量和延迟三个维度上的权衡关系。通过构建帕累托前沿，揭示了不同优化策略的支配区域，为实际部署中选择最优优化组合提供了量化指导。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-17T13:03:56.859344+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260917-001",
+  "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://mistral.ai/news/mistral-x-mozilla/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-17T13:03:04.622826+00:00",
+  "collected_at": "2026-09-17T13:03:04.622826+00:00",
+  "summary": "Mistral 与 Mozilla 合作，将 Mistral 的多语言大模型集成到 Firefox 浏览器中，实现本地化、隐私保护的 AI 浏览体验。该方案支持多语言处理，所有推理在设备端完成，避免用户数据上传云端，为浏览器 AI 功能提供了兼顾隐私与性能的部署范例。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-17T13:03:56.859264+00:00"
+}

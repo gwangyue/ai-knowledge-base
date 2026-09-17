@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260917-003",
+  "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.17631",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-17T13:03:05.617585+00:00",
+  "collected_at": "2026-09-17T13:03:05.617585+00:00",
+  "summary": "该论文提出了一种“可证伪出版记录”协议与出版权威机制，使AI辅助生成的声明能够被独立挑战和验证。其核心价值在于为AI辅助研究建立可追溯、可质疑的出版标准，提升学术透明度和可信度。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-17T13:03:56.859287+00:00"
+}

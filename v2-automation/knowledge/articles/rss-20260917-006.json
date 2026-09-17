@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260917-006",
+  "title": "Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.17635",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-17T13:03:05.617640+00:00",
+  "collected_at": "2026-09-17T13:03:05.617640+00:00",
+  "summary": "该论文提出了一种物理约束的数字孪生框架，用于在城市行人流场景中检测隐蔽的虚假数据注入攻击，并利用保形预测提供检测的统计保证。其核心价值在于将物理模型与数据驱动方法结合，增强了传感器数据的完整性和安全性，对智慧城市基础设施的网络安全具有实际意义。",
+  "score": 7,
+  "tags": [
+    "security",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-17T13:03:56.859297+00:00"
+}

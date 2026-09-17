@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260917-017",
+  "title": "Learning Heterogeneous Preferences",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.17847",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-17T13:03:05.617696+00:00",
+  "collected_at": "2026-09-17T13:03:05.617696+00:00",
+  "summary": "该论文研究如何学习异构偏好，即不同用户或场景下偏好结构的差异。其核心价值在于提出建模偏好异质性的方法，提升推荐或决策系统对多样化偏好的适应能力。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-17T13:03:56.859338+00:00"
+}

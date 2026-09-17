@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260917-009",
+  "title": "GraphEcho: Structural Redundancy and Evidence Provenance in LLM Graph Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.17695",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-17T13:03:05.617655+00:00",
+  "collected_at": "2026-09-17T13:03:05.617655+00:00",
+  "summary": "该论文研究LLM图智能体中的结构冗余与证据溯源问题，提出GraphEcho方法以识别和利用图结构中的冗余信息来追踪推理证据。其价值在于提升图智能体推理的可解释性与可靠性，为基于图的LLM推理系统提供新的分析视角。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-17T13:03:56.859307+00:00"
+}
