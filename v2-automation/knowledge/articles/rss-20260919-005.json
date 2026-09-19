@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260919-005",
+  "title": "How to Write with an LLM",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-19T12:17:03.104160+00:00",
+  "collected_at": "2026-09-19T12:17:03.104160+00:00",
+  "summary": "本文探讨了如何利用大语言模型（LLM）辅助写作，重点介绍了提示工程技巧、迭代优化方法以及如何保持作者风格。内容实用，适合希望提升写作效率的开发者与内容创作者。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-19T12:17:53.266992+00:00"
+}

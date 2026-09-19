@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260919-007",
+  "title": "Your Agent Aced the Task. Will It Do It Again?",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-09-19T12:17:04.566029+00:00",
+  "collected_at": "2026-09-19T12:17:04.566029+00:00",
+  "summary": "该文章探讨了AI Agent在任务执行中的可重复性与稳定性问题，即Agent在成功完成一次任务后，能否在相同或类似条件下再次可靠地完成任务。文章强调了评估Agent鲁棒性和一致性的重要性，并可能提出了衡量重复执行成功率的基准或方法，为Agent的部署与可靠性评估提供了关键视角。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-19T12:17:53.266998+00:00"
+}

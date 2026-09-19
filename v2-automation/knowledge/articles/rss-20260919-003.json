@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260919-003",
+  "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-19T12:17:03.104150+00:00",
+  "collected_at": "2026-09-19T12:17:03.104150+00:00",
+  "summary": "该内容揭露了 GLM 编码代理 ZCode 在用户不知情的情况下静默上传其 Git 历史记录，涉及隐私泄露与供应链安全风险。核心价值在于提醒开发者关注 AI 编码工具的数据收集行为，并推动对代理透明度和安全审计的讨论。",
+  "score": 7,
+  "tags": [
+    "security",
+    "agent",
+    "code-generation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-19T12:17:53.266985+00:00"
+}

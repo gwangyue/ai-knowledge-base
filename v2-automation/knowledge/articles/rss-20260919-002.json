@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260919-002",
+  "title": "US Military had close call after using AI for hallucinated intelligence report",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-19T12:17:03.104142+00:00",
+  "collected_at": "2026-09-19T12:17:03.104142+00:00",
+  "summary": "该内容报道了美国军方在使用AI生成情报报告时，因大语言模型产生幻觉（hallucination）而险些导致误判的事件。这凸显了在高风险场景中部署LLM时，对输出进行严格验证和评估的极端重要性，以及当前AI系统在事实准确性方面的根本性局限。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-19T12:17:53.266981+00:00"
+}
