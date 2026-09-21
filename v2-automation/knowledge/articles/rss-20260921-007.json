@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260921-007",
+  "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.21061",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-21T14:51:08.593064+00:00",
+  "collected_at": "2026-09-21T14:51:08.593064+00:00",
+  "summary": "该论文提出将LoRA（低秩适应）与对比学习相结合，应用于SAS（可能指自监督或特定视觉任务）视觉Transformer，旨在提升模型在视觉表示学习中的性能。核心价值在于探索参数高效微调与对比学习的协同效应，为视觉Transformer的轻量化训练提供新思路。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-21T14:51:58.495062+00:00"
+}

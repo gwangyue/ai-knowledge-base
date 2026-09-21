@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260921-001",
+  "title": "Pirate Face Rescues LLM Models from Deletion",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://pirateface.co/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-21T14:51:07.666807+00:00",
+  "collected_at": "2026-09-21T14:51:07.666807+00:00",
+  "summary": "该项目（Pirate Face）旨在解决 LLM 模型被意外删除或丢失的问题，提供了一种模型保存与恢复的机制。其核心价值在于增强模型部署的鲁棒性，防止因误操作或系统故障导致模型资产损失，对模型运维和部署有实际意义。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-21T14:51:58.495034+00:00"
+}

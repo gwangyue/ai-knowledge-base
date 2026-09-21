@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260921-018",
+  "title": "A Fully Differentiable Neuro-Soft-Symbolic Framework for Perceptual Task Planning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.21221",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-21T14:51:08.593105+00:00",
+  "collected_at": "2026-09-21T14:51:08.593105+00:00",
+  "summary": "该论文提出了一种完全可微分的神经-软符号框架，用于感知任务规划，将神经网络的感知能力与软符号推理相结合，实现端到端可训练的任务规划。其核心价值在于弥合了符号推理与神经网络之间的鸿沟，提升了复杂感知任务中的规划性能和泛化能力。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "vision",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-21T14:51:58.495086+00:00"
+}

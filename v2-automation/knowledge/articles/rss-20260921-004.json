@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260921-004",
+  "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.20971",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-21T14:51:08.593005+00:00",
+  "collected_at": "2026-09-21T14:51:08.593005+00:00",
+  "summary": "该论文提出RBS-Attention（半径有界稀疏预填充）方法，用于长上下文大语言模型的高效推理。通过限制注意力计算半径并采用稀疏预填充策略，显著降低长序列处理的计算和内存开销，同时保持模型性能。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-21T14:51:58.495054+00:00"
+}

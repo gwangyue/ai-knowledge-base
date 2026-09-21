@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260921-005",
+  "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.20974",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-21T14:51:08.593052+00:00",
+  "collected_at": "2026-09-21T14:51:08.593052+00:00",
+  "summary": "该论文提出了一种注意力感知路由（Attention-Aware Routing）方法，将路由决策与注意力机制耦合，用于改进混合专家（MoE）模型中的专家选择。其核心价值在于通过注意力信号动态引导路由，提升模型效率和性能，为MoE架构设计提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-21T14:51:58.495057+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260921-013",
+  "title": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.21165",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-21T14:51:08.593088+00:00",
+  "collected_at": "2026-09-21T14:51:08.593088+00:00",
+  "summary": "该论文提出 SpecOpt，一种基于接触差异推理（Contact-Diff Reasoning）的智能体分子优化方法，旨在提升分子与靶标结合的专一性。其核心价值在于将智能体推理与结构生物学信息结合，为理性药物设计提供更精准的优化策略。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-21T14:51:58.495076+00:00"
+}

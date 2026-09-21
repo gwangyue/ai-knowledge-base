@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260921-019",
+  "title": "CogGym: Towards Large-Scale Comparative Evaluation of Human and Machine Cognition",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.21259",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-21T14:51:08.593108+00:00",
+  "collected_at": "2026-09-21T14:51:08.593108+00:00",
+  "summary": "CogGym 是一个用于大规模比较评估人类与机器认知的基准测试框架，旨在系统性地衡量 AI 系统在认知任务上与人类表现的差异。该工作为评估 AI 的通用认知能力提供了标准化工具，有助于推动更接近人类水平的 AI 系统的发展。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-21T14:51:58.495088+00:00"
+}

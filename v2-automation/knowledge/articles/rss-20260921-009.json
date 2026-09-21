@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260921-009",
+  "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.21113",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-21T14:51:08.593073+00:00",
+  "collected_at": "2026-09-21T14:51:08.593073+00:00",
+  "summary": "该论文研究微调后大语言模型内部表征变化与因果重要性之间的解耦关系，提出方法区分哪些内部变化对模型行为有因果影响。其价值在于为理解微调机制和提升模型可解释性提供新视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-21T14:51:58.495066+00:00"
+}

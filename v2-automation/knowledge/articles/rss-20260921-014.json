@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260921-014",
+  "title": "Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.21181",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-21T14:51:08.593091+00:00",
+  "collected_at": "2026-09-21T14:51:08.593091+00:00",
+  "summary": "该论文研究在ARC-like任务中通过测试时任务嵌入实现隐式规则归纳，旨在让AI系统在推理阶段动态适应新任务而无需微调。其核心价值在于提升模型对抽象推理任务的泛化能力，为少样本和零样本场景下的规则学习提供了新思路。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-21T14:51:58.495078+00:00"
+}

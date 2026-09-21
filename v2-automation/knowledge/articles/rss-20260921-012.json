@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260921-012",
+  "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.21157",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-21T14:51:08.593084+00:00",
+  "collected_at": "2026-09-21T14:51:08.593084+00:00",
+  "summary": "该论文探讨了使用基于LLM的智能体在更高抽象层次上设计芯片的可行性，通过将芯片设计任务抽象为高级规范，让智能体自动生成RTL代码或优化设计。研究表明，这种方法能有效降低设计复杂度并提升迭代效率，为AI辅助硬件设计提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-21T14:51:58.495072+00:00"
+}

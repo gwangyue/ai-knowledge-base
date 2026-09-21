@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260921-015",
+  "title": "AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.21192",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-21T14:51:08.593094+00:00",
+  "collected_at": "2026-09-21T14:51:08.593094+00:00",
+  "summary": "该论文提出了 AI-GRACE 框架，用于将组织目标与义务操作化为智能体 AI 的部署能力与架构。其核心价值在于弥合了高层业务需求与底层技术实现之间的鸿沟，为智能体 AI 的落地提供了系统化的方法论。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-21T14:51:58.495080+00:00"
+}
