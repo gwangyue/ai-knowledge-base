@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260922-001",
+  "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://linear.app/now/ci-bottleneck-reworked",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-22T13:06:42.258051+00:00",
+  "collected_at": "2026-09-22T13:06:42.258051+00:00",
+  "summary": "文章探讨了AI编码工具普及后，持续集成（CI）成为开发流程瓶颈的问题，并分享了团队如何重构CI系统以应对AI生成代码带来的更高频率和更大规模的构建与测试需求。核心价值在于提供了在AI辅助开发时代优化CI基础设施的实践经验和架构思路。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-22T13:07:28.913125+00:00"
+}
