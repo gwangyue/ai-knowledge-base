@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260923-020",
+  "title": "Robust Failure, Conservative Repair: Textual Knowledge Distillation from Cross-Model Failures",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.25400",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-23T13:21:44.788715+00:00",
+  "collected_at": "2026-09-23T13:21:44.788715+00:00",
+  "summary": "该论文提出了一种从跨模型失败中提取文本知识蒸馏的方法，通过鲁棒性失败检测和保守修复策略，提升模型在复杂任务中的可靠性。其核心价值在于利用不同模型间的失败案例进行知识迁移，为模型鲁棒性提升提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-23T13:22:33.224737+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260923-010",
+  "title": "Lean Pool: An AI-Maintained Archive of Formalized Mathematics",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.25199",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-23T13:21:44.788666+00:00",
+  "collected_at": "2026-09-23T13:21:44.788666+00:00",
+  "summary": "Lean Pool 是一个由 AI 维护的形式化数学归档系统，旨在自动收集、整理和验证 Lean 证明库中的数学定理与证明。其核心价值在于利用 AI 技术降低形式化数学的维护成本，促进数学知识的可复用与可验证共享。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "code-generation",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-23T13:22:33.224706+00:00"
+}

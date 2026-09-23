@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260923-017",
+  "title": "Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.25303",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-23T13:21:44.788700+00:00",
+  "collected_at": "2026-09-23T13:21:44.788700+00:00",
+  "summary": "该论文探讨了利用 Wiki 索引结合大语言模型（LLM）来增强机器学习课程学习效果的潜力。核心价值在于提出了一种将结构化知识库（Wiki）与 LLM 索引相结合的方法，以支持更高效的知识检索和学习辅助，为教育场景下的 AI 应用提供了新思路。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-23T13:22:33.224728+00:00"
+}

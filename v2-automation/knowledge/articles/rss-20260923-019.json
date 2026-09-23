@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260923-019",
+  "title": "From Decorative to Load-Bearing: Task Difficulty Shapes the Causal Role of Chain-of-Thought",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.25366",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-23T13:21:44.788710+00:00",
+  "collected_at": "2026-09-23T13:21:44.788710+00:00",
+  "summary": "该论文研究了思维链（Chain-of-Thought）在不同任务难度下的因果作用，发现其从装饰性变为承重性：简单任务中CoT可能不必要，而困难任务中CoT对模型性能有实质性因果贡献。这一发现为理解CoT的适用边界和优化提示策略提供了重要依据。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "prompt-engineering",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-23T13:22:33.224735+00:00"
+}

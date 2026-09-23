@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260923-006",
+  "title": "4DGS-JEPA: Temporally Compositional Joint-Embedding Prediction for Dynamic Gaussian Splatting",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.25036",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-23T13:21:44.788645+00:00",
+  "collected_at": "2026-09-23T13:21:44.788645+00:00",
+  "summary": "该论文提出4DGS-JEPA，一种用于动态高斯泼溅（Dynamic Gaussian Splatting）的时序组合式联合嵌入预测方法，旨在从4D动态场景中学习可预测的表示。其核心价值在于将JEPA（联合嵌入预测架构）扩展到动态高斯表示，实现时序一致且高效的动态场景建模，有望提升4D重建与预测的泛化能力。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-23T13:22:33.224694+00:00"
+}

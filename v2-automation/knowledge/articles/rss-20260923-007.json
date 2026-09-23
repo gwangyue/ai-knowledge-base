@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260923-007",
+  "title": "An Accurate and Interpretable Hyper Graph Neural Network for GBM Survival Prediction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.25088",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-23T13:21:44.788651+00:00",
+  "collected_at": "2026-09-23T13:21:44.788651+00:00",
+  "summary": "该论文提出了一种准确且可解释的超图神经网络，用于胶质母细胞瘤（GBM）的生存预测。通过利用超图结构捕捉患者间高阶关系，模型在提升预测精度的同时增强了可解释性，为精准医疗提供了新工具。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-23T13:22:33.224697+00:00"
+}
