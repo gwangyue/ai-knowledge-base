@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260925-016",
+  "title": "Progressive Skill Discovery as Access Control for Tool-Using LLM Agents: Structural Governance through Role-Scoped Capability Delivery",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.28693",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-25T13:15:23.277449+00:00",
+  "collected_at": "2026-09-25T13:15:23.277449+00:00",
+  "summary": "该论文提出了一种渐进式技能发现机制，作为工具使用型LLM智能体的访问控制手段，通过角色范围的能力交付实现结构化治理。其核心价值在于为智能体工具调用提供细粒度的权限管理，增强安全性与可控性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "security",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-25T13:16:12.288237+00:00"
+}

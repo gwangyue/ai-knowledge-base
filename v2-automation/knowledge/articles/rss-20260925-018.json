@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260925-018",
+  "title": "Agent Memory with Episodic Retrieval for Financial Decision-Making",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.28771",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-25T13:15:23.277459+00:00",
+  "collected_at": "2026-09-25T13:15:23.277459+00:00",
+  "summary": "该论文提出了一种基于情景记忆检索的Agent记忆机制，用于提升金融决策任务中的长期依赖和上下文感知能力。通过模拟人类情景记忆的检索方式，Agent能够更有效地利用历史交互信息，从而在动态金融环境中做出更优决策。该工作为LLM Agent在专业领域的记忆增强提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-25T13:16:12.288243+00:00"
+}

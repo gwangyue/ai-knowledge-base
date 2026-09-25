@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260925-019",
+  "title": "Learned Cross-Task Relationships in Multi-Task Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.28776",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-25T13:15:23.277465+00:00",
+  "collected_at": "2026-09-25T13:15:23.277465+00:00",
+  "summary": "该论文探讨了多任务模型中跨任务关系的学习机制，分析了模型如何自动发现和利用任务间的相关性来提升整体性能。其价值在于为设计更高效的多任务学习架构和迁移策略提供了理论依据与实证分析。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-25T13:16:12.288246+00:00"
+}

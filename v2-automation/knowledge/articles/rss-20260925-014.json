@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260925-014",
+  "title": "Beyond Surface Style: Aligning Multi-Turn User Simulators with Behavioral Consistency",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.28690",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-25T13:15:23.277440+00:00",
+  "collected_at": "2026-09-25T13:15:23.277440+00:00",
+  "summary": "该论文针对多轮对话用户模拟器（user simulator）仅关注表面风格对齐而忽略行为一致性的问题，提出了一种新的对齐方法，使模拟器在多轮交互中保持行为一致性。其核心价值在于提升用户模拟器在对话系统评估和训练中的可靠性，从而更准确地反映真实用户行为。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-25T13:16:12.288231+00:00"
+}

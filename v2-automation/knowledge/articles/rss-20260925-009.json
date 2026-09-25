@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260925-009",
+  "title": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.28557",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-25T13:15:23.277417+00:00",
+  "collected_at": "2026-09-25T13:15:23.277417+00:00",
+  "summary": "BaseCamp 是一个面向 DNA 测序数据处理的智能体 AI 框架，旨在通过自动化手段简化并加速复杂的生物信息学分析流程。该框架利用智能体技术协调多种工具与步骤，降低人工干预需求，提升测序数据分析的可重复性与效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-25T13:16:12.288216+00:00"
+}

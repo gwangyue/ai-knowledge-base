@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260925-005",
+  "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.28475",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-25T13:15:23.277369+00:00",
+  "collected_at": "2026-09-25T13:15:23.277369+00:00",
+  "summary": "该论文针对预测型AI代理的可靠性问题，提出了行为压力测试方法，用于评估代理在不同场景下何时需要进行推理。通过压力测试识别代理的推理需求，并据此设计可靠性路由策略，以平衡推理成本与预测准确性。这项工作为代理系统的部署提供了重要的评估框架和优化思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-25T13:16:12.288203+00:00"
+}

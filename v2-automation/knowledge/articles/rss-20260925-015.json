@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260925-015",
+  "title": "Driving Epidemic Models with AI Agents: the Epydemix Agent Framework",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.28692",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-25T13:15:23.277444+00:00",
+  "collected_at": "2026-09-25T13:15:23.277444+00:00",
+  "summary": "该论文提出了 Epydemix Agent Framework，将 AI 智能体（AI Agents）与流行病学模型相结合，用于驱动和优化传染病模拟。其核心价值在于利用智能体技术提升流行病模型的适应性和决策支持能力，为公共卫生应对提供更智能的仿真工具。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-25T13:16:12.288234+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260925-017",
+  "title": "Reinforcement Learning with Verifiable Rewards for Small Search Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.28765",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-25T13:15:23.277454+00:00",
+  "collected_at": "2026-09-25T13:15:23.277454+00:00",
+  "summary": "该论文探讨了使用可验证奖励的强化学习（RLVR）来训练小型搜索代理，旨在提升其搜索和推理能力。核心价值在于为资源受限场景下的智能体训练提供了一种高效方法，并可能推动搜索代理在复杂任务中的实际应用。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-25T13:16:12.288240+00:00"
+}

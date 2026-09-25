@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260925-006",
+  "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.28506",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-25T13:15:23.277398+00:00",
+  "collected_at": "2026-09-25T13:15:23.277398+00:00",
+  "summary": "该论文提出 TW3Cast，一种用于时间序列预测的冻结路由器方法，通过轻微微调基础模型并在训练集上完全选择模型，在 GIFT-Eval 基准上取得优异表现。其核心价值在于提供了一种高效、无需在验证集上调参的模型选择策略，降低了时间序列预测任务的部署成本。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-25T13:16:12.288207+00:00"
+}
