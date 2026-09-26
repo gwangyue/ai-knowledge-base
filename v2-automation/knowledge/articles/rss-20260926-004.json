@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260926-004",
+  "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/evaleval-aisi",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-09-26T12:40:15.097040+00:00",
+  "collected_at": "2026-09-26T12:40:15.097040+00:00",
+  "summary": "英国AI安全研究所（AISI）与EvalEval合作，通过标准化评估流程、公开模型和数据集版本、提供可复现的评估工具，使AI基准测试结果可复现。该工作提升了AI评估的透明度和可信度，对模型比较和监管至关重要。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-26T12:41:03.131948+00:00"
+}
