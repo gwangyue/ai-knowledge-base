@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260928-002",
+  "title": "There are no \"rogue\" AI agents",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-28T16:27:41.238674+00:00",
+  "collected_at": "2026-09-28T16:27:41.238674+00:00",
+  "summary": "文章探讨了所谓“流氓”AI代理的概念，认为当前AI代理的行为完全由设计、训练和部署决定，不存在自主的恶意意图。其价值在于引导开发者关注代理系统的可解释性、安全约束和评估机制，而非将问题归咎于代理本身。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-28T16:28:27.299661+00:00"
+}

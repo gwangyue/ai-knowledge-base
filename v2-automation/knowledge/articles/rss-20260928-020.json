@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260928-020",
+  "title": "T-RoPE: Time-Aware Rotary Position Embedding for Sequential Recommendation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.30576",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-28T16:27:42.471368+00:00",
+  "collected_at": "2026-09-28T16:27:42.471368+00:00",
+  "summary": "该论文提出 T-RoPE，一种时间感知的旋转位置嵌入方法，用于序列推荐任务。通过将时间信息融入旋转位置编码，模型能更有效地捕捉用户行为序列中的时间动态，提升推荐准确性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-28T16:28:27.299706+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260928-018",
+  "title": "Atelier: Learning Local Self-Supervised Features for CryoEM Volumes via Hypernetworks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.30569",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-28T16:27:42.471362+00:00",
+  "collected_at": "2026-09-28T16:27:42.471362+00:00",
+  "summary": "该论文提出 Atelier，一种通过超网络学习冷冻电镜（CryoEM）体数据局部自监督特征的方法。其核心价值在于无需人工标注即可提取高质量局部特征，提升 CryoEM 三维结构解析的自动化与精度。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "fine-tuning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-28T16:28:27.299702+00:00"
+}

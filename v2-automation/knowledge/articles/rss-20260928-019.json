@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260928-019",
+  "title": "HARDEN: Constrained Evolutionary Search for Harder, Answer-Preserving Evaluation Cases",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.30571",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-28T16:27:42.471365+00:00",
+  "collected_at": "2026-09-28T16:27:42.471365+00:00",
+  "summary": "HARDEN 提出了一种约束进化搜索方法，用于自动生成更困难但保持答案正确性的评估案例，从而更严格地测试 AI 模型的鲁棒性和推理能力。该工作有助于揭示模型在对抗性扰动下的性能边界，提升评估的可靠性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-28T16:28:27.299704+00:00"
+}

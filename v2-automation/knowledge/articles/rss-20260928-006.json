@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260928-006",
+  "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.30328",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-28T16:27:42.471326+00:00",
+  "collected_at": "2026-09-28T16:27:42.471326+00:00",
+  "summary": "该论文针对多智能体代码评审（Multi-Agent Code Judge）的可靠性问题，提出了两种无需人工标注的度量方法来评估其判断是否真正基于代码事实，并设计了一种在不确定时主动拒绝猜测的评审机制。这项工作有助于提升自动化代码评估的可信度，减少幻觉性判断，对多智能体代码生成与评估领域具有实用价值。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "evaluation",
+    "code-generation",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-28T16:28:27.299671+00:00"
+}

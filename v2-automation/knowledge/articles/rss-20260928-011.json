@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260928-011",
+  "title": "Spectral Feedback for Test-Time Alignment of Protein Diffusion Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.30456",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-28T16:27:42.471343+00:00",
+  "collected_at": "2026-09-28T16:27:42.471343+00:00",
+  "summary": "该论文提出了一种基于谱反馈的测试时对齐方法，用于提升蛋白质扩散模型生成样本的质量与功能一致性。该方法无需重新训练模型，通过在采样过程中引入谱域反馈信号来引导生成，为蛋白质设计提供了一种高效灵活的测试时优化策略。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-28T16:28:27.299685+00:00"
+}
