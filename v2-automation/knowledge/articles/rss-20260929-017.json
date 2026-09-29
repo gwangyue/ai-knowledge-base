@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260929-017",
+  "title": "Choir: An Open Protocol for Distributed Multi-Agent Autoformalization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.31903",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-29T14:37:26.583743+00:00",
+  "collected_at": "2026-09-29T14:37:26.583743+00:00",
+  "summary": "该论文提出Choir，一个用于分布式多智能体自动形式化的开放协议，旨在通过多个AI智能体协作将自然语言数学问题转化为形式化规范。其核心价值在于利用分布式多智能体架构提升自动形式化的可扩展性和鲁棒性，为数学推理和代码生成领域提供新思路。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-29T14:38:13.488382+00:00"
+}

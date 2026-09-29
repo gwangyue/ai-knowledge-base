@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260929-001",
+  "title": "AI companies leak data to advertisers [pdf]",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-29T14:37:25.723189+00:00",
+  "collected_at": "2026-09-29T14:37:25.723189+00:00",
+  "summary": "该内容指出 AI 公司（尤其是提供聊天机器人或 AI 服务的平台）存在向广告商泄露用户数据的问题，可能涉及通过追踪像素、第三方脚本或 API 调用将对话内容、用户行为等敏感信息传递给广告网络。该分析揭示了 AI 服务在隐私保护和数据安全方面的重大风险，对用户、开发者和监管机构具有警示价值。",
+  "score": 7,
+  "tags": [
+    "security",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-29T14:38:13.488316+00:00"
+}

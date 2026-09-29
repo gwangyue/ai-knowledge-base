@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260929-003",
+  "title": "The problem is not AI code, but not knowing about system architecture or intent",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-29T14:37:25.723221+00:00",
+  "collected_at": "2026-09-29T14:37:25.723221+00:00",
+  "summary": "本文讨论了AI代码生成的核心问题并非AI本身，而是开发者对系统架构和意图的理解不足。作者强调在利用AI生成代码时，清晰的架构设计和明确的意图表达比代码生成技术更为关键，这为AI辅助软件开发提供了重要的实践视角。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-29T14:38:13.488338+00:00"
+}

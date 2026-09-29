@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260929-009",
+  "title": "ConflictVLA-Bench: Benchmarking Behavioral Responses of Vision-Language-Action Models to Premise Conflicts",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.31792",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-29T14:37:26.583699+00:00",
+  "collected_at": "2026-09-29T14:37:26.583699+00:00",
+  "summary": "该论文提出了 ConflictVLA-Bench，一个用于评估视觉-语言-动作（VLA）模型在前提冲突场景下行为反应的基准测试。其核心价值在于揭示了现有 VLA 模型在面临矛盾指令或环境前提时的鲁棒性缺陷，为多模态智能体的安全部署和可靠性评估提供了标准化工具。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "vision",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-29T14:38:13.488352+00:00"
+}

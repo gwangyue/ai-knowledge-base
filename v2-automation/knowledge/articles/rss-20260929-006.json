@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260929-006",
+  "title": "SMARtCARE: Privacy-Preserving Agentic AI Systems for Bounded-Autonomy Clinical Decision Support",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.31763",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-29T14:37:26.583631+00:00",
+  "collected_at": "2026-09-29T14:37:26.583631+00:00",
+  "summary": "该论文提出SMARtCARE，一种用于临床决策支持的隐私保护智能体AI系统，采用有界自主性设计，在保障患者数据隐私的同时提供辅助决策。其核心价值在于将智能体AI安全地引入医疗场景，平衡自动化与临床监督。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-29T14:38:13.488341+00:00"
+}
