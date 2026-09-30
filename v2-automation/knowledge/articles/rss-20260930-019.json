@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260930-019",
+  "title": "Mirror-Score: Calibrated, Inference-only Scoring Exposes the Limits of Sequence-compatibility Ranking in D-peptide Design",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.36057",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-30T14:37:29.109228+00:00",
+  "collected_at": "2026-09-30T14:37:29.109228+00:00",
+  "summary": "该论文提出Mirror-Score，一种校准的、仅推理的评分方法，用于D-肽设计中的序列兼容性排序。研究发现现有序列兼容性排序方法存在局限性，而Mirror-Score能够更准确地评估D-肽与靶标的结合潜力，为肽类药物设计提供了新的评估工具。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-30T14:38:18.187369+00:00"
+}

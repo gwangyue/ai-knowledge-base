@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260930-007",
+  "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.35868",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-30T14:37:29.109170+00:00",
+  "collected_at": "2026-09-30T14:37:29.109170+00:00",
+  "summary": "该论文探讨了在LLM微调中是否必须使用人类可读文本，可能提出使用非文本表示（如嵌入或压缩形式）进行微调的方法，并评估其对模型性能的影响。其价值在于挑战传统微调范式，为更高效或隐私保护的微调提供新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-30T14:38:18.187331+00:00"
+}

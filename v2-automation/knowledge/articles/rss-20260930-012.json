@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260930-012",
+  "title": "Representational Simplicity and Circuit Size Dissociate in a Threshold-Dependent Way: A Controlled Test via Adversarial Training",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.35890",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-30T14:37:29.109195+00:00",
+  "collected_at": "2026-09-30T14:37:29.109195+00:00",
+  "summary": "该论文通过对抗训练控制实验，研究了神经网络的表示简单性与电路大小之间的关系，发现二者在阈值依赖的方式下可以解离，即表示简单性并不总是伴随电路大小的减少。这一发现挑战了表示简单性与电路复杂度正相关的传统假设，为理解神经网络内部机制和设计更有效的正则化方法提供了新视角。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-30T14:38:18.187346+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260930-001",
+  "title": "DraftKings is using AI to behaviorally target chronic gamblers",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-30T14:37:28.038127+00:00",
+  "collected_at": "2026-09-30T14:37:28.038127+00:00",
+  "summary": "该内容讨论了DraftKings利用AI技术对长期赌博者进行行为定向，涉及用户行为分析、机器学习模型和个性化推荐系统。其价值在于揭示了AI在商业应用中的伦理争议和潜在风险，引发对算法公平性和用户保护的讨论。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-30T14:38:18.187303+00:00"
+}

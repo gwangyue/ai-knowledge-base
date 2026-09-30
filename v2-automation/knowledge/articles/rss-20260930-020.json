@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260930-020",
+  "title": "SMat-Attention: Structured Long-Context Sequence Modeling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.36062",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-30T14:37:29.109232+00:00",
+  "collected_at": "2026-09-30T14:37:29.109232+00:00",
+  "summary": "SMat-Attention 提出了一种结构化注意力机制，用于高效建模长上下文序列，通过矩阵分解或稀疏模式降低计算复杂度，同时保持对长距离依赖的捕捉能力。该工作有望提升 LLM 在长文档理解、检索增强生成等场景下的性能与效率。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "rag",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-30T14:38:18.187372+00:00"
+}

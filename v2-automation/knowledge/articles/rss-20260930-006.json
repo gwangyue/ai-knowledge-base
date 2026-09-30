@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260930-006",
+  "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.35833",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-30T14:37:29.109159+00:00",
+  "collected_at": "2026-09-30T14:37:29.109159+00:00",
+  "summary": "该论文提出了一种神经符号路由方法，用于在资源受限的边缘设备上实现可靠的推理。通过结合神经网络的高效感知与符号推理的严谨性，动态选择推理路径，从而在有限计算资源下提升推理的准确性和鲁棒性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-30T14:38:18.187326+00:00"
+}

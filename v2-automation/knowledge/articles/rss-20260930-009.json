@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260930-009",
+  "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.35873",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-30T14:37:29.109181+00:00",
+  "collected_at": "2026-09-30T14:37:29.109181+00:00",
+  "summary": "该论文探讨了LLM harness（如代码生成或工具调用框架）中增加程序数量与增加采样次数对覆盖率和专业化能力的影响，旨在区分两者在提升模型性能上的不同作用。其价值在于为LLM harness的设计和评估提供了理论指导，帮助优化资源分配以平衡泛化与专精。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-30T14:38:18.187337+00:00"
+}
