@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261001-008",
+  "title": "CARAT: Do Materials LLMs Reason or Recite?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.38340",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-01T15:06:04.910767+00:00",
+  "collected_at": "2026-10-01T15:06:04.910767+00:00",
+  "summary": "CARAT 是一个针对材料科学领域大语言模型（Materials LLMs）的评估框架，旨在区分模型是真正进行推理（reasoning）还是仅仅背诵（recite）训练数据中的知识。该工作通过设计需要多步推理的材料科学问题，揭示了当前模型在泛化推理能力上的不足，为材料领域 LLM 的可靠评估提供了重要基准。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-01T15:06:54.153178+00:00"
+}

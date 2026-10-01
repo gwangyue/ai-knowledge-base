@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261001-006",
+  "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.38294",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-01T15:06:04.910751+00:00",
+  "collected_at": "2026-10-01T15:06:04.910751+00:00",
+  "summary": "MoFlow 提出了一种面向多目标优化的智能体工作流自动生成方法，旨在解决复杂任务中工作流结构设计与多目标权衡的难题。该工作通过将工作流生成建模为多目标优化问题，提升了智能体系统的自动化程度与任务执行效率，对 Agent 工作流自动化领域具有参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-01T15:06:54.153173+00:00"
+}

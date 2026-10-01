@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261001-013",
+  "title": "Aligned Data Can Induce Misalignment via Context Confusion",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.38379",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-01T15:06:04.910798+00:00",
+  "collected_at": "2026-10-01T15:06:04.910798+00:00",
+  "summary": "该论文发现，即使使用对齐数据，在上下文混淆的情况下也可能导致模型出现错位行为，揭示了当前对齐方法的潜在脆弱性。这项工作对于理解和提升大语言模型的安全性具有重要价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-01T15:06:54.153195+00:00"
+}

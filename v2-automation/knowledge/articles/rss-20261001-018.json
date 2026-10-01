@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261001-018",
+  "title": "ArgGYM: A Procedural, Engine-Verified Benchmark for Structured Defeasible Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.38409",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-01T15:06:04.910816+00:00",
+  "collected_at": "2026-10-01T15:06:04.910816+00:00",
+  "summary": "ArgGYM 是一个程序化生成、引擎验证的基准测试，用于评估结构化可废止推理能力。它通过自动生成推理任务并利用引擎验证答案，为 AI 系统在非单调推理场景下提供了可扩展且可靠的评估方法。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-01T15:06:54.153209+00:00"
+}

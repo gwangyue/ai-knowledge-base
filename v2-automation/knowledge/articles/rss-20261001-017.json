@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261001-017",
+  "title": "SimTrace: Grounded Multimodal User Trajectories Generation for Online User Modeling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.38397",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-01T15:06:04.910813+00:00",
+  "collected_at": "2026-10-01T15:06:04.910813+00:00",
+  "summary": "SimTrace 提出了一种生成基于真实场景的多模态用户轨迹的方法，用于在线用户建模。该方法通过模拟用户行为轨迹，为推荐系统、个性化服务等在线场景提供更真实的用户行为数据，从而提升用户建模的准确性和鲁棒性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-01T15:06:54.153207+00:00"
+}

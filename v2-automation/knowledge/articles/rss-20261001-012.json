@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261001-012",
+  "title": "Self-Evolving Harness on Multiple Tasks with the Agent as Its Own Optimizer",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.38372",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-01T15:06:04.910793+00:00",
+  "collected_at": "2026-10-01T15:06:04.910793+00:00",
+  "summary": "该论文提出了一种自我进化的智能体框架，让智能体在多任务环境中充当自身的优化器，通过迭代自我改进来提升任务表现。其核心价值在于减少人工干预，实现智能体能力的自主持续提升，为多任务学习和自动化优化提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-01T15:06:54.153193+00:00"
+}

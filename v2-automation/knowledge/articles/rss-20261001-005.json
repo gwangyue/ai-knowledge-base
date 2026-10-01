@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261001-005",
+  "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.38288",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-01T15:06:04.910739+00:00",
+  "collected_at": "2026-10-01T15:06:04.910739+00:00",
+  "summary": "AREX-2 提出了一种通过长时程反思任务来提升智能体自我改进能力的方法，旨在让智能体在复杂多步任务中通过反思机制持续优化自身行为。该工作为构建更自主、适应性更强的 AI 智能体提供了新的训练与评估范式，对长时程推理与自我进化研究具有重要价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-01T15:06:54.153170+00:00"
+}

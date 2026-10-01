@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261001-010",
+  "title": "Beyond Mode Collapse: Generating Diverse Synthetic Expert Conversations via Generative Flow Networks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.38359",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-01T15:06:04.910780+00:00",
+  "collected_at": "2026-10-01T15:06:04.910780+00:00",
+  "summary": "该论文提出使用生成流网络（GFlowNets）生成多样化的合成专家对话，以解决传统生成模型中的模式崩溃问题。其核心价值在于为对话系统训练提供更丰富、更多样化的数据，从而提升模型泛化能力和对话质量。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-01T15:06:54.153183+00:00"
+}
