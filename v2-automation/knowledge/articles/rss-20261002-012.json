@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261002-012",
+  "title": "EviGraph: Proof-Carrying Selective Recommendation over Temporal Public-Service Knowledge Graphs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00212",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T14:27:35.244291+00:00",
+  "collected_at": "2026-10-02T14:27:35.244291+00:00",
+  "summary": "EviGraph 提出了一种基于时序公共服务知识图谱的“携带证明的选择性推荐”方法，通过为推荐结果附加可验证的证据路径，提升推荐系统的透明度和可信度。该工作结合了知识图谱推理与形式化验证，在公共服务等高风险场景中具有重要价值。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-02T14:28:23.661128+00:00"
+}

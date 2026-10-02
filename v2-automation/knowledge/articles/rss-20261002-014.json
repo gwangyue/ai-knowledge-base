@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261002-014",
+  "title": "Robust Is Salient: An Informed Adversary Moves the Optimal Signal onto the Salience Pole",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00233",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T14:27:35.244303+00:00",
+  "collected_at": "2026-10-02T14:27:35.244303+00:00",
+  "summary": "该论文研究了在对抗性环境中，知情对手如何通过操纵信号显著性来影响最优信号的选择，揭示了鲁棒性与显著性之间的内在联系。其价值在于为对抗鲁棒性和信号设计提供了新的理论视角，可能影响安全关键系统的决策机制。",
+  "score": 7,
+  "tags": [
+    "security",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-02T14:28:23.661134+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261002-006",
+  "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00025",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T14:27:35.244275+00:00",
+  "collected_at": "2026-10-02T14:27:35.244275+00:00",
+  "summary": "本文提出了一种衡量微任务资格差距的方法，用于判断现成的小型语言模型（SLM）在何种条件下足以驱动智能体框架（Agent Harness）。该研究为在资源受限场景下选择SLM而非大型LLM提供了量化评估依据，有助于降低智能体部署成本并提升效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-02T14:28:23.661115+00:00"
+}

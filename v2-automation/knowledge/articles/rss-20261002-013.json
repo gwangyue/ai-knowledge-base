@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261002-013",
+  "title": "Build2SPARQL: A Large-Scale Text-to-SPARQL Benchmark Dataset for Building Knowledge Graph Querying",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00224",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T14:27:35.244301+00:00",
+  "collected_at": "2026-10-02T14:27:35.244301+00:00",
+  "summary": "该论文提出了Build2SPARQL，一个面向建筑领域知识图谱查询的大规模Text-to-SPARQL基准数据集，旨在解决自然语言到SPARQL查询转换任务中缺乏领域特定评测资源的问题。其核心价值在于为建筑信息模型（BIM）等场景下的知识图谱问答提供了标准化评测平台，推动了语义网与自然语言处理交叉领域的研究。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-02T14:28:23.661132+00:00"
+}

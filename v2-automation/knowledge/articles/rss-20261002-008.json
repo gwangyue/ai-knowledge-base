@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261002-008",
+  "title": "Gradient-Aligned Pair Selection for Personalized Preference Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00061",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T14:27:35.244281+00:00",
+  "collected_at": "2026-10-02T14:27:35.244281+00:00",
+  "summary": "该论文提出了一种基于梯度对齐的配对选择方法，用于个性化偏好优化，旨在通过选择与用户偏好梯度方向一致的训练样本对，提升大语言模型在个性化任务上的对齐效果。该方法有望降低偏好数据收集成本并增强模型对个体用户的适应能力。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-02T14:28:23.661119+00:00"
+}

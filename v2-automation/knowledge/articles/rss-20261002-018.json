@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261002-018",
+  "title": "Predictive Credit: Measuring What Scientific Explanations Add to Experimental Forecasts",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00314",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T14:27:35.244313+00:00",
+  "collected_at": "2026-10-02T14:27:35.244313+00:00",
+  "summary": "该论文提出了一种名为 Predictive Credit 的方法，用于量化科学解释（如因果机制或理论约束）对实验预测的额外贡献。通过对比仅基于数据驱动的预测模型与融入科学解释的模型，该方法能够评估解释性知识在提升预测准确性方面的实际价值，为科学发现与机器学习融合提供了可度量的框架。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-02T14:28:23.661142+00:00"
+}
