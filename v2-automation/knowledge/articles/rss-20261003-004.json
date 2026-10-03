@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261003-004",
+  "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-03T13:02:14.790948+00:00",
+  "collected_at": "2026-10-03T13:02:14.790948+00:00",
+  "summary": "AutoSynthData 提出了一种自动生成企业级 AI 代理训练数据的方法，旨在解决真实业务场景中高质量标注数据稀缺的问题。该技术通过合成数据生成流程，提升了代理在工具调用、多步推理等任务上的表现，为企业部署提供了可扩展的数据方案。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "fine-tuning",
+    "tool-use",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-03T13:03:06.197831+00:00"
+}
