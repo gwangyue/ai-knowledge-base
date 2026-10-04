@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261004-005",
+  "title": "With most information hidden, the game Stratego had stumped AI until now",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-04T13:42:34.665650+00:00",
+  "collected_at": "2026-10-04T13:42:34.665650+00:00",
+  "summary": "该内容介绍了AI在Stratego（军棋）游戏中的最新突破。Stratego因信息高度隐藏（类似不完美信息博弈）长期困扰AI，此前AI表现不佳。新研究通过结合深度强化学习与不完美信息博弈算法（如CFR变体）或搜索策略，首次在Stratego中达到高水平表现，推动了不完美信息博弈AI的发展。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-04T13:43:26.320657+00:00"
+}
