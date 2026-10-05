@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261005-018",
+  "title": "What Does a Token Cost? A Mixture-of-Agents Measurement of Sufficient Per-Token Compute",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.02491",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-05T16:48:17.995158+00:00",
+  "collected_at": "2026-10-05T16:48:17.995158+00:00",
+  "summary": "本文提出了一种基于混合智能体（Mixture-of-Agents）的测量方法，用于探究每个token所需的足够计算量，从而分析不同模型规模下的成本效益。该研究为优化LLM推理部署中的计算资源分配提供了量化依据，有助于在性能与成本之间找到平衡点。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "multi-agent",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-05T16:49:03.618322+00:00"
+}

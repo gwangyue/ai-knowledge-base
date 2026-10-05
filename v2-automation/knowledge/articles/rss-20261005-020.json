@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261005-020",
+  "title": "\"I just assumed that it would translate\": examining MT risk awareness among healthcare staff with abbreviations as a use case",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.02496",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-05T16:48:17.995168+00:00",
+  "collected_at": "2026-10-05T16:48:17.995168+00:00",
+  "summary": "该研究探讨了医疗人员对机器翻译（MT）风险意识的认知，以缩写词为案例，揭示了医疗场景中MT误译可能带来的安全隐患。通过访谈和实验，研究强调了在医疗环境中部署MT时需加强风险沟通与用户教育，对MT安全部署具有实践指导价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-05T16:49:03.618327+00:00"
+}

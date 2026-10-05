@@ -1,0 +1,17 @@
+{
+  "id": "rss-20261005-016",
+  "title": "Tropical Reinforcement Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.02478",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-05T16:48:17.995149+00:00",
+  "collected_at": "2026-10-05T16:48:17.995149+00:00",
+  "summary": "该论文将热带代数（tropical algebra）引入强化学习框架，提出了一种新的值函数表示方法，可能提升策略优化的效率和稳定性。其核心价值在于为强化学习提供了一种非传统的数学工具，有望解决传统方法中的数值不稳定和收敛问题。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-05T16:49:03.618312+00:00"
+}

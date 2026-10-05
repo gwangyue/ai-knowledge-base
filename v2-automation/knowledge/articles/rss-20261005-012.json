@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261005-012",
+  "title": "THPL: A Vision-to-Language Decision Support Framework for Rainbow Trout Feeding Management in RAS",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.02378",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-05T16:48:17.995132+00:00",
+  "collected_at": "2026-10-05T16:48:17.995132+00:00",
+  "summary": "该论文提出了 THPL 框架，将视觉信息转化为语言决策，用于循环水养殖系统（RAS）中虹鳟的投喂管理。其核心价值在于利用多模态 AI 技术优化水产养殖的精准投喂，减少饲料浪费并提升养殖效率。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-05T16:49:03.618301+00:00"
+}

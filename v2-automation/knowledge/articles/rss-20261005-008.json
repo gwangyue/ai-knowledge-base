@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261005-008",
+  "title": "World Editing: Intervening on Executable Worlds at Increasing Depth",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.02331",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-05T16:48:17.995115+00:00",
+  "collected_at": "2026-10-05T16:48:17.995115+00:00",
+  "summary": "该论文提出了一种在可执行世界（如代码环境或模拟器）中进行干预的通用框架，通过逐步增加干预深度来实现对世界状态的精细控制。其核心价值在于为AI智能体在复杂动态环境中的规划与调试提供了可扩展的编辑方法，有望提升代码生成、强化学习等任务的可靠性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-05T16:49:03.618289+00:00"
+}

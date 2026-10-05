@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261005-004",
+  "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.02267",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-05T16:48:17.995082+00:00",
+  "collected_at": "2026-10-05T16:48:17.995082+00:00",
+  "summary": "该论文针对LLM智能体框架中的系统1决策模型，提出了一种配对且自审计的评估方法，旨在解决快速模型与缓慢证据之间的评估偏差。其核心价值在于为智能体决策模型提供更可靠、可复现的评估框架，推动LLM智能体系统的稳健部署。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-05T16:49:03.618275+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261005-013",
+  "title": "FlashSinkhorn 2: Block-Sparse Entropic Optimal Transport",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.02395",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-05T16:48:17.995137+00:00",
+  "collected_at": "2026-10-05T16:48:17.995137+00:00",
+  "summary": "FlashSinkhorn 2 提出了一种块稀疏的熵最优传输算法，通过分块稀疏化策略显著加速 Sinkhorn 迭代，降低大规模最优传输问题的计算与内存开销。该工作为需要高效最优传输的机器学习任务（如领域适应、生成模型）提供了可扩展的实用方案。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-05T16:49:03.618304+00:00"
+}

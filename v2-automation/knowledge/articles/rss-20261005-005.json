@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261005-005",
+  "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.02281",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-05T16:48:17.995096+00:00",
+  "collected_at": "2026-10-05T16:48:17.995096+00:00",
+  "summary": "该论文提出AI风险观测站，通过分析企业年报中的AI披露内容，评估AI风险对社会韧性的影响。研究构建了跨行业AI风险披露数据集，揭示了企业如何识别和应对AI相关社会风险，为政策制定和风险管理提供实证依据。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-05T16:49:03.618279+00:00"
+}
