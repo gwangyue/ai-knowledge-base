@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261006-013",
+  "title": "Exploration-Preserving Policy Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.04011",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-06T14:44:45.030942+00:00",
+  "collected_at": "2026-10-06T14:44:45.030942+00:00",
+  "summary": "该论文提出了一种保持探索的策略优化方法，旨在解决强化学习训练中因过早收敛而导致的探索不足问题。其核心价值在于通过改进策略更新机制，在提升性能的同时维持智能体的探索能力，适用于需要持续探索的复杂决策任务。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-06T14:45:39.369851+00:00"
+}

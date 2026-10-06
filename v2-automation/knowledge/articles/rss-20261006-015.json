@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261006-015",
+  "title": "A Quantitative Analysis of Graph Representation Strategies for Cyber Attack Detection",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.04019",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-06T14:44:45.030949+00:00",
+  "collected_at": "2026-10-06T14:44:45.030949+00:00",
+  "summary": "该论文对用于网络攻击检测的图表示策略进行了定量分析，系统比较了不同图构建和嵌入方法在入侵检测任务中的效果。其价值在于为安全领域的研究者和工程师提供了基于实验数据的策略选择依据，有助于提升基于图学习的攻击检测系统的性能。",
+  "score": 7,
+  "tags": [
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-06T14:45:39.369856+00:00"
+}

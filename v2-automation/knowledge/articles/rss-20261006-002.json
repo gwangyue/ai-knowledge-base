@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261006-002",
+  "title": "Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.03872",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-06T14:44:45.030834+00:00",
+  "collected_at": "2026-10-06T14:44:45.030834+00:00",
+  "summary": "该论文提出了一种通过自动诊断和技能发现来训练数值智能的方法，旨在提升AI系统在数值推理任务上的表现。其核心价值在于无需大量人工标注即可自动识别模型弱点并针对性学习新技能，为数值推理能力的训练提供了可扩展的新范式。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-06T14:45:39.369816+00:00"
+}

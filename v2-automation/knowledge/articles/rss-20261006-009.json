@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261006-009",
+  "title": "ROAR: Unifying Runs across Heterogeneous AI-Driven Research Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.03966",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-06T14:44:45.030926+00:00",
+  "collected_at": "2026-10-06T14:44:45.030926+00:00",
+  "summary": "ROAR 提出了一种统一异构 AI 驱动研究系统中运行记录的方法，旨在解决不同研究系统之间实验运行难以比较、追踪和复现的问题。该工作通过标准化运行表示和接口，提升了跨系统研究的可复现性与协作效率，对 AI 研究基础设施的互操作性具有重要价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-06T14:45:39.369837+00:00"
+}

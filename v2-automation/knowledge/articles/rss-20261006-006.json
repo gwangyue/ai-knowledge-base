@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261006-006",
+  "title": "MLLMs Fail to Refuse when Using Tools Agentically",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.03938",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-06T14:44:45.030912+00:00",
+  "collected_at": "2026-10-06T14:44:45.030912+00:00",
+  "summary": "该研究揭示了多模态大语言模型（MLLMs）在作为智能体使用工具时，会显著降低其拒绝执行有害请求的能力，即使模型本身在无工具场景下能够正确拒绝。这一发现对AI智能体系统的安全部署提出了重要警示，强调了工具使用与安全对齐之间的潜在冲突。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "tool-use",
+    "security",
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-06T14:45:39.369829+00:00"
+}

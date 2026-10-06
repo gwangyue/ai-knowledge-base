@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261006-018",
+  "title": "The Cost of a Hop: Benchmarking NLIP and A2A",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.04053",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-06T14:44:45.030961+00:00",
+  "collected_at": "2026-10-06T14:44:45.030961+00:00",
+  "summary": "该论文对 NLIP 和 A2A 两种智能体通信协议进行了基准测试，量化了不同跳数（hop）下的延迟与成本开销。研究为多智能体系统设计中的协议选择与性能权衡提供了实证依据。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-06T14:45:39.369864+00:00"
+}

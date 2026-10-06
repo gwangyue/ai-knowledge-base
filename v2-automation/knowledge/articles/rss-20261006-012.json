@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261006-012",
+  "title": "SkillScriptBench: Benchmarking Self-Evolution of Executable Agent Skill Packages Beyond Markdown",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.04008",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-06T14:44:45.030938+00:00",
+  "collected_at": "2026-10-06T14:44:45.030938+00:00",
+  "summary": "该论文提出了 SkillScriptBench，一个用于评估可执行智能体技能包（超越传统 Markdown 描述）自我进化能力的基准测试。其核心价值在于推动智能体从静态提示向动态可执行技能包的演进，为评估智能体的自我改进与工具使用能力提供了标准化测试平台。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "tool-use",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-06T14:45:39.369848+00:00"
+}
