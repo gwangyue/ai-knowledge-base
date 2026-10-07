@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261007-001",
+  "title": "Sharing AI progress in mathematics",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-07T15:05:10.570349+00:00",
+  "collected_at": "2026-10-07T15:05:10.570349+00:00",
+  "summary": "该内容分享了AI在数学领域的最新进展，可能涉及使用大语言模型或专用AI系统进行数学推理、定理证明和问题求解。其价值在于展示AI在形式化推理和复杂数学任务上的能力提升，对推动AI推理研究有参考意义。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-07T15:06:00.347458+00:00"
+}
