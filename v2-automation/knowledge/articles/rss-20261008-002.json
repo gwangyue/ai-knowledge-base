@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261008-002",
+  "title": "Docker Agent",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/docker/docker-agent",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-08T15:13:09.599900+00:00",
+  "collected_at": "2026-10-08T15:13:09.599900+00:00",
+  "summary": "Docker Agent 是一个基于 Docker 的 AI 代理项目，旨在通过容器化技术简化 AI 代理的部署与运行。它提供了隔离、可复现的环境，使开发者能够快速构建和测试智能代理应用，提升了开发效率和可移植性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-08T15:13:57.523449+00:00"
+}

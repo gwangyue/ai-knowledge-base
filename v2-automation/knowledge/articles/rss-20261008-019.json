@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261008-019",
+  "title": "How Fragile Is On-Device Language Model Safety? Localizing Safety-Critical Parameters for Sparse Fault Analysis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.09000",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-08T15:13:10.759762+00:00",
+  "collected_at": "2026-10-08T15:13:10.759762+00:00",
+  "summary": "该论文研究端侧语言模型的安全脆弱性，通过定位安全关键参数并分析稀疏故障，揭示了模型在参数扰动下的安全风险。其价值在于为端侧模型的安全部署和鲁棒性评估提供了新方法。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-08T15:13:57.523503+00:00"
+}

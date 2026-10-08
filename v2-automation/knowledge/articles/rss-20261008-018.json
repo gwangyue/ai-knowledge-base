@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261008-018",
+  "title": "Verify Less, Evolve More: Training Idea-Level Critics for Verification-Efficient ML Evolving Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.08993",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-08T15:13:10.759758+00:00",
+  "collected_at": "2026-10-08T15:13:10.759758+00:00",
+  "summary": "该论文提出训练 idea-level critics 来减少 ML evolving agents 的验证开销，通过让 critic 在想法层面进行筛选，使 agent 能更高效地进化。核心价值在于平衡验证成本与进化效果，为自动化机器学习代理提供更经济的验证策略。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-08T15:13:57.523501+00:00"
+}

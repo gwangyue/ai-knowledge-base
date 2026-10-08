@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261008-009",
+  "title": "An Empirical Study of Agent Skills' Downstream Utility",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.08875",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-08T15:13:10.759717+00:00",
+  "collected_at": "2026-10-08T15:13:10.759717+00:00",
+  "summary": "本文对 AI Agent 技能在下游任务中的实际效用进行了实证研究，系统评估了不同技能对 Agent 性能的影响。研究为 Agent 技能的设计与选择提供了数据驱动的指导，有助于提升 Agent 在真实场景中的任务完成能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-08T15:13:57.523468+00:00"
+}
