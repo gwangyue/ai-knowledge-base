@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261009-016",
+  "title": "How Narrative Wrapping Affects LLM Refusal: A Cross-Language Benchmark and Defense",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.11005",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-09T14:58:33.664668+00:00",
+  "collected_at": "2026-10-09T14:58:33.664668+00:00",
+  "summary": "该论文研究了叙事包装（narrative wrapping）如何影响大语言模型（LLM）的拒绝行为，并提出了一个跨语言基准测试和防御方法。核心价值在于揭示了LLM安全对齐在跨语言场景下的脆弱性，为构建更鲁棒的拒绝机制提供了评估工具和防御思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-09T14:59:20.286966+00:00"
+}

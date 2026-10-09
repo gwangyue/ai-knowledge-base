@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261009-006",
+  "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.10611",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-09T14:58:33.664633+00:00",
+  "collected_at": "2026-10-09T14:58:33.664633+00:00",
+  "summary": "该论文探讨了智能体AI中验证与自我改进的理论基础与局限，分析了智能体在复杂任务中通过自我验证和迭代优化提升性能的机制。研究为构建更可靠的自主智能体系统提供了理论指导，并指出了当前方法的边界。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-09T14:59:20.286936+00:00"
+}

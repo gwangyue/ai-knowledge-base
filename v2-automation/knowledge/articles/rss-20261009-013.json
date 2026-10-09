@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261009-013",
+  "title": "Reading the Room: Foundations, Design, and Challenges of Normative Competence in LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.10906",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-09T14:58:33.664658+00:00",
+  "collected_at": "2026-10-09T14:58:33.664658+00:00",
+  "summary": "该论文探讨了大型语言模型（LLM）的规范能力（normative competence），即理解和适应社会规范、语境线索的能力。文章系统梳理了其理论基础、设计方法及面临的挑战，为构建更具社会智能的LLM提供了框架。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-09T14:59:20.286959+00:00"
+}
