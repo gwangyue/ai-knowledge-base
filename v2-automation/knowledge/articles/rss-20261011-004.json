@@ -1,0 +1,17 @@
+{
+  "id": "rss-20261011-004",
+  "title": "Impactful scheduling for GPU clusters",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-11T14:39:02.433994+00:00",
+  "collected_at": "2026-10-11T14:39:02.433994+00:00",
+  "summary": "本文探讨了 GPU 集群调度策略，旨在提升大规模 AI 训练和推理任务的资源利用率和效率。通过分析不同调度算法（如优先级、公平共享、抢占式调度）对作业完成时间和集群吞吐量的影响，为优化 GPU 集群管理提供了实践指导。",
+  "score": 7,
+  "tags": [
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-11T14:39:57.453158+00:00"
+}
