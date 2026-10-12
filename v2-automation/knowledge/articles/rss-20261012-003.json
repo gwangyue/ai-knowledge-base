@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261012-003",
+  "title": "The gap in shared understanding of LLM capability is widening",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://twitter.com/karpathy/status/2109361546505966046",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-12T17:23:18.089651+00:00",
+  "collected_at": "2026-10-12T17:23:18.089651+00:00",
+  "summary": "该文章讨论了业界对大型语言模型（LLM）能力认知的差距正在扩大，不同群体（如开发者、研究者、企业决策者）对LLM实际能做什么和不能做什么存在显著分歧。这种认知鸿沟可能导致资源错配、过度承诺或错失机会，因此需要更系统化的能力评估和沟通框架。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-12T17:24:13.938954+00:00"
+}

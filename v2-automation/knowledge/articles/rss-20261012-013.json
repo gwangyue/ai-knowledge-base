@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261012-013",
+  "title": "Representation Alignment from a Few Paired Data via Distilled Optimal Transport",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.12781",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-12T17:23:18.832807+00:00",
+  "collected_at": "2026-10-12T17:23:18.832807+00:00",
+  "summary": "该论文提出了一种基于蒸馏最优传输的方法，仅需少量配对数据即可实现表示对齐，有效解决了跨模态或跨领域表示对齐中配对数据稀缺的问题。其核心价值在于降低了表示对齐对大规模配对数据的依赖，为小样本场景下的表示学习提供了高效解决方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-12T17:24:13.938990+00:00"
+}

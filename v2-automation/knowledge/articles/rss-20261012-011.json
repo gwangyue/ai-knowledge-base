@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261012-011",
+  "title": "MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.12659",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-12T17:23:18.832797+00:00",
+  "collected_at": "2026-10-12T17:23:18.832797+00:00",
+  "summary": "该论文针对RLVR（可验证奖励强化学习）中零优势陷阱问题，提出MagicBeanStalk方法，通过递归数据合成生成高质量训练数据，从而提升模型在复杂推理任务上的强化学习效果。其核心价值在于为LLM推理能力的强化学习训练提供了一种有效的数据增强策略，缓解了奖励稀疏导致的训练停滞问题。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "fine-tuning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-12T17:24:13.938983+00:00"
+}

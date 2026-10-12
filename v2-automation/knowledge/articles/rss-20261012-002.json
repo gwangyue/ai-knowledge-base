@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261012-002",
+  "title": "QGIS bans AI assisted contributions",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-12T17:23:18.089643+00:00",
+  "collected_at": "2026-10-12T17:23:18.089643+00:00",
+  "summary": "QGIS 项目宣布禁止 AI 辅助的代码贡献，要求贡献者披露 AI 使用情况并可能拒绝相关提交。此举反映了开源社区对 AI 生成代码在版权、质量和责任归属方面的担忧，对理解 AI 在软件开发中的治理与伦理问题具有参考价值。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-12T17:24:13.938949+00:00"
+}

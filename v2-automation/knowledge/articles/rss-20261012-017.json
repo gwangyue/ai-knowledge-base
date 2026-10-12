@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261012-017",
+  "title": "Neural networks are more modular than single neurons suggest",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.12842",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-12T17:23:18.832824+00:00",
+  "collected_at": "2026-10-12T17:23:18.832824+00:00",
+  "summary": "该论文探讨了神经网络模块化程度是否被单个神经元的活动所低估，可能通过分析神经元群体或子网络的功能特化来揭示更高级的模块化结构。其价值在于深化对神经网络内部组织原理的理解，并为模型可解释性和架构设计提供新视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-12T17:24:13.939004+00:00"
+}

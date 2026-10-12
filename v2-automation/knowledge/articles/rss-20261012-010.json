@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261012-010",
+  "title": "CLEAT: Learning Value-Guided Clarification for Interactive Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.12655",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-12T17:23:18.832792+00:00",
+  "collected_at": "2026-10-12T17:23:18.832792+00:00",
+  "summary": "CLEAT 提出了一种价值引导的澄清学习方法，使交互式智能体能够在任务执行中主动向用户提问以消除歧义。该方法通过强化学习训练智能体在何时以及如何提出澄清问题，从而提升任务完成效率和用户满意度。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-12T17:24:13.938976+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261012-020",
+  "title": "Collaborative Theory of Mind: Learning to Self-Revise by Anticipating User Responses",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.12872",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-12T17:23:18.832838+00:00",
+  "collected_at": "2026-10-12T17:23:18.832838+00:00",
+  "summary": "该论文提出了一种协作式心智理论（Collaborative Theory of Mind）框架，使LLM智能体能够通过预测用户可能的回应来自我修正输出，从而提升交互质量。其核心价值在于将心智理论能力融入自我修正循环，减少对人工反馈的依赖，增强多轮对话中的适应性和准确性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "reasoning",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-12T17:24:13.939013+00:00"
+}
