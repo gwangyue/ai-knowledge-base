@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261013-002",
+  "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-13T15:35:28.246678+00:00",
+  "collected_at": "2026-10-13T15:35:28.246678+00:00",
+  "summary": "Intel 发布了 D270 GPU AI 加速器，配备高达 480 GB 的 LPDDR5X 内存，专为大规模 AI 推理和训练工作负载设计。该产品旨在提供高内存带宽和容量，以支持大语言模型等内存密集型 AI 应用，是 Intel 在 AI 硬件领域的重要布局。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-13T15:36:28.522860+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261013-003",
+  "title": "'AI' Is Not a Tool by Rich Hickey",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-13T15:35:28.246684+00:00",
+  "collected_at": "2026-10-13T15:35:28.246684+00:00",
+  "summary": "Rich Hickey 在演讲中探讨了 AI 的本质，认为 AI 不应被简单视为工具，而是一种具有自主性和复杂性的系统。他分析了将 AI 类比为工具可能带来的认知偏差，并讨论了这对 AI 设计、使用和伦理的影响。该内容为理解 AI 的定位提供了深刻的哲学和技术视角。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-13T15:36:28.522863+00:00"
+}

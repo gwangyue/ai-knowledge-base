@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261013-004",
+  "title": "AI coding agents generate more code, but not more software",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-13T15:35:28.246689+00:00",
+  "collected_at": "2026-10-13T15:35:28.246689+00:00",
+  "summary": "该文章探讨了AI编码代理（AI coding agents）在生成代码量上的显著提升，但指出这并未转化为同等规模的软件产出或质量提升。核心价值在于揭示了当前AI编码工具在效率与软件工程实际效果之间的差距，引发对AI辅助开发真实价值的反思。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-13T15:36:28.522865+00:00"
+}
