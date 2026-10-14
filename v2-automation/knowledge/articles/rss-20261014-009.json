@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261014-009",
+  "title": "The Silent Failures in Agentic Data Science",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.14115",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-14T13:18:45.541619+00:00",
+  "collected_at": "2026-10-14T13:18:45.541619+00:00",
+  "summary": "该论文探讨了基于LLM的智能体在数据科学工作流中出现的静默失败问题，即智能体在无报错情况下产生错误或不可靠的结果。通过分析这些失败模式，文章为构建更鲁棒、可验证的智能体数据科学系统提供了重要见解和评估方向。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-14T13:19:42.337641+00:00"
+}

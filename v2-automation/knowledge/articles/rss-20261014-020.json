@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261014-020",
+  "title": "Controllable Diverse Sampling through Pullback Directions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.14294",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-14T13:18:45.541690+00:00",
+  "collected_at": "2026-10-14T13:18:45.541690+00:00",
+  "summary": "该论文提出了一种通过回拉方向（Pullback Directions）实现可控多样性采样的方法，旨在解决生成模型中采样多样性与可控性之间的平衡问题。其核心价值在于为需要生成多样化且满足特定约束的样本的应用场景（如药物设计、内容生成）提供了新的技术思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-14T13:19:42.337698+00:00"
+}

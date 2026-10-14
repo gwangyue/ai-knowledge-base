@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261014-017",
+  "title": "Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.14209",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-14T13:18:45.541677+00:00",
+  "collected_at": "2026-10-14T13:18:45.541677+00:00",
+  "summary": "本文研究了在云端编写的智能体程序中，使用本地小语言模型（SLM）作为解释器的可行性。通过实验评估了本地模型在解释和执行云端生成的智能体程序时的性能与效率，探讨了本地-云端协作的部署模式。该研究为降低延迟、保护隐私和减少云端依赖提供了新的思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-14T13:19:42.337689+00:00"
+}

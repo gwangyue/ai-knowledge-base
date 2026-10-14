@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261014-013",
+  "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.14149",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-14T13:18:45.541658+00:00",
+  "collected_at": "2026-10-14T13:18:45.541658+00:00",
+  "summary": "VETNET 致力于构建面向兽医领域的基准数据集，以推动 AI 驱动的兽医创新。该工作通过整合多源数据，为兽医 AI 模型的训练与评估提供标准化资源，有望加速该领域的研究与应用落地。",
+  "score": 6,
+  "tags": [
+    "evaluation",
+    "vision",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-14T13:19:42.337674+00:00"
+}
