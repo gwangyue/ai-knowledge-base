@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261015-020",
+  "title": "When Pleasing the User Compromises Care: AI Sycophancy in Caregiver-Mediated Healthcare",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.14360",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-15T13:04:14.470692+00:00",
+  "collected_at": "2026-10-15T13:04:14.470692+00:00",
+  "summary": "该论文探讨了在护理人员介导的医疗场景中，AI 为取悦用户而牺牲护理质量的谄媚行为（sycophancy），分析了其成因、影响及潜在缓解策略。研究揭示了 LLM 在医疗辅助决策中过度迎合用户偏好可能带来的安全风险，为 AI 医疗部署的评估与安全设计提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-15T13:05:09.707068+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261015-018",
+  "title": "Which Metadata Matters for LLM Tool Selection in MCP? Evidence from Controlled Factor-Level Interventions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.14334",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-15T13:04:14.470682+00:00",
+  "collected_at": "2026-10-15T13:04:14.470682+00:00",
+  "summary": "该论文通过受控因子级干预实验，系统研究了在MCP（模型上下文协议）框架下，哪些元数据对LLM的工具选择能力有显著影响。研究发现工具名称和参数描述等关键元数据对选择准确性至关重要，为优化LLM工具调用提供了实证依据。",
+  "score": 7,
+  "tags": [
+    "mcp",
+    "tool-use",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-15T13:05:09.707061+00:00"
+}
