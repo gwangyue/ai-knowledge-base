@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261016-014",
+  "title": "EvolvingBrain: An Adaptive Skill System for Multi-modal Agents Self-Evolution in Open Worlds",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.20786",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-16T13:01:01.989242+00:00",
+  "collected_at": "2026-10-16T13:01:01.989242+00:00",
+  "summary": "该论文提出EvolvingBrain，一种面向开放世界多模态智能体的自适应技能系统，通过自我进化机制使智能体能够动态获取和优化技能，从而提升在复杂开放环境中的任务适应能力。其核心价值在于为多模态智能体的持续学习和自主进化提供了可扩展的技能管理框架。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "vision",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-16T13:02:26.245794+00:00"
+}

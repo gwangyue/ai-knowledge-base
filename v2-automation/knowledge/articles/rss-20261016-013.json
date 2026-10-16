@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261016-013",
+  "title": "Open-world AI: a Tale of Three Requirements",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.20782",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-16T13:01:01.989239+00:00",
+  "collected_at": "2026-10-16T13:01:01.989239+00:00",
+  "summary": "该论文探讨了开放世界人工智能（Open-world AI）的三个核心需求，旨在定义和评估AI系统在动态、未知环境中的适应能力。它为构建更通用、鲁棒的AI代理提供了理论框架，对推动自主智能体的研究具有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-16T13:02:26.245788+00:00"
+}

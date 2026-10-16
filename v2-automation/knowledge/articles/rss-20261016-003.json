@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261016-003",
+  "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.20665",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-16T13:01:01.989168+00:00",
+  "collected_at": "2026-10-16T13:01:01.989168+00:00",
+  "summary": "该论文探讨了在实时时钟约束下评估和训练AI智能体（agent）的方法，强调智能体需要在动态、时间敏感的环境中做出决策。其核心价值在于提出了适应实时场景的评估框架和训练策略，推动智能体从静态基准测试向真实世界部署迈进。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-16T13:02:26.245747+00:00"
+}

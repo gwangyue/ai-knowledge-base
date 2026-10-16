@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261016-009",
+  "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.20681",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-16T13:01:01.989225+00:00",
+  "collected_at": "2026-10-16T13:01:01.989225+00:00",
+  "summary": "IneqAgent 提出了一种基于智能体的不等式证明方法，在 Lean 定理证明器中结合符号计算来自动证明不等式。该方法利用智能体框架协调符号计算工具与 Lean 的交互，提升了不等式证明的自动化程度和效率，为形式化数学与 AI 结合提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "tool-use",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-16T13:02:26.245776+00:00"
+}

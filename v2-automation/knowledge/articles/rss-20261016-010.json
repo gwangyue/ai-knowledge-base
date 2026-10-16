@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261016-010",
+  "title": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.20685",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-16T13:01:01.989228+00:00",
+  "collected_at": "2026-10-16T13:01:01.989228+00:00",
+  "summary": "L2G-SR 提出了一种引导基于 LLM 的符号回归的方法，通过让模型学习如何生成和搜索符号表达式，提升符号回归任务的效率和准确性。该工作将 LLM 的推理能力与符号回归结合，为科学发现和可解释建模提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-16T13:02:26.245779+00:00"
+}
