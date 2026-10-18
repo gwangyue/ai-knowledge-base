@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261018-005",
+  "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-18T12:26:47.545720+00:00",
+  "collected_at": "2026-10-18T12:26:47.545720+00:00",
+  "summary": "Granite Switch 4.1 是 Hugging Face 发布的多模态模型，通过单一端点同时支持对话、决策和语音功能，简化了多任务部署流程。其核心价值在于将多种能力集成到一个接口中，降低了开发与运维复杂度，提升了实际应用效率。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "audio",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-18T12:27:34.355074+00:00"
+}
