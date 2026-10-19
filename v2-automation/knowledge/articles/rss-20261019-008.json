@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261019-008",
+  "title": "Apertus 1.5 Release Notes",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-19T15:16:54.403867+00:00",
+  "collected_at": "2026-10-19T15:16:54.403867+00:00",
+  "summary": "Apertus 1.5 发布说明介绍了该模型的最新版本更新，涵盖性能改进与功能增强。由于缺少详细描述，具体技术细节有限，但作为 Hugging Face 官方发布，对关注该模型生态的开发者具有参考价值。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-19T15:17:48.047539+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261019-002",
+  "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-19T15:16:53.347310+00:00",
+  "collected_at": "2026-10-19T15:16:53.347310+00:00",
+  "summary": "该内容探讨了自建 LLM 代理（LLM proxy）的必要性，强调通过代理层可以监控、控制和优化 LLM 调用，从而提升可观测性、安全性和成本效率。文章可能分享了具体实现方案和最佳实践，对于部署 LLM 应用的团队具有实用参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-19T15:17:48.047527+00:00"
+}
