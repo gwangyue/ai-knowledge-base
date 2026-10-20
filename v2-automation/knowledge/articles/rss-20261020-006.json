@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261020-006",
+  "title": "GardenBench: A lightweight, daily evaluation of LLM capabilities",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.23866",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-20T13:20:42.386592+00:00",
+  "collected_at": "2026-10-20T13:20:42.386592+00:00",
+  "summary": "GardenBench 是一个轻量级的日常评估基准，用于持续监测大语言模型（LLM）的能力变化。它通过低成本、可重复的测试任务，帮助研究者和开发者快速了解模型在常见任务上的表现趋势，为模型迭代和选型提供实用参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-20T13:21:36.157310+00:00"
+}

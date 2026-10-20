@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261020-007",
+  "title": "Doing Less with More: A First-Principles Exploration of the Suitability of Agentic Computing over Alternative Architectural Choices",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.23921",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-20T13:20:42.386634+00:00",
+  "collected_at": "2026-10-20T13:20:42.386634+00:00",
+  "summary": "该论文从第一性原理出发，探讨了智能体计算（agentic computing）相较于替代架构选择的适用性，核心在于分析何时以及为何采用智能体范式优于更简单的方案。其价值在于为架构决策提供理论依据，避免过度使用智能体带来的复杂性和成本。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-20T13:21:36.157313+00:00"
+}

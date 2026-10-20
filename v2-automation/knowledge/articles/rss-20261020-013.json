@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261020-013",
+  "title": "World of SWECraft: Agent Collaboration at Scale via Simulated Software Worlds",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.24061",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-20T13:20:42.386659+00:00",
+  "collected_at": "2026-10-20T13:20:42.386659+00:00",
+  "summary": "该论文提出 World of SWECraft，通过构建模拟的软件世界来支持大规模智能体协作，探索多智能体在软件工程任务中的协同行为与扩展性。其核心价值在于为多智能体协作研究提供可扩展的仿真环境与评估框架，推动 agent 协作从单任务走向规模化。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-20T13:21:36.157332+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261020-014",
+  "title": "Persistent Memory and Iterative Improvement in an LLM Agent for Chinese-Character Drawing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.24090",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-20T13:20:42.386662+00:00",
+  "collected_at": "2026-10-20T13:20:42.386662+00:00",
+  "summary": "该论文提出了一种为LLM智能体引入持久记忆和迭代改进机制的方法，用于提升汉字书写的准确性和美观度。通过记忆历史绘制经验并迭代优化生成过程，智能体能够逐步纠正错误并提高输出质量。这项工作展示了记忆增强和迭代学习在复杂生成任务中的价值，为智能体在艺术创作领域的应用提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-20T13:21:36.157334+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261020-019",
+  "title": "Self-Improving Video-to-Action Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.24177",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-20T13:20:42.386679+00:00",
+  "collected_at": "2026-10-20T13:20:42.386679+00:00",
+  "summary": "该论文提出了一种自我改进的视频到动作模型，使模型能够从视频中学习并生成动作序列，并通过自我改进机制持续提升性能。其核心价值在于减少对人工标注的依赖，增强模型在机器人控制等任务中的泛化能力。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-20T13:21:36.157346+00:00"
+}

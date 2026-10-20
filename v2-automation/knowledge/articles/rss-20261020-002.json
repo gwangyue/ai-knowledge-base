@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261020-002",
+  "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://news.ycombinator.com/item?id=50151036",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-20T13:20:41.141703+00:00",
+  "collected_at": "2026-10-20T13:20:41.141703+00:00",
+  "summary": "该 Hacker News 讨论探讨了开发者发布由 AI 生成但自己不完全理解的代码时所面临的挑战，涉及代码审查、信任与责任问题。核心价值在于引发对 AI 辅助编程实践规范的思考，并分享应对策略。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-20T13:21:36.157307+00:00"
+}
