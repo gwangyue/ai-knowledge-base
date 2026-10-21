@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261021-017",
+  "title": "ReuF2F: Benchmarking Coding Agents on Formalized Undergraduate Research Problems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.27046",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-21T13:26:32.992400+00:00",
+  "collected_at": "2026-10-21T13:26:32.992400+00:00",
+  "summary": "该论文提出了 ReuF2F 基准，用于评估编码智能体在形式化本科研究问题上的表现。通过将研究问题形式化，该基准填补了现有编码智能体评估在学术研究场景中的空白，为衡量智能体解决复杂、开放式问题的能力提供了新标准。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-21T13:27:26.461216+00:00"
+}

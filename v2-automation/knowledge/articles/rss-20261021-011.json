@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261021-011",
+  "title": "When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.26964",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-21T13:26:32.992384+00:00",
+  "collected_at": "2026-10-21T13:26:32.992384+00:00",
+  "summary": "该论文探讨了大型语言模型（LLM）在规划问题上的表现，提出将结构复杂性与语义可解释性分离的分析框架，以识别LLM在何种规划问题上会失败。其价值在于为理解LLM规划能力的边界提供了新的理论视角，并可能指导未来改进LLM规划能力的研究。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-21T13:27:26.461201+00:00"
+}

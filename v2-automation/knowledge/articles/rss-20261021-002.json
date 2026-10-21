@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261021-002",
+  "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.26887",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-21T13:26:32.992322+00:00",
+  "collected_at": "2026-10-21T13:26:32.992322+00:00",
+  "summary": "Navalia 提出了一种通过可验证任务合成与长时程后训练来推进协作智能体（cowork agents）的方法，旨在提升智能体在复杂多步任务中的可靠性与协作能力。该工作结合任务自动生成与验证机制，并利用长时程训练优化智能体行为，为构建更鲁棒的协作智能体提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-21T13:27:26.461164+00:00"
+}

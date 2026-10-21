@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261021-020",
+  "title": "PROVISO: Provenance-Informed Action Selection for Secure LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.27115",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-21T13:26:32.992408+00:00",
+  "collected_at": "2026-10-21T13:26:32.992408+00:00",
+  "summary": "该论文提出PROVISO方法，通过追踪LLM代理行动选择中的来源信息（provenance）来增强安全性，防止恶意或不可信数据影响代理决策。其核心价值在于为LLM代理提供了一种基于数据来源的细粒度安全机制，可有效缓解提示注入和工具滥用风险。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "llm",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-21T13:27:26.461223+00:00"
+}

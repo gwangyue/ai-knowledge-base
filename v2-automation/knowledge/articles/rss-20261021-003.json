@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261021-003",
+  "title": "Large language model and reinforcement learning based autonomous construction and progress updates",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.26899",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-21T13:26:32.992351+00:00",
+  "collected_at": "2026-10-21T13:26:32.992351+00:00",
+  "summary": "该论文探讨了利用大型语言模型与强化学习实现自主施工与进度更新的方法，核心在于将LLM的推理规划能力与RL的决策优化相结合，以提升建筑任务的自动化水平。其价值在于为智能建造领域提供了一种可自主执行并动态调整施工进度的技术框架。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-21T13:27:26.461182+00:00"
+}

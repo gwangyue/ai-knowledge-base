@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261021-007",
+  "title": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.26941",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-21T13:26:32.992373+00:00",
+  "collected_at": "2026-10-21T13:26:32.992373+00:00",
+  "summary": "该论文探讨了工业智能体AI（Industrial Agentic AI）的概念，即利用大语言模型（LLM）驱动的新一代智能体来实现智能制造。核心价值在于将LLM的推理与工具使用能力引入工业场景，推动制造系统的自主决策与自动化升级。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-21T13:27:26.461193+00:00"
+}

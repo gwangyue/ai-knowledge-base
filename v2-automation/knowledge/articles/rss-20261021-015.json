@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261021-015",
+  "title": "M-Plan: Comprehensive Planning For LLM Agents with Memory Arrangement",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.27032",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-21T13:26:32.992394+00:00",
+  "collected_at": "2026-10-21T13:26:32.992394+00:00",
+  "summary": "该论文提出M-Plan，一种为LLM智能体设计的内存安排综合规划框架，通过有效组织记忆来增强长期规划能力。其核心价值在于提升智能体在复杂任务中的规划连贯性和执行效率，为LLM智能体规划提供新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-21T13:27:26.461212+00:00"
+}
