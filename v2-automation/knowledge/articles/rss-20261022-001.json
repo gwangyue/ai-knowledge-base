@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261022-001",
+  "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.wiz.io/blog/php2shell-php-rce",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-22T13:27:49.293386+00:00",
+  "collected_at": "2026-10-22T13:27:49.293386+00:00",
+  "summary": "该内容介绍了一个名为 PHP2Shell 的 AI 工具，用于自动发现 PHP 中的关键远程代码执行（RCE）漏洞。其核心价值在于展示了 AI 在安全漏洞挖掘领域的实际应用，能够提升漏洞发现的效率和自动化水平。",
+  "score": 7,
+  "tags": [
+    "security",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-22T13:28:44.033414+00:00"
+}

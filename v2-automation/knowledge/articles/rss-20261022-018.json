@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261022-018",
+  "title": "Behavior Beyond Text: Evaluating Refusal Transfer Failure in LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.28982",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-22T13:27:50.547417+00:00",
+  "collected_at": "2026-10-22T13:27:50.547417+00:00",
+  "summary": "该论文研究 LLM Agent 在文本之外的行为中拒绝指令的迁移失败问题，即模型在纯文本对话中学会的拒绝行为无法可靠迁移到 Agent 的工具调用、代码执行等实际动作场景。其价值在于揭示了 Agent 安全对齐中的关键缺口，为多模态与具身 Agent 的安全评估和部署提供了新的评测视角。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-22T13:28:44.033478+00:00"
+}

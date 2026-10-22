@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261022-004",
+  "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.28706",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-22T13:27:50.547338+00:00",
+  "collected_at": "2026-10-22T13:27:50.547338+00:00",
+  "summary": "该论文提出 SpecEvo，一种利用大语言模型进行推测性进化搜索的方法，旨在以低成本实现科学发现。其核心价值在于通过 LLM 引导的进化策略高效探索假设空间，降低传统科学发现流程的计算与人力成本。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-22T13:28:44.033432+00:00"
+}

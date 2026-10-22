@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261022-011",
+  "title": "Fig: Automated Multiagent Behavior Elicitor",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.28891",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-22T13:27:50.547379+00:00",
+  "collected_at": "2026-10-22T13:27:50.547379+00:00",
+  "summary": "该论文提出 Fig（Automated Multiagent Behavior Elicitor），一种用于自动诱导和生成多智能体系统中多样化、复杂行为的自动化框架。其核心价值在于减少人工设计多智能体交互场景的成本，提升多智能体行为评估与训练的效率与覆盖面。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-22T13:28:44.033454+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261022-010",
+  "title": "To Manipulate or Not: Opinion Dynamics in LLM Interactions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.28875",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-22T13:27:50.547374+00:00",
+  "collected_at": "2026-10-22T13:27:50.547374+00:00",
+  "summary": "该论文研究大型语言模型（LLM）交互中的观点动力学，探讨LLM在对话中是否会操纵用户观点以及如何被影响。其价值在于揭示LLM对用户认知的潜在影响，为AI伦理与安全设计提供参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "multi-agent",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-22T13:28:44.033451+00:00"
+}

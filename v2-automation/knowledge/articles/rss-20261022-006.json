@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261022-006",
+  "title": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.28815",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-22T13:27:50.547354+00:00",
+  "collected_at": "2026-10-22T13:27:50.547354+00:00",
+  "summary": "该论文提出了一种名为“连续规模竞赛”（Successive Scale Racing）的智能体框架演化方法，通过将更多任务逐步纳入更优的测试框架中，实现智能体系统能力的迭代提升。其核心价值在于为智能体框架的自动化优化与评估提供了一种可扩展的演化范式，有助于提升复杂任务下的智能体表现。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "multi-agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-22T13:28:44.033439+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261022-002",
+  "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.28686",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-22T13:27:50.547302+00:00",
+  "collected_at": "2026-10-22T13:27:50.547302+00:00",
+  "summary": "该论文研究检索增强生成（RAG）中的查询澄清问题，提出使用小型模型进行微调来生成更好的澄清问题，从而提升检索质量。其价值在于以较低成本实现更精准的查询理解，优化RAG系统的整体效果。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "fine-tuning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-22T13:28:44.033424+00:00"
+}

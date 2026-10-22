@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261022-008",
+  "title": "Sketch2Sim: an end-to-end modular framework for hand-drawn circuit analysis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.28836",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-22T13:27:50.547365+00:00",
+  "collected_at": "2026-10-22T13:27:50.547365+00:00",
+  "summary": "Sketch2Sim 提出了一个端到端的模块化框架，用于自动分析手绘电路图，将其转换为可仿真的电路表示。该工作结合视觉识别与电路理解，降低了电路设计仿真的门槛，对教育和快速原型设计具有实用价值。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "code-generation",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-22T13:28:44.033445+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261022-020",
+  "title": "AgentPolicyForge: From Executable Environments to Policy Benchmarks and Adaptive Guards",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.28989",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-22T13:27:50.547429+00:00",
+  "collected_at": "2026-10-22T13:27:50.547429+00:00",
+  "summary": "该论文提出 AgentPolicyForge 框架，旨在从可执行环境中自动构建策略基准，并训练自适应守卫（Adaptive Guards）以约束智能体行为。其核心价值在于为 LLM 智能体的策略学习与安全部署提供可复现的评测基准和动态防护机制。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "security",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-22T13:28:44.033483+00:00"
+}

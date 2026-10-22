@@ -1,0 +1,17 @@
+{
+  "id": "rss-20261022-014",
+  "title": "Simply Logical -- The First Three Decades",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.28912",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-22T13:27:50.547393+00:00",
+  "collected_at": "2026-10-22T13:27:50.547393+00:00",
+  "summary": "该论文回顾了逻辑编程在人工智能领域前三年的发展，重点介绍了《Simply Logical》一书所涵盖的核心概念、方法及其对AI推理的贡献。内容具有历史梳理和教学价值，适合了解逻辑编程在AI中的基础作用。",
+  "score": 6,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-22T13:28:44.033467+00:00"
+}

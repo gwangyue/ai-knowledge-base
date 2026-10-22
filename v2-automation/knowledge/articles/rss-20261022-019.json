@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261022-019",
+  "title": "PerMIT: Securing Persistent Memory for LLM Agents via Machine-Checked Integrity Theorems and Scalable Community Trust",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.28987",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-22T13:27:50.547424+00:00",
+  "collected_at": "2026-10-22T13:27:50.547424+00:00",
+  "summary": "该论文提出 PerMIT 框架，通过机器验证的完整性定理和可扩展的社区信任机制来保护 LLM 智能体的持久化内存安全。其核心价值在于为智能体长期记忆的完整性与可信性提供形式化保障，防止内存篡改和恶意注入。",
+  "score": 8,
+  "tags": [
+    "security",
+    "agent",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-22T13:28:44.033480+00:00"
+}

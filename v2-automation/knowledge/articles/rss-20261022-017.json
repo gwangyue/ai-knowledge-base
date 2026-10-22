@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261022-017",
+  "title": "Self-Improving Agents with World Model Predictive Paths",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.28945",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-22T13:27:50.547412+00:00",
+  "collected_at": "2026-10-22T13:27:50.547412+00:00",
+  "summary": "该论文提出了一种结合世界模型与预测路径的自我改进智能体框架，使智能体能够通过内部模拟预测未来状态并优化决策路径，从而在复杂环境中实现持续自我提升。其核心价值在于将世界模型的前瞻性预测能力与智能体的自我改进机制相结合，为构建更鲁棒、适应性更强的自主智能体提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-22T13:28:44.033475+00:00"
+}
