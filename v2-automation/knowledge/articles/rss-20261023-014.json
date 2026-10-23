@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261023-014",
+  "title": "Same Beliefs, Different Policies: Learning Reusable Representations for Early Stopping in LLM Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.30450",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-23T13:04:42.636350+00:00",
+  "collected_at": "2026-10-23T13:04:42.636350+00:00",
+  "summary": "该论文提出一种可复用表示学习方法，用于在LLM推理过程中实现早期停止，以减少不必要的计算开销。核心发现是不同策略可能共享相同信念，从而可学习跨策略的通用表示来预测停止时机。该工作为提升LLM推理效率提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-23T13:05:41.207643+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261023-010",
+  "title": "RoleFlow: Self-Evolving Multi-Role Agentic Collaboration via Structural Adaptation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.30429",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-23T13:04:42.636332+00:00",
+  "collected_at": "2026-10-23T13:04:42.636332+00:00",
+  "summary": "该论文提出 RoleFlow，一种通过结构自适应实现自演化多角色智能体协作的框架，使多个 LLM 智能体能够动态调整角色与协作结构以提升任务表现。其核心价值在于将多智能体协作从静态角色分配推进到自适应演化，为复杂任务中的智能体系统设计提供了新思路。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-23T13:05:41.207627+00:00"
+}

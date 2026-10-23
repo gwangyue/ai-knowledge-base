@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261023-008",
+  "title": "Route-and-Generate: KL-Regularized Router Improvement for Reasoning Routing in LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.30351",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-23T13:04:42.636323+00:00",
+  "collected_at": "2026-10-23T13:04:42.636323+00:00",
+  "summary": "该论文提出 Route-and-Generate 框架，通过 KL 正则化改进 LLM 推理路由中的路由器，以更准确地为不同推理任务选择合适模型或策略。其核心价值在于提升推理路由的稳定性和泛化能力，为多模型协作与高效推理部署提供新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-23T13:05:41.207620+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261023-002",
+  "title": "MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.30157",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-23T13:04:42.636273+00:00",
+  "collected_at": "2026-10-23T13:04:42.636273+00:00",
+  "summary": "该论文对比分析了MCP（Model Context Protocol）与CLI（命令行接口）两种工具集成策略在自主AI代理系统中的应用，探讨了各自在灵活性、可扩展性、安全性和实现复杂度等方面的优劣。其价值在于为AI代理的工具集成架构选型提供了系统性的比较框架和指导建议。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "mcp",
+    "tool-use",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-23T13:05:41.207598+00:00"
+}
