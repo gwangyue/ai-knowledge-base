@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261024-002",
+  "title": "Every AI model has the same \"controversial\" take on humans",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-24T12:26:56.024191+00:00",
+  "collected_at": "2026-10-24T12:26:56.024191+00:00",
+  "summary": "该内容探讨了不同AI模型（如GPT、Claude等）在涉及人类本质或伦理争议话题时表现出高度相似的立场，可能源于训练数据与对齐策略的共性。其价值在于揭示模型行为趋同现象，为AI对齐、偏见评估和模型多样性研究提供参考。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-24T12:27:53.725441+00:00"
+}

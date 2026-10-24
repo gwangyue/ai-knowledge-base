@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261024-014",
+  "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/hf-torchneuron",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-24T12:26:57.373072+00:00",
+  "collected_at": "2026-10-24T12:26:57.373072+00:00",
+  "summary": "TorchNeuron 是 Hugging Face 推出的工具，旨在简化在 AWS Trainium 芯片上运行 Hugging Face 模型的过程。它降低了使用专用 AI 硬件的门槛，提升了模型部署的便利性和效率。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-24T12:27:53.725512+00:00"
+}

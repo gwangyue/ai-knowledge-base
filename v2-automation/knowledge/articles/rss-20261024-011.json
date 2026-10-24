@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261024-011",
+  "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/hf-torchtpu",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-24T12:26:57.373057+00:00",
+  "collected_at": "2026-10-24T12:26:57.373057+00:00",
+  "summary": "Hugging Face 宣布与 TorchTPU 合作，实现 PyTorch 模型在 TPU 上的原生支持，简化了在 TPU 上训练和部署 Hugging Face 模型的流程。该集成降低了使用 TPU 的门槛，提升了大规模模型训练的效率与可及性。",
+  "score": 8,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-24T12:27:53.725502+00:00"
+}

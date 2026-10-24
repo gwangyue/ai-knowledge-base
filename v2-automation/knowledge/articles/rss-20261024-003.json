@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261024-003",
+  "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/litpivot",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-24T12:26:57.372986+00:00",
+  "collected_at": "2026-10-24T12:26:57.372986+00:00",
+  "summary": "LitPivot 提出了一种在文献全景中进行动态情境化的方法，帮助研究者从海量文献中生成和打磨研究想法。其核心价值在于将文献检索与上下文动态关联，辅助科研选题与创新构思。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-24T12:27:53.725468+00:00"
+}

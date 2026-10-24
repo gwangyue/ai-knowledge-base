@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261024-008",
+  "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-24T12:26:57.373043+00:00",
+  "collected_at": "2026-10-24T12:26:57.373043+00:00",
+  "summary": "该文章探讨了通过专门化小型语言模型（SLM）的词汇表来降低推理成本的方法，在实际应用中实现了77%的成本削减。核心价值在于提供了一种实用的优化策略，帮助开发者在资源受限场景下高效部署SLM，平衡性能与成本。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "deployment",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-24T12:27:53.725487+00:00"
+}

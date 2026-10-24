@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261024-006",
+  "title": "Ensemble forecasting with IBM Granite time-series models",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-24T12:26:57.373033+00:00",
+  "collected_at": "2026-10-24T12:26:57.373033+00:00",
+  "summary": "本文介绍了如何利用 IBM Granite 时间序列模型进行集成预测，通过组合多个模型的预测结果来提升预测准确性和鲁棒性。文章提供了具体的方法和实现指导，对于时间序列预测的实践具有参考价值。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-24T12:27:53.725480+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261024-005",
+  "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-24T12:26:57.373027+00:00",
+  "collected_at": "2026-10-24T12:26:57.373027+00:00",
+  "summary": "该文章介绍了将数据库评分机制转化为强化学习奖励信号的方法，用于对AI智能体进行后训练，并提出了ThinkingBox框架来支持这一过程。其核心价值在于提供了一种可量化的奖励设计思路，使智能体在数据库操作任务中通过RL优化获得更准确的反馈与性能提升。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "fine-tuning",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-24T12:27:53.725476+00:00"
+}
