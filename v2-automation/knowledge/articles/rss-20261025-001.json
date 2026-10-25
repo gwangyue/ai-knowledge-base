@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261025-001",
+  "title": "Cerebras Deploys Trillion-Parameter AI Models",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-25T12:57:32.149431+00:00",
+  "collected_at": "2026-10-25T12:57:32.149431+00:00",
+  "summary": "Cerebras 利用其晶圆级引擎（WSE）成功部署了万亿参数规模的 AI 模型，展示了在超大规模模型推理上的硬件与系统级突破。该成果显著降低了万亿级模型的部署门槛，为 LLM 的高效推理提供了新的工程范式。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-25T12:58:31.828951+00:00"
+}
