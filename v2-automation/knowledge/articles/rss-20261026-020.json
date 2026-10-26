@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261026-020",
+  "title": "BARC-Bench: Benign Asks, Risky Consequences",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.32024",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-26T14:51:15.736768+00:00",
+  "collected_at": "2026-10-26T14:51:15.736768+00:00",
+  "summary": "BARC-Bench 是一个评估基准，专门测试大语言模型在看似无害的请求下可能引发的风险后果，揭示了良性提示与潜在危害之间的错位。该工作为 LLM 安全评估提供了新的测试维度，有助于识别和缓解模型在真实场景中的隐性风险。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-26T14:52:11.394319+00:00"
+}

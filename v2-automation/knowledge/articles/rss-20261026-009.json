@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261026-009",
+  "title": "Patronizing and Condescending Language Detection in English and Mandarin",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.31808",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-26T14:51:15.736711+00:00",
+  "collected_at": "2026-10-26T14:51:15.736711+00:00",
+  "summary": "该论文研究英语和普通话中的居高临下与说教语言（Patronizing and Condescending Language, PCL）检测，属于 NLP 中针对隐性冒犯性语言的计算检测任务。其价值在于将 PCL 检测扩展到中文场景，为跨语言毒性/偏见语言识别与内容审核提供方法参考。",
+  "score": 6,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-26T14:52:11.394278+00:00"
+}

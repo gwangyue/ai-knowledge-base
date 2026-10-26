@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261026-016",
+  "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.31971",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-26T14:51:15.736750+00:00",
+  "collected_at": "2026-10-26T14:51:15.736750+00:00",
+  "summary": "该论文研究多智能体LLM在重复性多方谈判中的信任机制，提出“信任-一致性差距”（Trust-Agreement Gap）概念，指出智能体仅知道该信任谁并不足以达成有效合作。研究揭示了信任判断与实际协议达成之间的系统性偏差，为多智能体协作与谈判策略设计提供了新的评估视角和改进方向。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-26T14:52:11.394306+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261026-017",
+  "title": "Reproducible Evaluation as the Substrate for Safe Prompt Compression in Production Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.31972",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-26T14:51:15.736754+00:00",
+  "collected_at": "2026-10-26T14:51:15.736754+00:00",
+  "summary": "该论文提出将可复现评估作为生产环境中AI智能体安全提示压缩的基础设施，通过系统化的评估框架来验证压缩后提示的可靠性与安全性。核心价值在于为提示压缩这一优化技术提供了可量化的质量保障手段，降低了生产部署中的风险。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "prompt-engineering",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-26T14:52:11.394309+00:00"
+}

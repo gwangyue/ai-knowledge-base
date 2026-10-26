@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261026-008",
+  "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.31789",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-26T14:51:15.736703+00:00",
+  "collected_at": "2026-10-26T14:51:15.736703+00:00",
+  "summary": "该论文提出 Phronix，一种以能力为中心的智能体学习范式，旨在通过显式建模和组合能力来提升智能体的泛化性与适应性。其核心价值在于为智能体学习提供结构化框架，可能推动更高效、可解释的智能体训练与部署。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-26T14:52:11.394275+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261026-014",
+  "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.31918",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-26T14:51:15.736740+00:00",
+  "collected_at": "2026-10-26T14:51:15.736740+00:00",
+  "summary": "该论文探讨了LLM智能体蒸馏中策略跟随的层次问题，超越传统的on-policy与off-policy二分法，提出在蒸馏过程中应在哪个层面（如动作、轨迹或策略）让学生模型跟随教师模型。其价值在于为LLM智能体蒸馏提供了更细粒度的设计指导，有助于提升蒸馏效果和智能体性能。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-26T14:52:11.394295+00:00"
+}
