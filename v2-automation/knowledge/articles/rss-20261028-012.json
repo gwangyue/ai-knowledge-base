@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261028-012",
+  "title": "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.36116",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-28T14:51:28.253110+00:00",
+  "collected_at": "2026-10-28T14:51:28.253110+00:00",
+  "summary": "该论文探讨了在AI能力超越人类时，人类如何通过基于人类理解和方向的框架来有效进行科学研究，提出了人机协作的科学方法论。其价值在于为AI时代的科研实践提供了指导原则和可操作框架，强调人类在方向设定和理解上的核心作用。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-28T14:52:25.261572+00:00"
+}

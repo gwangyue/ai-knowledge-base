@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261028-010",
+  "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.36077",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-28T14:51:28.253101+00:00",
+  "collected_at": "2026-10-28T14:51:28.253101+00:00",
+  "summary": "该论文提出Trinity框架，通过能力驱动的递归自我改进机制，使多模态智能体能够自主识别能力短板并迭代优化自身模块。核心价值在于将自我改进从单一任务扩展到多模态场景，为构建持续进化的通用智能体提供了新范式。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning",
+    "vision"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-28T14:52:25.261567+00:00"
+}

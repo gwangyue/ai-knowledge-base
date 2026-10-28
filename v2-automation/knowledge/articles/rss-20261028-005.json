@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261028-005",
+  "title": "AI promised less work. I've never worked more",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://oioannou.com/blog/ai-promised-less-work/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-28T14:51:27.283234+00:00",
+  "collected_at": "2026-10-28T14:51:27.283234+00:00",
+  "summary": "文章讨论了AI工具（如Copilot、ChatGPT等）在实际使用中反而增加了开发者的工作负担，而非如承诺般减少工作量。核心价值在于揭示AI辅助编程的隐性成本，包括代码审查、调试和上下文切换等环节，引发对AI生产力真实效益的反思。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "code-generation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-28T14:52:25.261558+00:00"
+}

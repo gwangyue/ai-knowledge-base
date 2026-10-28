@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261028-018",
+  "title": "BehaveRec: When Does Long-Term Behavioral History Help Sequential Recommendation? A Study with Session, History, and Community Signals",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.36239",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-28T14:51:28.253133+00:00",
+  "collected_at": "2026-10-28T14:51:28.253133+00:00",
+  "summary": "该论文研究长期行为历史在序列推荐中的作用，通过结合会话、历史与社区信号，系统分析何时长期行为历史能提升推荐效果。其价值在于为推荐系统中行为建模的信号选择与融合提供实证指导。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-28T14:52:25.261592+00:00"
+}

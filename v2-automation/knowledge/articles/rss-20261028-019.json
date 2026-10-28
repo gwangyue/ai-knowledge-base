@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261028-019",
+  "title": "A Smart Instant Book Filter Model based on Dual-Objective Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.36287",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-28T14:51:28.253136+00:00",
+  "collected_at": "2026-10-28T14:51:28.253136+00:00",
+  "summary": "该论文提出了一种基于双目标优化的智能即时预订过滤模型，旨在平衡预订决策中的多个目标（如效率与准确性）。其核心价值在于通过优化方法提升过滤系统的性能，为智能预订场景提供更优的决策支持。",
+  "score": 6,
+  "tags": [
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-28T14:52:25.261594+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261028-013",
+  "title": "From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.36146",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-28T14:51:28.253114+00:00",
+  "collected_at": "2026-10-28T14:51:28.253114+00:00",
+  "summary": "该论文提出了一种从结构反馈到提示策略的学习方法，用于训练忠实的文本到图像提示编辑器，旨在提升生成图像与用户意图的一致性。其核心价值在于通过反馈驱动的策略学习，增强提示编辑的可靠性和可解释性，为文本到图像生成的可控性提供新思路。",
+  "score": 7,
+  "tags": [
+    "prompt-engineering",
+    "vision",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-28T14:52:25.261575+00:00"
+}
