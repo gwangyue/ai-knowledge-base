@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261029-020",
+  "title": "When Retrieval Is Not Enough: Obsolete Facts in Agent Memory",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.36308",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-29T14:56:51.660262+00:00",
+  "collected_at": "2026-10-29T14:56:51.660262+00:00",
+  "summary": "该论文探讨了智能体记忆系统中检索增强的局限性，指出即使检索机制有效，记忆库中过时的事实仍会导致智能体产生错误行为。研究分析了过时事实在智能体记忆中的积累与影响机制，并提出了识别与更新过时信息的策略，对提升长期运行智能体的可靠性具有重要价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-29T14:57:49.612893+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261029-002",
+  "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://surgehq.ai/blog/dayjob-tax",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-29T14:56:50.683005+00:00",
+  "collected_at": "2026-10-29T14:56:50.683005+00:00",
+  "summary": "该内容介绍了一个名为 Dayjob: Tax 的基准测试，用于评估 AI 智能体在 50 个专业税务任务上的表现。其核心价值在于将 AI 智能体评测从通用场景拓展到高专业门槛的税务领域，为衡量智能体在真实职业任务中的可靠性与实用性提供了参考。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-29T14:57:49.612887+00:00"
+}

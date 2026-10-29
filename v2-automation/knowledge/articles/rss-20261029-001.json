@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261029-001",
+  "title": "Claude Code regularly sends each background agent’s transcript to its model",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-29T14:56:50.682976+00:00",
+  "collected_at": "2026-10-29T14:56:50.682976+00:00",
+  "summary": "该内容揭示了 Claude Code 的一个实现细节：它会定期将每个后台代理的完整对话记录（transcript）发送给其底层模型。这反映了多代理系统中上下文管理的一种设计模式，即通过持续回传代理状态来保持模型对任务进展的感知，对理解代理架构和上下文工程有参考价值。",
+  "score": 6,
+  "tags": [
+    "agent",
+    "llm",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-29T14:57:49.612872+00:00"
+}
