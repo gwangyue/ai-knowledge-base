@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261030-007",
+  "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.37739",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-30T14:49:40.278192+00:00",
+  "collected_at": "2026-10-30T14:49:40.278192+00:00",
+  "summary": "该论文提出了 OpenFrontiers，一个收集开放研究问题并构建基准的集合，旨在评估 AI 系统在科学再发现任务上的能力。其核心价值在于为 AI 驱动的科学发现提供标准化的评测框架，推动可复现的研究进展。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-30T14:50:36.982443+00:00"
+}

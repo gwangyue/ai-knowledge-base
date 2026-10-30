@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261030-004",
+  "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.37720",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-30T14:49:40.278110+00:00",
+  "collected_at": "2026-10-30T14:49:40.278110+00:00",
+  "summary": "LRMoE 提出了一种针对内存受限节点的需求侧负载重校准方法，用于高效训练混合专家（MoE）模型。该方法通过动态调整专家负载分配，缓解内存瓶颈，提升训练效率，为在资源有限设备上部署大规模 MoE 模型提供了实用方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-30T14:50:36.982429+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261030-019",
+  "title": "SciGame: Let Agents Play the Scientific Discovery Games in the Real and Counterfactual World",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.37919",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-30T14:49:40.278251+00:00",
+  "collected_at": "2026-10-30T14:49:40.278251+00:00",
+  "summary": "SciGame 提出了一种让 AI 智能体在真实与反事实世界中玩科学发现游戏的新框架，旨在评估和提升智能体的科学推理与探索能力。该工作将科学发现过程游戏化，为智能体在复杂科学场景中的决策与学习提供了可量化的测试平台，对 AI 驱动的科学发现研究具有推动价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-30T14:50:36.982482+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261030-015",
+  "title": "Verification Learning Theory: A Process Model of Checking and Retention in AI-Assisted Judgment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.37875",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-30T14:49:40.278232+00:00",
+  "collected_at": "2026-10-30T14:49:40.278232+00:00",
+  "summary": "该论文提出验证学习理论（Verification Learning Theory），将AI辅助判断中的核查与保留过程建模为一个过程模型，探讨人类如何在AI辅助下决定是否采纳、验证或保留信息。其价值在于为理解人机协作中的信任校准与信息保留机制提供理论框架，对AI辅助决策系统的设计与评估具有指导意义。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-30T14:50:36.982471+00:00"
+}

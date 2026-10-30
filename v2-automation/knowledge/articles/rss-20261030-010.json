@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261030-010",
+  "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.37830",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-30T14:49:40.278208+00:00",
+  "collected_at": "2026-10-30T14:49:40.278208+00:00",
+  "summary": "该论文研究了智能体在智能合约合成过程中意图丢失的问题，通过测量方法定位意图在哪个阶段发生偏差。其价值在于为提升智能体代码生成的准确性和可靠性提供了诊断工具与改进方向。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-30T14:50:36.982453+00:00"
+}

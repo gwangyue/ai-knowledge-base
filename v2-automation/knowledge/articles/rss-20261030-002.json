@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261030-002",
+  "title": "LLM Voice",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://martinfowler.com/bliki/LLM-Voice.html",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-30T14:49:39.379201+00:00",
+  "collected_at": "2026-10-30T14:49:39.379201+00:00",
+  "summary": "LLM Voice 是一个将大语言模型与语音接口结合的项目，旨在实现自然语音交互。其核心价值在于简化语音识别、LLM 推理和语音合成的集成，为开发者提供端到端的语音对话解决方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "audio"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-30T14:50:36.982424+00:00"
+}

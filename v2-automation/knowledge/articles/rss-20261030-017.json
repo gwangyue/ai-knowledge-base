@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261030-017",
+  "title": "FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.37905",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-30T14:49:40.278242+00:00",
+  "collected_at": "2026-10-30T14:49:40.278242+00:00",
+  "summary": "该论文提出 FilingLoop，一个用于评估和进化 LLM 代理在公司信息披露审查与修订中表现的框架。其核心价值在于填补了 LLM 代理在专业合规文档处理领域的评估空白，并提供了迭代改进代理能力的机制。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-30T14:50:36.982477+00:00"
+}

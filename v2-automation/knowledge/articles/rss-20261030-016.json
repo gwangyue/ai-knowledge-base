@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261030-016",
+  "title": "The Anatomy of Socio-Demographics in Pluralistic Offensiveness Modeling: When and Where It Helps, and the Role of Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.37896",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-30T14:49:40.278237+00:00",
+  "collected_at": "2026-10-30T14:49:40.278237+00:00",
+  "summary": "该论文研究了在多元文化背景下，如何利用社会人口学信息（如年龄、性别、教育程度）来提升冒犯性言论检测模型的性能。通过系统分析这些信息在何时、何处以及如何发挥作用，并探讨推理机制的角色，为构建更公平、更准确的仇恨言论检测系统提供了实证指导。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-30T14:50:36.982474+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261030-014",
+  "title": "What Constitutes Food Similarity? Visual Representations and Retrieval in Indian Cuisine",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.37867",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-30T14:49:40.278228+00:00",
+  "collected_at": "2026-10-30T14:49:40.278228+00:00",
+  "summary": "该论文探讨了印度菜肴中食物相似性的构成，通过视觉表示和检索方法分析食物图像的特征。研究价值在于为跨文化食物识别和检索系统提供视觉表征的实证依据，并推动食品计算领域的发展。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-30T14:50:36.982468+00:00"
+}

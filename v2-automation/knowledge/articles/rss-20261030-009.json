@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261030-009",
+  "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.37809",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-30T14:49:40.278203+00:00",
+  "collected_at": "2026-10-30T14:49:40.278203+00:00",
+  "summary": "该论文探讨了本体（ontology）作为LLM智能体在知识图谱上执行任务时的检查器（checker）的作用，比较了人工整理、LLM生成和数据衍生三种本体构建方式。核心价值在于提出了一种利用本体来验证和约束LLM智能体行为的新方法，有助于提升智能体在知识图谱上的可靠性和准确性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-30T14:50:36.982450+00:00"
+}
