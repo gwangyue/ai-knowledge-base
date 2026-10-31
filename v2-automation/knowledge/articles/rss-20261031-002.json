@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261031-002",
+  "title": "AI isn't replacing SREs, it's deskilling them",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-31T14:17:32.333896+00:00",
+  "collected_at": "2026-10-31T14:17:32.333896+00:00",
+  "summary": "文章探讨了AI在SRE（站点可靠性工程）领域的应用，指出AI并非取代SRE，而是导致技能退化（deskilling），即工程师过度依赖AI工具而丧失核心故障排查和系统理解能力。该内容引发对AI辅助运维长期影响的反思，具有行业讨论价值。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-31T14:18:31.906399+00:00"
+}
