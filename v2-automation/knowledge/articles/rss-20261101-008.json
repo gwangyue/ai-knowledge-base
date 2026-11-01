@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261101-008",
+  "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/mistral-large4",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-01T14:44:42.752544+00:00",
+  "collected_at": "2026-11-01T14:44:42.752544+00:00",
+  "summary": "Mistral AI 在 Hugging Face 上发布了 Mistral Large 4 模型，代号 Le Chonk。该模型在推理、代码生成和多语言能力上进行了升级，并通过 Hugging Face 平台提供便捷的访问和部署方式。这为开发者提供了更强大的开源 LLM 选择，推动了 AI 应用的创新。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "deployment",
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-01T14:45:40.809958+00:00"
+}

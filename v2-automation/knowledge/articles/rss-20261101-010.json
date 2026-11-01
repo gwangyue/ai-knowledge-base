@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261101-010",
+  "title": "Build specialized multimodal models with LFM3",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/LiquidAI/lfm3",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-01T14:44:42.752554+00:00",
+  "collected_at": "2026-11-01T14:44:42.752554+00:00",
+  "summary": "该博客介绍了如何基于 LFM3 构建专门的多模态模型，涵盖模型架构、训练策略和实际应用场景。其核心价值在于为开发者提供了一套可复用的多模态模型定制方案，降低了从通用模型到领域专用模型的迁移门槛。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "vision",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-01T14:45:40.809964+00:00"
+}

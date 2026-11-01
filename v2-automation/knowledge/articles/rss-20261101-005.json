@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261101-005",
+  "title": "nemotron-halloween",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-01T14:44:42.752495+00:00",
+  "collected_at": "2026-11-01T14:44:42.752495+00:00",
+  "summary": "该内容为 Hugging Face 博客发布的 Nemotron Halloween 项目，推测是围绕 NVIDIA Nemotron 系列模型开展的万圣节主题创意应用或微调实验。其价值在于展示大模型在趣味场景中的定制化能力，为开发者提供模型微调与创意落地的参考示例。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-01T14:45:40.809949+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261101-004",
+  "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-01T14:44:41.643946+00:00",
+  "collected_at": "2026-11-01T14:44:41.643946+00:00",
+  "summary": "思科为工程师提供无限制的AI token额度，用于重写遗留代码，展示了企业级LLM代码生成的大规模应用。该实践凸显了AI辅助现代化改造的潜力，并涉及成本、效率与工程流程的权衡。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-01T14:45:40.809944+00:00"
+}
