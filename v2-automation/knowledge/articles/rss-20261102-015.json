@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261102-015",
+  "title": "P-ContextBench: From Personal Fact Recall to Personalized Agent Behavior",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.40959",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-02T17:49:23.358509+00:00",
+  "collected_at": "2026-11-02T17:49:23.358509+00:00",
+  "summary": "P-ContextBench 是一个新的基准测试，旨在评估个性化 AI 代理在从个人事实回忆到个性化行为方面的能力。它填补了现有评估的空白，将记忆召回与代理行为个性化联系起来，为开发更自然的个性化代理提供了重要工具。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "agent",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-02T17:50:18.626409+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261102-009",
+  "title": "Towards Portable Specification of the Agent Harness",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.40917",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-02T17:49:23.358484+00:00",
+  "collected_at": "2026-11-02T17:49:23.358484+00:00",
+  "summary": "该论文探讨了AI智能体（Agent）运行框架（Agent Harness）的可移植规范问题，旨在解决不同智能体系统间配置与执行环境难以迁移的挑战。其核心价值在于提出标准化框架描述方法，提升智能体部署的互操作性与可复用性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-02T17:50:18.626391+00:00"
+}

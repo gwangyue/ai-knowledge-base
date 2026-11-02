@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261102-005",
+  "title": "Circumventing the Computational Hardness of Computational Arbitrage",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.40831",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-02T17:49:23.358463+00:00",
+  "collected_at": "2026-11-02T17:49:23.358463+00:00",
+  "summary": "该论文探讨计算套利（computational arbitrage）中的计算难度问题，并提出规避这些难度的新方法。其核心价值在于为利用计算资源差异进行套利的相关算法设计提供理论指导与可行路径。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-02T17:50:18.626379+00:00"
+}

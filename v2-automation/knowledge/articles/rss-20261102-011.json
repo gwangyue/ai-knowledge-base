@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261102-011",
+  "title": "DiRAFT: Privacy-Aware Financial Transcript Synthesis from Aggregate Discourse Priors",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.40938",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-02T17:49:23.358493+00:00",
+  "collected_at": "2026-11-02T17:49:23.358493+00:00",
+  "summary": "DiRAFT 提出一种隐私感知的金融对话记录合成方法，基于聚合话语先验生成合成数据，以解决金融领域对话数据稀缺与隐私限制问题。该方法通过聚合先验建模话语结构，在保护个体隐私的同时生成高质量合成对话，为金融 AI 训练与评估提供数据支持。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-02T17:50:18.626396+00:00"
+}

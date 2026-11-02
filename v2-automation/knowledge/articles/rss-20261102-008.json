@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261102-008",
+  "title": "Does Recursive Knowledge Construction Help Agents Verify Consensus Claims in Science?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.40906",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-02T17:49:23.358480+00:00",
+  "collected_at": "2026-11-02T17:49:23.358480+00:00",
+  "summary": "该论文探讨递归知识构建方法是否有助于AI智能体验证科学文献中的共识性主张，属于LLM智能体在科学事实核查领域的应用研究。其价值在于评估递归推理策略对提升智能体验证准确性和可靠性的效果，为科学共识验证提供新的方法论参考。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-02T17:50:18.626388+00:00"
+}

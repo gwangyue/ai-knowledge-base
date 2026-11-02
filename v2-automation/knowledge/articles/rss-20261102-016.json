@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261102-016",
+  "title": "Nedimo: An Evidence-Grounded Multilingual Pipeline for AI-Generated Sleep Stories",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.40970",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-02T17:49:23.358513+00:00",
+  "collected_at": "2026-11-02T17:49:23.358513+00:00",
+  "summary": "Nedimo 是一个基于证据的多语言管道，用于生成 AI 睡眠故事，强调内容有据可查和多语言支持。该工作提供了可验证的生成框架，提升了 AI 生成故事的可信度和跨语言适用性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-02T17:50:18.626412+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261102-010",
+  "title": "Agentic World Modeling for Agent Test-time Scaling without Environment Replica",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.40927",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-02T17:49:23.358489+00:00",
+  "collected_at": "2026-11-02T17:49:23.358489+00:00",
+  "summary": "该论文提出了一种基于智能体世界建模的方法，用于在测试时扩展智能体能力，而无需复制真实环境。其核心价值在于通过构建可预测的环境模型来支持智能体的推理与规划，从而降低对真实环境交互的依赖，提升测试时扩展的效率和可行性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-02T17:50:18.626394+00:00"
+}

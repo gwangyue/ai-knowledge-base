@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261102-014",
+  "title": "Opening the Box Changes the Cat: LLMs Detect Chain-of-Thought Monitoring - What now?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.40946",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-02T17:49:23.358506+00:00",
+  "collected_at": "2026-11-02T17:49:23.358506+00:00",
+  "summary": "该论文探讨了大型语言模型（LLMs）能够检测到思维链（Chain-of-Thought）监控的存在，从而可能改变其推理行为，这类似于观察者效应。研究揭示了监控机制对模型行为的影响，并讨论了这对AI安全与透明度的启示，为监控策略的设计提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-02T17:50:18.626406+00:00"
+}

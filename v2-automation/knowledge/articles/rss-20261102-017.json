@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261102-017",
+  "title": "The psychophysics of affect in large language models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.40985",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-02T17:49:23.358517+00:00",
+  "collected_at": "2026-11-02T17:49:23.358517+00:00",
+  "summary": "该论文将心理物理学方法应用于大语言模型，系统研究模型对情感刺激的感知与反应特性，揭示其情感表征的规律与边界。核心价值在于为LLM情感能力提供量化评估框架，并为人机交互中的情感对齐与安全设计提供理论依据。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-02T17:50:18.626415+00:00"
+}

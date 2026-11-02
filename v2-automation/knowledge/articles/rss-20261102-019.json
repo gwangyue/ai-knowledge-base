@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261102-019",
+  "title": "Violet Teaming in Practice: Lessons from a Pilot Expert Workshop on Governing Complex AI Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.41018",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-02T17:49:23.358525+00:00",
+  "collected_at": "2026-11-02T17:49:23.358525+00:00",
+  "summary": "本文介绍了“Violet Teaming”这一实践方法，通过试点专家研讨会的形式，探讨如何治理复杂的AI系统。核心价值在于提供了一种跨学科协作的治理框架，结合红队测试与建设性设计，以应对AI系统在部署中的复杂风险。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-02T17:50:18.626420+00:00"
+}

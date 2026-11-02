@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261102-002",
+  "title": "The AI cost of JavaScript frameworks",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-02T17:49:22.135935+00:00",
+  "collected_at": "2026-11-02T17:49:22.135935+00:00",
+  "summary": "该文章探讨了不同 JavaScript 框架在 AI 辅助开发场景下的成本影响，分析了框架选择如何影响 AI 生成代码的效率与资源消耗。其价值在于为开发者提供了在 AI 时代优化前端技术栈的实用参考。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-02T17:50:18.626367+00:00"
+}
