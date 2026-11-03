@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261103-020",
+  "title": "Efficient NPN Classification for Large Functions using Graph Neural Network",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.00339",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-03T15:49:19.235956+00:00",
+  "collected_at": "2026-11-03T15:49:19.235956+00:00",
+  "summary": "该论文提出了一种基于图神经网络（GNN）的高效NPN分类方法，用于处理大规模布尔函数。通过将函数表示为图结构并利用GNN学习特征，该方法显著提升了分类效率，为逻辑综合和电路设计中的函数分类问题提供了新思路。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-03T15:50:13.868233+00:00"
+}

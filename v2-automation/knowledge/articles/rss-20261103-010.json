@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261103-010",
+  "title": "MemU-Bench: Benchmarking GUI Agents on Long-Horizon User Interactions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.00191",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-03T15:49:19.235910+00:00",
+  "collected_at": "2026-11-03T15:49:19.235910+00:00",
+  "summary": "该论文提出 MemU-Bench，一个用于评估 GUI 智能体在长程用户交互中记忆与上下文理解能力的基准测试。其核心价值在于填补了现有 GUI 智能体评测多集中于单步或短程任务的空白，推动智能体在真实多轮交互场景下的能力评估。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-03T15:50:13.868199+00:00"
+}

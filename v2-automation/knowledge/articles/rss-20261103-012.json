@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261103-012",
+  "title": "RE-SciVQA: Improving Scientific VQA With Context-Relevant Retrieval and Lightweight MLLM Adaptation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.00242",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-03T15:49:19.235919+00:00",
+  "collected_at": "2026-11-03T15:49:19.235919+00:00",
+  "summary": "该论文提出RE-SciVQA方法，通过上下文相关检索和轻量级多模态大语言模型（MLLM）适配来提升科学视觉问答（VQA）的性能。其核心价值在于结合检索增强生成（RAG）与高效微调技术，在科学领域实现更准确的跨模态推理，为专业场景下的VQA应用提供新思路。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "vision",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-03T15:50:13.868205+00:00"
+}

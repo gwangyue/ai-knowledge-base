@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261103-004",
+  "title": "Learning to bid and bundle: a posterior-sampling agent for online retail",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.00165",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-03T15:49:19.235872+00:00",
+  "collected_at": "2026-11-03T15:49:19.235872+00:00",
+  "summary": "该论文提出一种基于后验采样的智能体方法，用于在线零售场景中的竞价与捆绑决策。通过将竞价和捆绑问题建模为序列决策过程，并利用后验采样平衡探索与利用，该方法在动态环境中提升了收益表现。其价值在于为在线零售的自动化定价与组合优化提供了可扩展的强化学习解决方案。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-03T15:50:13.868181+00:00"
+}

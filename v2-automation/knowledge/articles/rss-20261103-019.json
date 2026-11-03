@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261103-019",
+  "title": "Beyond Semantic IDs: Atomic Creator Tokens for Large-Scale Generative Recommendation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.00323",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-03T15:49:19.235951+00:00",
+  "collected_at": "2026-11-03T15:49:19.235951+00:00",
+  "summary": "该论文提出原子创作者令牌（Atomic Creator Tokens）替代语义ID，用于大规模生成式推荐系统，旨在更细粒度地建模创作者与物品的交互关系，提升推荐准确性和可扩展性。其核心价值在于为生成式推荐提供了一种新的物品表示范式，有望推动推荐系统向更高效、更精准的方向发展。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-03T15:50:13.868230+00:00"
+}

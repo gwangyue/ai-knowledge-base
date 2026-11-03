@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261103-008",
+  "title": "AuroraWorld: Structured 4D World Modeling for Exo-to-Ego Video Generation in Robot Manipulation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.00177",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-03T15:49:19.235900+00:00",
+  "collected_at": "2026-11-03T15:49:19.235900+00:00",
+  "summary": "该论文提出AuroraWorld，一种结构化4D世界建模方法，用于从外视角视频生成机器人操作的内视角视频，以增强机器人学习中的数据多样性。其核心价值在于通过跨视角视频生成缓解内视角数据稀缺问题，提升机器人操作策略的泛化能力。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-03T15:50:13.868194+00:00"
+}

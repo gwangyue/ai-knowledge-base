@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261103-014",
+  "title": "Taurus: LLM-in-the-Loop CT Annotation Matches Coding Agents at Half the Cost",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.00247",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-03T15:49:19.235928+00:00",
+  "collected_at": "2026-11-03T15:49:19.235928+00:00",
+  "summary": "Taurus 提出了一种在循环中使用 LLM 进行 CT 标注的方法，其性能与编码代理相当，但成本减半。该工作展示了 LLM 在医学影像标注中的高效应用，为降低标注成本提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "vision",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-03T15:50:13.868215+00:00"
+}

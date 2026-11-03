@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261103-009",
+  "title": "Neurons Are All You Need",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.00186",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-03T15:49:19.235905+00:00",
+  "collected_at": "2026-11-03T15:49:19.235905+00:00",
+  "summary": "该论文探讨了神经元作为AI基本单元的核心作用，可能提出了一种仅依赖神经元结构或简化神经元模型的新方法，挑战了当前复杂网络架构的必要性。其价值在于重新审视基础计算单元的设计，为高效、可解释的AI系统提供新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-03T15:50:13.868196+00:00"
+}

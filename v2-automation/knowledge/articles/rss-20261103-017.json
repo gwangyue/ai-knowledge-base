@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261103-017",
+  "title": "Quantifying Local and Global Fidelity of Nonlinear Embeddings",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.00290",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-03T15:49:19.235941+00:00",
+  "collected_at": "2026-11-03T15:49:19.235941+00:00",
+  "summary": "该论文提出了一种量化非线性嵌入局部和全局保真度的方法，用于评估嵌入在保持数据局部邻域结构和全局几何关系方面的质量。其价值在于为嵌入质量提供了更全面的评价指标，有助于改进降维和表示学习技术。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-03T15:50:13.868224+00:00"
+}

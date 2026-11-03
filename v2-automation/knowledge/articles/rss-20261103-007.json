@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261103-007",
+  "title": "Reimagining Text-to-SQL: A Survey of Large Language Model Architectures and Strategies",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.00171",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-03T15:49:19.235896+00:00",
+  "collected_at": "2026-11-03T15:49:19.235896+00:00",
+  "summary": "该论文对基于大语言模型的Text-to-SQL技术进行了系统性综述，重点分析了不同的模型架构与策略，并提出了新的分类框架。其价值在于为研究者与实践者提供了全面的技术图景，有助于理解该领域的关键进展与未来方向。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "code-generation",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-03T15:50:13.868191+00:00"
+}

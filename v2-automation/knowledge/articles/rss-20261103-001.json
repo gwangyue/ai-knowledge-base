@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261103-001",
+  "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-03T15:49:18.039475+00:00",
+  "collected_at": "2026-11-03T15:49:18.039475+00:00",
+  "summary": "该内容揭示了Anthropic公司内部AI使用成本（按零售价格计算）已超过其员工薪酬总额，反映了大规模AI部署的经济影响。核心价值在于量化了企业级AI应用的运营成本，为AI基础设施投资和成本管理提供参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-03T15:50:13.868160+00:00"
+}
