@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261104-013",
+  "title": "Unsatz: Evaluating Scientific Discovery Without a Given Ansatz",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.03713",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-04T15:57:28.276143+00:00",
+  "collected_at": "2026-11-04T15:57:28.276143+00:00",
+  "summary": "该论文提出 Unsatz 框架，用于评估 AI 系统在缺乏预设 ansatz（先验假设/形式结构）条件下进行科学发现的能力，弥补了现有基准依赖给定问题结构的局限。其核心价值在于更真实地衡量模型自主提出假设、设计实验与推导规律的能力，为科学发现型 AI 的评测提供了新视角。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-04T15:58:30.747195+00:00"
+}

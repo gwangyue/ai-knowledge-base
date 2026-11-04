@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261104-004",
+  "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-04T15:57:27.341790+00:00",
+  "collected_at": "2026-11-04T15:57:27.341790+00:00",
+  "summary": "该文章揭露 Postman 在用户不知情的情况下自动安装 AI 插件，并尝试共享所有 API 数据，引发对开发者工具隐私与安全风险的关注。核心价值在于警示用户审查工具的数据收集行为，并推动对 AI 集成透明度的讨论。",
+  "score": 7,
+  "tags": [
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-04T15:58:30.747168+00:00"
+}

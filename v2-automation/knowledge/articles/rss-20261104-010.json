@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261104-010",
+  "title": "Functional-Group Knowledge Is Structured in Language Models Before It Is Spoken",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.03684",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-04T15:57:28.276132+00:00",
+  "collected_at": "2026-11-04T15:57:28.276132+00:00",
+  "summary": "该论文探讨了语言模型在显式表达之前，其内部是否已经结构化地编码了官能团知识。研究发现模型在生成相关文本前，内部表示已具备官能团的结构化知识，揭示了语言模型知识组织的前瞻性。这一发现对理解模型内部机制和提升化学领域推理能力具有价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-04T15:58:30.747186+00:00"
+}

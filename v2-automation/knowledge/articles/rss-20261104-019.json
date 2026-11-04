@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261104-019",
+  "title": "El Agente F\\'armaco: A Scalable AI Scientist for Drug Discovery",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.03832",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-04T15:57:28.276165+00:00",
+  "collected_at": "2026-11-04T15:57:28.276165+00:00",
+  "summary": "该论文提出了一种名为El Agente Fármaco的可扩展AI科学家系统，用于药物发现。它利用大型语言模型和智能体架构自动化药物发现流程中的多个环节，旨在提高研发效率并降低人工成本。其核心价值在于提供了一种可扩展的AI驱动解决方案，有望加速药物发现进程。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-04T15:58:30.747210+00:00"
+}

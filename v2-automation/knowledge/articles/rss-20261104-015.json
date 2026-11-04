@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261104-015",
+  "title": "EMBERS: Empirically Motivated Robustness Testing of Deep Research Systems via Defect-Guided Fuzzing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.03723",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-04T15:57:28.276151+00:00",
+  "collected_at": "2026-11-04T15:57:28.276151+00:00",
+  "summary": "该论文提出 EMBERS，一种基于缺陷引导模糊测试（defect-guided fuzzing）的鲁棒性测试方法，用于评估深度研究系统（Deep Research Systems）的可靠性。其核心价值在于以经验驱动的缺陷模式指导测试用例生成，提升对复杂 AI 研究代理系统的鲁棒性评估效率与覆盖度。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "agent",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-04T15:58:30.747200+00:00"
+}
