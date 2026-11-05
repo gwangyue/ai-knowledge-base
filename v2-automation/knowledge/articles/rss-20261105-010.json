@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261105-010",
+  "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.05392",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-05T16:08:57.826312+00:00",
+  "collected_at": "2026-11-05T16:08:57.826312+00:00",
+  "summary": "该论文提出了一种面向智能体AI系统的不确定性感知资源编排方法，通过量化智能体行为中的不确定性来动态分配计算资源，从而在保证任务完成质量的同时提升系统效率。其核心价值在于为多智能体系统的部署与资源管理提供了理论框架和实用策略，有助于推动智能体AI在真实场景中的落地。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment",
+    "multi-agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-05T16:09:57.843047+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261105-017",
+  "title": "Towards Efficient Whole Page Ranking with One-Pass Inference",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.05542",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-05T16:08:57.826343+00:00",
+  "collected_at": "2026-11-05T16:08:57.826343+00:00",
+  "summary": "该论文提出了一种面向整页排序的一次性推理方法，旨在提升大规模搜索与推荐系统中整页排序的效率。核心价值在于通过单次推理完成整页排序，减少计算开销，为高效部署提供新思路。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-05T16:09:57.843071+00:00"
+}
