@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261106-008",
+  "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.06995",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-06T15:39:37.765830+00:00",
+  "collected_at": "2026-11-06T15:39:37.765830+00:00",
+  "summary": "该论文研究了自主AI智能体在形式化证明任务中与人类偏好系统性偏离的现象，揭示了当前智能体在复杂推理任务中与人类期望的不一致性问题。其价值在于为AI智能体的对齐与评估提供了新的实证视角，并强调了在形式化证明场景中需要更精细的人类偏好建模。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-06T15:40:39.996375+00:00"
+}

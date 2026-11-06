@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261106-003",
+  "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.06962",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-06T15:39:37.765752+00:00",
+  "collected_at": "2026-11-06T15:39:37.765752+00:00",
+  "summary": "该论文探讨了在人工智能时代如何形式化逆问题，分析了可能性、陷阱，并发出合作邀请。核心价值在于为逆问题的AI方法提供形式化框架，帮助研究者避免常见误区并推动领域发展。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-06T15:40:39.996355+00:00"
+}

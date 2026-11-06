@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261106-020",
+  "title": "SAVeR$^2$: Reasoning-based Safety Alignment for Large Reasoning Models via Verifiable Rewards",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.07482",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-06T15:39:37.765892+00:00",
+  "collected_at": "2026-11-06T15:39:37.765892+00:00",
+  "summary": "该论文提出SAVeR²方法，利用可验证奖励的强化学习对大型推理模型进行基于推理的安全对齐，通过验证推理过程的安全性来提升模型抵御有害请求的能力。其核心价值在于将安全对齐与推理能力结合，为大型推理模型提供可扩展的安全保障方案。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "security",
+    "fine-tuning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-06T15:40:39.996426+00:00"
+}

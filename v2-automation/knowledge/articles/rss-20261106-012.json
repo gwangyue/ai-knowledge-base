@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261106-012",
+  "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.07066",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-06T15:39:37.765849+00:00",
+  "collected_at": "2026-11-06T15:39:37.765849+00:00",
+  "summary": "该论文提出了一种基于上镜图（epigraph）形式引导探索的合作多智能体强化学习方法，旨在解决合作MARL中探索效率低和协调困难的问题。通过将联合价值函数的上镜图形式融入探索策略，引导智能体更有效地发现合作行为，从而提升学习性能和收敛速度。该工作为多智能体强化学习的探索机制提供了新的理论视角和实用方法。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-06T15:40:39.996397+00:00"
+}

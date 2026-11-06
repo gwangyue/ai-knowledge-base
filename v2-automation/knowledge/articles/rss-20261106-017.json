@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261106-017",
+  "title": "Robust Ranking of Port Impacts from Impending Tropical Cyclones: A Two-Stage Recommendation System",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.07296",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-06T15:39:37.765873+00:00",
+  "collected_at": "2026-11-06T15:39:37.765873+00:00",
+  "summary": "该论文提出一种两阶段推荐系统，用于在即将来临的热带气旋中稳健地对港口影响进行排序。其核心价值在于结合鲁棒排序方法提升灾害应急决策的可靠性，为港口物流和防灾管理提供可操作的优先级建议。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-06T15:40:39.996415+00:00"
+}

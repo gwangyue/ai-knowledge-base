@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261106-004",
+  "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.06972",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-06T15:39:37.765795+00:00",
+  "collected_at": "2026-11-06T15:39:37.765795+00:00",
+  "summary": "该论文提出KDASO方法，利用知识-数据双驱动自动优化责任裁定任务中的技能（提示或流程），提升LLM在复杂法律场景下的表现。其价值在于减少人工调优成本，为法律等专业领域的自动化技能优化提供可扩展方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-06T15:40:39.996360+00:00"
+}

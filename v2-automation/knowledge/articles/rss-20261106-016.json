@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261106-016",
+  "title": "Goal Revelation as a Bridge Between Information-Theoretic Empowerment and Capability-Based Human Power",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.07247",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-06T15:39:37.765868+00:00",
+  "collected_at": "2026-11-06T15:39:37.765868+00:00",
+  "summary": "该论文探讨了目标揭示（Goal Revelation）作为连接信息论赋权（Empowerment）与基于能力的人类权力（Human Power）的桥梁，旨在统一这两个概念以更好地理解智能体的目标导向行为。其价值在于为设计更高效、更符合人类意图的AI智能体提供了理论框架。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-06T15:40:39.996411+00:00"
+}
