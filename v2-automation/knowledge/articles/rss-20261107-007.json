@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261107-007",
+  "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-07T14:40:31.398561+00:00",
+  "collected_at": "2026-11-07T14:40:31.398561+00:00",
+  "summary": "Dharma Field Extractor 是一个从任意文档中提取结构化字段并输出 JSON 的工具，基于 Hugging Face 平台发布。它简化了非结构化文档到结构化数据的转换流程，提升了信息抽取的效率和可用性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "tool-use",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-07T14:41:29.315723+00:00"
+}

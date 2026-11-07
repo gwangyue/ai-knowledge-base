@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261107-009",
+  "title": "CWE-bench v2: More coverage, quality, and transparency",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/cwe-bench",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-07T14:40:31.398568+00:00",
+  "collected_at": "2026-11-07T14:40:31.398568+00:00",
+  "summary": "CWE-bench v2 是 Hugging Face 发布的更新版基准测试，旨在提升对 AI 模型在软件漏洞检测（CWE）任务上的评估覆盖度、质量和透明度。该版本扩展了漏洞类型和样本范围，并改进了标注与评估流程，为安全领域的模型评估提供了更可靠的标准。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "security",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-07T14:41:29.315728+00:00"
+}
