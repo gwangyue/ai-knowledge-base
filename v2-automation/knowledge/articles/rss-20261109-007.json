@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261109-007",
+  "title": "Pdb or Not to Be: Comparing Debugging Interfaces With Pass$_{X}$@$k$",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.08666",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-09T18:20:42.678368+00:00",
+  "collected_at": "2026-11-09T18:20:42.678368+00:00",
+  "summary": "该论文比较了Python调试接口（如pdb）与基于Pass@k的评估方法在代码生成任务中的效果，提出了一种新的调试接口评估指标。其价值在于为AI代码生成模型的调试能力提供了更精确的量化对比框架。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "evaluation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-09T18:21:43.727991+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rss-20261109-017",
+  "title": "The Matthews Correlation Coefficient: Fifty years",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.08799",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-09T18:20:42.678413+00:00",
+  "collected_at": "2026-11-09T18:20:42.678413+00:00",
+  "summary": "该论文综述了Matthews相关系数（MCC）五十年来的发展历程，系统梳理了其定义、性质、变体以及在机器学习评估中的应用。作为一篇历史回顾性文章，它有助于研究者深入理解MCC在类别不平衡场景下的优势与局限，并为评估指标的选择提供参考。",
+  "score": 7,
+  "tags": [
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-09T18:21:43.728026+00:00"
+}

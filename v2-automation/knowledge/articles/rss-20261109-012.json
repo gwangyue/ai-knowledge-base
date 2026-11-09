@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261109-012",
+  "title": "AlterNet: Adaptive-Depth Mixture-of-Experts with Learned Halting for Elastic Inference",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.08741",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-09T18:20:42.678391+00:00",
+  "collected_at": "2026-11-09T18:20:42.678391+00:00",
+  "summary": "AlterNet 提出了一种自适应深度的混合专家（MoE）架构，通过学习的停止机制实现弹性推理，允许模型根据输入复杂度动态调整计算深度。该工作将 MoE 与动态深度结合，在保持性能的同时提升推理效率，为高效部署大模型提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-09T18:21:43.728011+00:00"
+}

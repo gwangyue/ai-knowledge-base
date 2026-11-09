@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261109-005",
+  "title": "Decision Context: Persistent Behavioral Learning for AI Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.08644",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-09T18:20:42.678357+00:00",
+  "collected_at": "2026-11-09T18:20:42.678357+00:00",
+  "summary": "该论文提出 Decision Context 机制，为 AI 智能体引入持久化的行为学习能力，使智能体能够跨会话积累和复用决策经验，而非每次从零开始。其核心价值在于提升智能体长期任务中的一致性与适应性，减少重复推理开销，为构建具备持续学习能力的自主智能体提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-09T18:21:43.727984+00:00"
+}

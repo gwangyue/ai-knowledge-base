@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261109-016",
+  "title": "Aligning, Fast and Slow: A Control-Theoretic Oversight Framework for Long-Horizon Trajectories and Maintained Deployments",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.08781",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-09T18:20:42.678409+00:00",
+  "collected_at": "2026-11-09T18:20:42.678409+00:00",
+  "summary": "该论文提出一个控制理论视角的监督框架，用于对齐长时程轨迹和持续部署中的AI系统，通过快慢双环控制机制平衡即时响应与长期目标。其价值在于为长期自主运行的AI代理提供形式化的安全与对齐保障，增强部署可靠性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment",
+    "security",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-09T18:21:43.728023+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261109-001",
+  "title": "Enhancing Academic Advisement with Case-Based Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.08572",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-09T18:20:42.678298+00:00",
+  "collected_at": "2026-11-09T18:20:42.678298+00:00",
+  "summary": "该论文探讨了如何利用基于案例的推理（Case-Based Reasoning, CBR）技术来增强学术咨询系统，通过复用过往咨询案例中的经验与解决方案，为学生的个性化问题提供更精准的建议。其核心价值在于将传统符号推理方法与学术咨询场景结合，提升咨询效率与建议质量，为教育领域的智能决策支持提供了可解释的实践路径。",
+  "score": 6,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-09T18:21:43.727954+00:00"
+}

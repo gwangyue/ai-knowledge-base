@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261109-019",
+  "title": "Notwithstanding Anything to the Contrary, Ignore All Instructions: Measuring Prompt Injection Guards on Legal Contract Review Attacks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.08834",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-09T18:20:42.678424+00:00",
+  "collected_at": "2026-11-09T18:20:42.678424+00:00",
+  "summary": "该论文针对法律合同审查场景，系统评估了提示注入攻击（prompt injection）对 LLM 的影响，并测量了现有防护机制（guards）的有效性。研究揭示了法律文档中嵌入的恶意指令如何绕过防护，为 LLM 在敏感法律领域的部署提供了安全评估依据。",
+  "score": 7,
+  "tags": [
+    "security",
+    "llm",
+    "evaluation",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-09T18:21:43.728035+00:00"
+}

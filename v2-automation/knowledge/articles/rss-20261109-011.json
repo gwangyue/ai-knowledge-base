@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261109-011",
+  "title": "Memory-Aware Multi-Agent Architecture with LLM-based Orchestration for Conversational Recommendation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.08718",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-09T18:20:42.678387+00:00",
+  "collected_at": "2026-11-09T18:20:42.678387+00:00",
+  "summary": "该论文提出了一种记忆感知的多智能体架构，利用基于LLM的编排机制实现对话推荐系统。通过为智能体引入记忆模块并协调多智能体协作，提升了对话推荐的上下文连贯性和推荐准确性，为复杂对话场景下的推荐系统提供了新思路。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-09T18:21:43.728008+00:00"
+}
