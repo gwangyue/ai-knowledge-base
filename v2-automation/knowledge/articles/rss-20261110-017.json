@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261110-017",
+  "title": "Multi-GPU MoE Inference with Adaptive Expert Offloading",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.10219",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-10T16:05:56.391030+00:00",
+  "collected_at": "2026-11-10T16:05:56.391030+00:00",
+  "summary": "该论文提出了一种面向多GPU环境的混合专家模型（MoE）推理方法，通过自适应专家卸载策略动态管理专家在GPU间的分布，以优化内存使用和计算效率。其核心价值在于解决了大规模MoE模型在多GPU部署中的内存瓶颈问题，提升了推理吞吐量和资源利用率。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-10T16:06:58.624913+00:00"
+}

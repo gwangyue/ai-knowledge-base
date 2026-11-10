@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261110-006",
+  "title": "META-IR: Meta-Introspective Reasoning for Adaptive Safety Alignment in LLM",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.10089",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-10T16:05:56.390985+00:00",
+  "collected_at": "2026-11-10T16:05:56.390985+00:00",
+  "summary": "该论文提出META-IR框架，通过元内省推理机制使LLM能够自适应地调整安全对齐策略，在保持模型有用性的同时提升对恶意请求的防御能力。其核心价值在于将元认知与推理过程结合，为LLM安全部署提供了一种动态、可解释的对齐方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-10T16:06:58.624879+00:00"
+}

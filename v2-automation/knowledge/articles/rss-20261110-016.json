@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261110-016",
+  "title": "Ensemble Routing for Prompt-Adaptive Cost-Aware LLM Inference",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.10193",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-10T16:05:56.391026+00:00",
+  "collected_at": "2026-11-10T16:05:56.391026+00:00",
+  "summary": "该论文提出一种集成路由方法，用于在LLM推理时根据提示自适应地选择模型，以在成本与性能之间取得平衡。核心价值在于通过动态路由降低推理成本，同时保持输出质量，适用于多模型部署场景。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-10T16:06:58.624911+00:00"
+}

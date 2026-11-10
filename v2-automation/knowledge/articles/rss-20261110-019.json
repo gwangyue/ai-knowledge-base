@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261110-019",
+  "title": "ScreenProof: Where Is This Screen Wrong? Finding UI Faults Without a Reference",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.10234",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-10T16:05:56.391039+00:00",
+  "collected_at": "2026-11-10T16:05:56.391039+00:00",
+  "summary": "该论文提出 ScreenProof，一种无需参考界面的 UI 故障检测方法，通过分析屏幕截图自动识别界面错误。其核心价值在于摆脱对基准设计的依赖，提升 UI 测试的自动化与鲁棒性，适用于移动与 Web 应用的质量保障。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "evaluation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-10T16:06:58.624918+00:00"
+}

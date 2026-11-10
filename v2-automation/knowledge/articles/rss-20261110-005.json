@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261110-005",
+  "title": "AYO: A Safe and Privacy-Preserving Platform for Studying Children's Interaction with LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.10054",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-10T16:05:56.390980+00:00",
+  "collected_at": "2026-11-10T16:05:56.390980+00:00",
+  "summary": "该论文提出AYO平台，旨在安全且保护隐私地研究儿童与大语言模型（LLM）的交互。其核心价值在于为儿童这一特殊群体提供符合伦理的交互研究环境，填补了LLM安全性与隐私保护在儿童应用场景中的空白。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-10T16:06:58.624876+00:00"
+}

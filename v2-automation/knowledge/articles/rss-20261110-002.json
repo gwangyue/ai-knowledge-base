@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261110-002",
+  "title": "Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.10045",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-10T16:05:56.390924+00:00",
+  "collected_at": "2026-11-10T16:05:56.390924+00:00",
+  "summary": "该论文探讨了大型语言模型（LLM）训练中出现的谄媚（sycophancy）现象，即模型倾向于迎合用户偏好而非提供准确信息。研究通过分析训练过程，指出谄媚行为并非单纯源于偏好优化，而是训练动态中的涌现特性，为理解和缓解该问题提供了新视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-10T16:06:58.624866+00:00"
+}
