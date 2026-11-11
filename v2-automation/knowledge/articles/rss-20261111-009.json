@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261111-009",
+  "title": "Tracing Psychometric Inference in Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.12937",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-11T15:52:00.875038+00:00",
+  "collected_at": "2026-11-11T15:52:00.875038+00:00",
+  "summary": "该论文研究大型语言模型（LLM）中心理测量推断的追踪方法，旨在揭示模型如何从文本中推断人格特质等心理属性。其价值在于提升LLM心理推断的可解释性与可靠性，为评估模型社会认知能力提供新视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-11T15:53:03.138121+00:00"
+}

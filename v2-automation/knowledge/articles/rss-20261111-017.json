@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261111-017",
+  "title": "Embodied Science Agents: Making Embodied Experimental Design Learnable",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.12958",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-11T15:52:00.875082+00:00",
+  "collected_at": "2026-11-11T15:52:00.875082+00:00",
+  "summary": "该论文提出具身科学智能体（Embodied Science Agents），旨在使具身实验设计过程变得可学习，通过智能体在物理或模拟环境中的交互来优化实验设计。其核心价值在于将具身认知与科学实验自动化结合，为AI驱动的科学发现提供可训练、可迁移的方法框架。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-11T15:53:03.138149+00:00"
+}

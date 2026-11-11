@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261111-016",
+  "title": "Physics2Weight: Direct Neural Network Architecture and Weight Generation from Physical Laws Using Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.12954",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-11T15:52:00.875075+00:00",
+  "collected_at": "2026-11-11T15:52:00.875075+00:00",
+  "summary": "该论文提出 Physics2Weight 方法，利用大语言模型直接从物理定律生成神经网络架构和权重，实现物理信息驱动的网络构建。其核心价值在于将物理先验知识自动化融入网络设计，有望提升模型在物理相关任务上的泛化性和可解释性。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-11T15:53:03.138146+00:00"
+}

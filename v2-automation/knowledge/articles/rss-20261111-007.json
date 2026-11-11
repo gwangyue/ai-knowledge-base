@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261111-007",
+  "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.12935",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-11T15:52:00.875028+00:00",
+  "collected_at": "2026-11-11T15:52:00.875028+00:00",
+  "summary": "该论文提出在预填充阶段训练稀疏自编码器（SAE），并在解码阶段用于主题监控，从而实现对LLM生成内容的实时主题追踪。核心价值在于将SAE的应用从静态分析扩展到动态生成过程的监控，为模型可解释性和安全部署提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-11T15:53:03.138114+00:00"
+}

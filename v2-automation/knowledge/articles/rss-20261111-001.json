@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261111-001",
+  "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://pietromiotti.com/latest/maya-site/?maya",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-11T15:51:59.805371+00:00",
+  "collected_at": "2026-11-11T15:51:59.805371+00:00",
+  "summary": "该内容报道了 Google 的 SWE 系统利用 48 个 AI 智能体在 72 小时内分析 NASA 的 Lidar 数据，成功发现了一个未被地图记录的玛雅金字塔。这展示了多智能体协作在遥感考古中的高效应用，凸显了 AI 在复杂科学发现任务中的潜力。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "vision",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-11T15:53:03.138079+00:00"
+}

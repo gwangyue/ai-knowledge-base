@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261111-003",
+  "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/GoogleChrome/modern-web-guidance",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-11T15:51:59.805424+00:00",
+  "collected_at": "2026-11-11T15:51:59.805424+00:00",
+  "summary": "该项目旨在帮助开发者将编码代理（coding agent）从过时的 JavaScript 模式迁移到现代 Web 原语（如 ES 模块、Fetch API、Web Components 等），提升代码的现代化程度与可维护性。其价值在于为 AI 编码工具提供明确的升级路径，减少技术债务并增强与当前浏览器标准的兼容性。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-11T15:53:03.138101+00:00"
+}

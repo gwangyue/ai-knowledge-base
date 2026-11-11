@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261111-012",
+  "title": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.12941",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-11T15:52:00.875052+00:00",
+  "collected_at": "2026-11-11T15:52:00.875052+00:00",
+  "summary": "该论文探讨AI治理应优先关注控制与知识边界而非限制智能本身，提出通过界定AI系统的知识范围和操作权限来实现有效治理。其价值在于为AI安全与政策制定提供新视角，强调治理策略应从智能限制转向边界管理。",
+  "score": 7,
+  "tags": [
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-11T15:53:03.138134+00:00"
+}

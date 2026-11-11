@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261111-018",
+  "title": "Monitoring One Channel Is Not Communication Control: Causal Evidence for Adaptive Reallocation of Joint Message--Route Codes",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.12959",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-11T15:52:00.875087+00:00",
+  "collected_at": "2026-11-11T15:52:00.875087+00:00",
+  "summary": "该论文通过因果证据表明，仅监控单一信道不足以实现通信控制，并提出联合消息-路由编码的自适应重分配方法。其核心价值在于为多信道通信系统的控制策略提供了新的理论依据和自适应机制。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-11T15:53:03.138152+00:00"
+}
