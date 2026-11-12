@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261112-007",
+  "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/token-pooling",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-12T16:34:40.055406+00:00",
+  "collected_at": "2026-11-12T16:34:40.055406+00:00",
+  "summary": "该文章介绍了一种针对多向量嵌入模型的Token Pooling-Aware训练方法，通过在训练过程中引入token池化感知机制，优化了嵌入表示的质量和效率。该方法有助于提升检索增强生成（RAG）等下游任务的性能，为多向量嵌入模型的训练提供了新的技术思路。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "fine-tuning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-12T16:35:35.825223+00:00"
+}
