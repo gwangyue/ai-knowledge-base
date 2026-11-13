@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261113-016",
+  "title": "Effective Teacher Support for Reasoning Distillation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.14850",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-13T15:55:06.201202+00:00",
+  "collected_at": "2026-11-13T15:55:06.201202+00:00",
+  "summary": "该论文研究如何通过有效的教师支持来提升推理蒸馏的效果，即利用大型教师模型的推理能力指导小型学生模型学习。核心价值在于提出改进的教师支持策略，帮助学生模型更高效地获取复杂推理技能，从而在资源受限场景下实现更强的推理性能。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-13T15:56:05.161711+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261113-018",
+  "title": "MuEdit: An efficient multi-task editing method towards inter-domain knowledge conflicts",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.14910",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-13T15:55:06.201211+00:00",
+  "collected_at": "2026-11-13T15:55:06.201211+00:00",
+  "summary": "MuEdit 提出一种高效的多任务编辑方法，用于解决跨领域知识冲突问题，通过统一编辑框架在多个任务间协调知识更新，减少冲突并提升编辑效率。其价值在于为 LLM 知识编辑提供可扩展的多任务解决方案，增强模型在复杂领域场景下的可靠性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-13T15:56:05.161717+00:00"
+}

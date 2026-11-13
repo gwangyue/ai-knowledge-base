@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261113-012",
+  "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.14794",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-13T15:55:06.201185+00:00",
+  "collected_at": "2026-11-13T15:55:06.201185+00:00",
+  "summary": "该论文研究了在开放权重数学推理模型中，逐步证明验证（proof-step verification）的成本效益问题，提出了“认证或拒绝”（certify-or-decline）验证框架的操作要求。核心价值在于明确了在何种条件下逐步验证值得其计算开销，为部署高效可靠的数学推理系统提供了理论指导。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-13T15:56:05.161699+00:00"
+}

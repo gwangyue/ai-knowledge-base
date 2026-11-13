@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261113-011",
+  "title": "Robust Task-Aware State Estimation from Pre-trained Perception",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.14781",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-13T15:55:06.201181+00:00",
+  "collected_at": "2026-11-13T15:55:06.201181+00:00",
+  "summary": "该论文提出了一种从预训练感知模型中提取任务感知状态估计的鲁棒方法，通过任务导向的表示学习提升下游决策性能。其核心价值在于无需端到端重新训练即可复用现有感知模型，增强了状态估计的泛化性和鲁棒性，对机器人、自动驾驶等应用具有实用意义。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-13T15:56:05.161696+00:00"
+}

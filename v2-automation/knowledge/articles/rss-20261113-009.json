@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261113-009",
+  "title": "Rational Use of Time for Social Coordination in Humans and AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.14766",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-13T15:55:06.201171+00:00",
+  "collected_at": "2026-11-13T15:55:06.201171+00:00",
+  "summary": "该论文探讨了人类与AI在社会协调中如何理性利用时间，提出了时间作为协调资源的重要性，并可能分析了AI代理在时间约束下的决策机制。其价值在于为多智能体系统的时间管理和人机协作提供了新的理论视角。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-13T15:56:05.161687+00:00"
+}

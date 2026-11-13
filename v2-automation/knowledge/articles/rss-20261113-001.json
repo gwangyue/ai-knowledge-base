@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261113-001",
+  "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://status.claude.com/incidents/nn11wk485zfn",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-13T15:55:05.515734+00:00",
+  "collected_at": "2026-11-13T15:55:05.515734+00:00",
+  "summary": "该内容报告了 claude.ai、Claude Code 和 platform.claude.com 出现错误率升高的问题，属于服务可用性事件通知。其价值在于提醒依赖 Claude 服务的开发者和用户注意服务中断风险，并关注官方状态更新。",
+  "score": 5,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-13T15:56:05.161643+00:00"
+}

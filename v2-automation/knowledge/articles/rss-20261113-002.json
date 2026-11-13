@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261113-002",
+  "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://unemploymentlabs.com/checkpoint-forensics",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-13T15:55:05.515763+00:00",
+  "collected_at": "2026-11-13T15:55:05.515763+00:00",
+  "summary": "该内容探讨中国前沿AI模型（如DeepSeek、Qwen等）的模型指纹与出口管制GPU（如NVIDIA A100/H100）之间的关联，可能涉及通过模型架构、训练痕迹或性能特征推断其使用的受限硬件。价值在于揭示了硬件供应链限制对AI模型发展的影响，并为模型溯源和合规审查提供技术视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-13T15:56:05.161660+00:00"
+}
