@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261114-002",
+  "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-14T14:46:00.553318+00:00",
+  "collected_at": "2026-11-14T14:46:00.553318+00:00",
+  "summary": "该内容报道了AI技术被用于解锁库尔特·哥德尔未发表的手稿笔记本，据称其中包含数百个已证明的定理。这项工作的核心价值在于利用AI辅助形式化验证和数学发现，可能对逻辑学、数学基础及自动定理证明领域产生重要影响。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-14T14:47:00.289226+00:00"
+}

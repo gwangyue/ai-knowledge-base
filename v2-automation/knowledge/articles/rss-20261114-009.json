@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261114-009",
+  "title": "XYBench: Helping with the problem behind the question",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/xybench",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-14T14:46:01.712780+00:00",
+  "collected_at": "2026-11-14T14:46:01.712780+00:00",
+  "summary": "XYBench 是 Hugging Face 博客介绍的一个基准测试，聚焦于评估 AI 模型在回答表层问题背后真实用户意图方面的能力，即识别并解决“问题背后的问题”。该工作为 LLM 的意图理解与需求澄清能力提供了系统化的评测维度，有助于推动更可靠的对话式 AI 与 agent 系统研发。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-14T14:47:00.289237+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261114-003",
+  "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-14T14:46:00.553323+00:00",
+  "collected_at": "2026-11-14T14:46:00.553323+00:00",
+  "summary": "Jonathan Blow 在视频中质疑当前 AI 编程工具的实际效果，指出尽管 AI 被宣传能解决编程问题，但软件质量并未显著提升。内容引发对 AI 代码生成能力边界和实际价值的反思，适合对 AI 编程工具持批判性思考的开发者。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-14T14:47:00.289229+00:00"
+}
