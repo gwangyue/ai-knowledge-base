@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261116-009",
+  "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.17524",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-16T17:56:55.256596+00:00",
+  "collected_at": "2026-11-16T17:56:55.256596+00:00",
+  "summary": "该论文提出模型退火（Model Annealing）方法，通过“复习与巩固”机制实现数据高效学习，旨在用更少的数据达到更好的模型性能。其核心价值在于为数据受限场景下的模型训练提供了一种新的高效学习范式，对降低训练成本具有实际意义。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-16T17:57:53.091692+00:00"
+}

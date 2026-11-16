@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261116-020",
+  "title": "Learn then Bet: Learning Interpretable Rules for Reliable Agent Intervention",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.17662",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-16T17:56:55.256632+00:00",
+  "collected_at": "2026-11-16T17:56:55.256632+00:00",
+  "summary": "该论文提出“先学习后下注”（Learn then Bet）框架，从数据中学习可解释的规则，用于在智能体运行过程中进行可靠干预，从而提升决策安全性与可控性。其核心价值在于将规则学习与干预决策相结合，兼顾可解释性与可靠性，为智能体部署中的风险控制提供新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-16T17:57:53.091719+00:00"
+}

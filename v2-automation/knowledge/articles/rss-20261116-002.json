@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261116-002",
+  "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.17338",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-16T17:56:55.256528+00:00",
+  "collected_at": "2026-11-16T17:56:55.256528+00:00",
+  "summary": "该论文研究LLM智能体在查询关键解析器错误下的记忆过滤问题，探讨何时应遗忘过时或错误信息以优化决策。提出基于查询关键性的记忆过滤框架，提升智能体在动态环境中的鲁棒性和准确性，对记忆管理机制设计有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-16T17:57:53.091673+00:00"
+}

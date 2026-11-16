@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261116-019",
+  "title": "What LLM Agents See and What Users Say",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.17639",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-16T17:56:55.256629+00:00",
+  "collected_at": "2026-11-16T17:56:55.256629+00:00",
+  "summary": "该论文探讨了LLM智能体在感知环境（what agents see）与用户自然语言指令（what users say）之间的对齐问题，分析了智能体理解用户意图时可能出现的偏差。其价值在于为设计更可靠、更符合用户期望的LLM智能体提供了实证分析和改进方向。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-16T17:57:53.091717+00:00"
+}

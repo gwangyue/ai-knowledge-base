@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261116-006",
+  "title": "An Operationalization of Opaque Serial Depth",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.17495",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-16T17:56:55.256586+00:00",
+  "collected_at": "2026-11-16T17:56:55.256586+00:00",
+  "summary": "该论文针对大型语言模型（LLM）中不透明串行深度的概念进行了操作化定义，提出了一种可量化的度量方法，用于评估模型推理过程中内部计算步骤的深度与可解释性。其核心价值在于为理解LLM的推理机制提供了新的分析工具，有助于推动模型透明度和可靠性研究。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-16T17:57:53.091684+00:00"
+}
