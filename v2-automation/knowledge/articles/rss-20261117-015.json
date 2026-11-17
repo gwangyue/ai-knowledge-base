@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261117-015",
+  "title": "Large Language Models for AI Infrastructure",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.19061",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T17:23:11.829573+00:00",
+  "collected_at": "2026-11-17T17:23:11.829573+00:00",
+  "summary": "该论文探讨了大型语言模型（LLM）在AI基础设施中的应用，可能涉及利用LLM进行基础设施管理、优化或自动化。其核心价值在于将LLM的能力扩展到系统运维领域，为AI驱动的IT运营提供新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-17T17:24:05.297271+00:00"
+}

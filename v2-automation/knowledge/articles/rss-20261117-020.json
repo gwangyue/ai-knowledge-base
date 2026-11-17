@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261117-020",
+  "title": "Guiding AI Agents to Generate Conjectures by Encoding How Theorems Build on One Another",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.19108",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T17:23:11.829589+00:00",
+  "collected_at": "2026-11-17T17:23:11.829589+00:00",
+  "summary": "该论文提出一种通过编码定理之间构建关系来引导AI智能体生成数学猜想的方法。核心价值在于利用定理依赖结构提升LLM生成猜想的逻辑性和新颖性，推动自动化数学发现。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-17T17:24:05.297283+00:00"
+}

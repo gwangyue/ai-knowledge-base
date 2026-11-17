@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261117-001",
+  "title": "Agents Cannot Hand Over What They Have Not Yet Understood",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.18642",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T17:23:11.829481+00:00",
+  "collected_at": "2026-11-17T17:23:11.829481+00:00",
+  "summary": "该论文探讨了多智能体系统中任务交接的核心挑战：智能体无法有效传递其尚未真正理解的任务信息。研究指出，交接失败往往源于对任务语义和上下文的认知不足，并提出需要先建立共享理解再执行交接的机制。这一发现对设计可靠的多智能体协作系统具有重要指导价值。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-17T17:24:05.297215+00:00"
+}

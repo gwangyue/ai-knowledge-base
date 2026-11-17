@@ -1,0 +1,17 @@
+{
+  "id": "rss-20261117-014",
+  "title": "Match and Correct: A Repeated Computational Motif in Evoformer Layers",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.19016",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T17:23:11.829570+00:00",
+  "collected_at": "2026-11-17T17:23:11.829570+00:00",
+  "summary": "该论文分析了AlphaFold2中Evoformer层的计算模式，识别出一个重复出现的'匹配与校正'（Match and Correct）计算基元，该基元在多个层中反复出现，可能对理解蛋白质结构预测模型的内部机制和设计更高效的架构具有价值。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-17T17:24:05.297268+00:00"
+}

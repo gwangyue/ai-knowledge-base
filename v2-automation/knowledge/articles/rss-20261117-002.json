@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261117-002",
+  "title": "How to make a moral agent: sentimentalism and rationalism as lenses on AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.18714",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T17:23:11.829521+00:00",
+  "collected_at": "2026-11-17T17:23:11.829521+00:00",
+  "summary": "该论文从情感主义与理性主义两种道德哲学视角探讨如何构建道德智能体，分析AI系统在道德决策中情感与理性的作用机制。其价值在于为AI伦理设计提供跨学科理论框架，指导道德智能体的开发与评估。",
+  "score": 6,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-17T17:24:05.297234+00:00"
+}

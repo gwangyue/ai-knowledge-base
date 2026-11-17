@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261117-016",
+  "title": "Policy Optimization With Multiple Verifiers via Pareto Rankings",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.19064",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T17:23:11.829576+00:00",
+  "collected_at": "2026-11-17T17:23:11.829576+00:00",
+  "summary": "该论文提出了一种基于 Pareto 排序的多验证器策略优化方法，用于在强化学习或 LLM 对齐中整合多个验证器的反馈信号。其核心价值在于通过 Pareto 支配关系处理多目标优化中的验证器冲突，避免简单加权平均带来的偏差，从而提升策略优化的鲁棒性和对齐质量。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-17T17:24:05.297273+00:00"
+}

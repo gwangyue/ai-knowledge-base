@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261117-006",
+  "title": "SPLICE: Structured Prompt Local Iterative Combinatorial Evolution",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.18883",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T17:23:11.829545+00:00",
+  "collected_at": "2026-11-17T17:23:11.829545+00:00",
+  "summary": "该论文提出 SPLICE 方法，通过结构化提示与局部迭代组合进化来优化提示词，提升大语言模型在复杂任务上的表现。其核心价值在于将进化算法与结构化提示设计结合，为提示工程提供了一种可自动迭代改进的框架。",
+  "score": 7,
+  "tags": [
+    "prompt-engineering",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-17T17:24:05.297248+00:00"
+}

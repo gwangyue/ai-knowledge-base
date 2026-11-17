@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261117-011",
+  "title": "Dual-Stage Channel-Posterior Integration for MLM-Aided Token Communications",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.18958",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T17:23:11.829561+00:00",
+  "collected_at": "2026-11-17T17:23:11.829561+00:00",
+  "summary": "该论文提出一种双阶段信道-后验集成方法，用于在基于掩码语言模型（MLM）的令牌通信中提升解码可靠性。通过将信道信息与后验概率分阶段融合，该方法有效降低了噪声影响，为语义通信与AI模型的结合提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-17T17:24:05.297261+00:00"
+}
