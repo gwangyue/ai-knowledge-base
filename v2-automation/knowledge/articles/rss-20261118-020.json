@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261118-020",
+  "title": "MedGuardBench: A Patient-Oriented Benchmark for Personalized Guardrail Development",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.22069",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-18T16:56:47.478782+00:00",
+  "collected_at": "2026-11-18T16:56:47.478782+00:00",
+  "summary": "MedGuardBench 是一个面向患者的个性化护栏开发基准，旨在评估和提升医疗领域 AI 系统的安全性与个性化防护能力。该基准通过模拟患者交互场景，为开发更可靠的医疗 AI 护栏提供了标准化评估工具，具有重要的应用价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "security",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-18T16:57:40.108278+00:00"
+}

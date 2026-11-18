@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261118-014",
+  "title": "KV-LTM: Persistent Per-Session KV Caches as Long-Term Memory for Personal Assistants",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.21998",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-18T16:56:47.478753+00:00",
+  "collected_at": "2026-11-18T16:56:47.478753+00:00",
+  "summary": "该论文提出KV-LTM方法，将每个会话的KV缓存持久化存储，作为个人助理的长期记忆，从而避免重复计算并保持对话一致性。其核心价值在于以较低成本实现跨会话的记忆延续，提升个人助理的长期交互体验。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-18T16:57:40.108258+00:00"
+}

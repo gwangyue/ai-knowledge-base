@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261118-008",
+  "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.21925",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-18T16:56:47.478722+00:00",
+  "collected_at": "2026-11-18T16:56:47.478722+00:00",
+  "summary": "该论文提出DNeo方法，针对并行草稿模型（如推测解码中的草稿模型）的目标特征编码进行改进，以提升生成效率。核心价值在于优化并行草稿模型的编码机制，可能加速LLM推理并保持生成质量。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-18T16:57:40.108235+00:00"
+}

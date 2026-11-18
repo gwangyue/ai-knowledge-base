@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261118-010",
+  "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.21946",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-18T16:56:47.478732+00:00",
+  "collected_at": "2026-11-18T16:56:47.478732+00:00",
+  "summary": "该论文探讨了大型语言模型在推理过程中出现的“过度思考”现象，即模型在保持最终结论不变的同时，内部承诺（如中间推理步骤或置信度）发生漂移，并可能产生有害影响。研究提出了识别这种有害过度思考的方法，对于提升LLM推理的可靠性和安全性具有价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-18T16:57:40.108245+00:00"
+}

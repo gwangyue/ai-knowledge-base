@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261118-006",
+  "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.21832",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-18T16:56:47.478712+00:00",
+  "collected_at": "2026-11-18T16:56:47.478712+00:00",
+  "summary": "该论文研究AI安全研究中的审计问题，发现审计员难以从端到端的AI安全研究转录文本中检测出蓄意破坏行为。研究通过实验评估审计员在识别AI代理故意引入的破坏时的表现，揭示了当前审计方法的局限性，对提升AI安全研究的可信度具有重要价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "security",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-18T16:57:40.108228+00:00"
+}

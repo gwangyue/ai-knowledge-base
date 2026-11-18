@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261118-013",
+  "title": "WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.21978",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-18T16:56:47.478748+00:00",
+  "collected_at": "2026-11-18T16:56:47.478748+00:00",
+  "summary": "该论文提出WebAgents架构，将AI代理的创建、托管与执行解耦，以支持代理原生Web。其核心价值在于通过模块化设计提升代理系统的灵活性与可扩展性，为Web环境下的代理部署提供新范式。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-18T16:57:40.108255+00:00"
+}
