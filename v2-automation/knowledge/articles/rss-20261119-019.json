@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261119-019",
+  "title": "FACET - Facet Aware Contrastive Embeddings for Traits- Big Five Estimation from Life Narratives",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.23560",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-19T17:03:21.833750+00:00",
+  "collected_at": "2026-11-19T17:03:21.833750+00:00",
+  "summary": "该论文提出FACET方法，通过facet-aware对比学习从生活叙事中估计大五人格特质，旨在提升基于文本的人格预测的细粒度表征能力。其核心价值在于引入facet感知的对比嵌入，可能改善人格估计的准确性和可解释性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-19T17:04:16.153241+00:00"
+}

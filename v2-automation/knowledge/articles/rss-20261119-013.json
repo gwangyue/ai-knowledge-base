@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261119-013",
+  "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.23476",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-19T17:03:21.833726+00:00",
+  "collected_at": "2026-11-19T17:03:21.833726+00:00",
+  "summary": "该论文提出 GUARD 方法，利用 regret guidance 来稳定递归自我改进（recursive self-improvement）过程，缓解模型在迭代优化中可能出现的性能退化或崩溃问题。其核心价值在于为自我改进型 AI 系统提供一种基于遗憾信号的引导机制，提升训练与迭代过程的稳定性，对 agent 与 reasoning 相关研究具有参考意义。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-19T17:04:16.153224+00:00"
+}

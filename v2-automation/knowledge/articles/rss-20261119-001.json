@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261119-001",
+  "title": "AI agents ask better questions than KPMG accountants in audit trial",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-19T17:03:21.460908+00:00",
+  "collected_at": "2026-11-19T17:03:21.460908+00:00",
+  "summary": "该内容报道了一项审计试验，其中 AI agents 在提问质量上优于 KPMG 会计师，展示了 LLM 驱动的 agent 在专业审计场景中的推理与提问能力。核心价值在于验证了 agent 在知识密集型专业任务中的实际应用潜力，为 AI 辅助审计提供了实证参考。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-19T17:04:16.153171+00:00"
+}

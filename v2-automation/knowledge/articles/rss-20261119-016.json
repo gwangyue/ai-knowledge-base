@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261119-016",
+  "title": "BOS Summary: The First Token Matters",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.23508",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-19T17:03:21.833737+00:00",
+  "collected_at": "2026-11-19T17:03:21.833737+00:00",
+  "summary": "该论文探讨了大型语言模型在生成序列时首个token的重要性，可能提出了首个token对后续生成质量或模型行为的关键影响，并给出了相应的分析或方法。其价值在于揭示了LLM生成过程中的一个基础但常被忽视的环节，为提示工程和模型优化提供了新视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-19T17:04:16.153232+00:00"
+}

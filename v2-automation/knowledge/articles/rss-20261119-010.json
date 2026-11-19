@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261119-010",
+  "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.23445",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-19T17:03:21.833715+00:00",
+  "collected_at": "2026-11-19T17:03:21.833715+00:00",
+  "summary": "该论文分析了超低比特（低于4比特）视觉卷积神经网络性能崩溃的原因，并探索了混合精度量化在何种程度上能够恢复模型精度。其价值在于为极低比特视觉模型部署提供了量化误差来源的深入理解与混合精度策略的边界指导。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-19T17:04:16.153212+00:00"
+}

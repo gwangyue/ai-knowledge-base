@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261119-008",
+  "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.23398",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-19T17:03:21.833706+00:00",
+  "collected_at": "2026-11-19T17:03:21.833706+00:00",
+  "summary": "HardwareDx 提出了一种基于图模型的基础系统，用于数据中心机器维修的故障诊断与修复决策。该系统将硬件组件、故障模式和维修流程建模为图结构，以支持高效的根因分析和维修方案推荐，从而提升数据中心运维的自动化与可靠性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-19T17:04:16.153206+00:00"
+}

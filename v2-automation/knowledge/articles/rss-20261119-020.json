@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261119-020",
+  "title": "LProp: Propagating Latent Uncertainty through Evidence-Conditioned Belief Revision in LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.23564",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-19T17:03:21.833754+00:00",
+  "collected_at": "2026-11-19T17:03:21.833754+00:00",
+  "summary": "该论文提出 LProp 方法，通过证据条件化的信念修正机制在 LLM 智能体中传播潜在不确定性，使智能体能够更准确地追踪和更新信念状态。其核心价值在于提升 LLM 智能体在不确定环境下的推理可靠性与决策质量，为不确定性感知的智能体设计提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-19T17:04:16.153252+00:00"
+}

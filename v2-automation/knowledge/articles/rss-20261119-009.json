@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261119-009",
+  "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.23410",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-19T17:03:21.833711+00:00",
+  "collected_at": "2026-11-19T17:03:21.833711+00:00",
+  "summary": "RFBench 是一个基于模拟器的多模态基准，用于评估被动射频布局设计与理解任务。它填补了射频布局领域缺乏标准化评估的空白，为多模态模型在工程布局任务中的能力提供了可复现的测试平台。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-19T17:04:16.153209+00:00"
+}

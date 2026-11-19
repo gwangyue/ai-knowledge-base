@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261119-004",
+  "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-19T17:03:21.460951+00:00",
+  "collected_at": "2026-11-19T17:03:21.460951+00:00",
+  "summary": "哈佛大学研究发现，AI编码代理（如基于LLM的代码生成工具）在软件开发中显著提升了代码产出速度，但同时也将开发瓶颈从编写代码转移到了代码审查环节。该研究揭示了AI辅助编程对团队工作流程的实际影响，强调了在部署AI编码代理时需同步优化代码审查流程与工具，以充分发挥其价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-19T17:04:16.153191+00:00"
+}

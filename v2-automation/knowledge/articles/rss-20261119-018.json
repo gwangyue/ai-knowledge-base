@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261119-018",
+  "title": "BeFit: Shifting Complexity from Weights to Bernstein Activations for Resource-Constrained Sensing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.23520",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-19T17:03:21.833746+00:00",
+  "collected_at": "2026-11-19T17:03:21.833746+00:00",
+  "summary": "BeFit 提出一种将模型复杂度从权重转移到 Bernstein 激活函数的方法，旨在降低资源受限传感设备上的计算与存储开销。该工作通过 Bernstein 多项式参数化激活函数，在保持模型表达能力的同时减少权重参数量，为边缘部署提供了新思路。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-19T17:04:16.153238+00:00"
+}
