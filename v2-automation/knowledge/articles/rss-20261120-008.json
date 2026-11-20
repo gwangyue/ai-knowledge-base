@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261120-008",
+  "title": "CoMPASS: A Multi-Turn Benchmark for Measuring LLM Reinforcement of Parasocial Behavior",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.25109",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-20T16:42:25.527086+00:00",
+  "collected_at": "2026-11-20T16:42:25.527086+00:00",
+  "summary": "该论文提出了CoMPASS，一个多轮对话基准，用于评估大语言模型在交互中强化准社会行为（如过度拟人化、情感依赖）的程度。其价值在于填补了LLM社会行为安全评估的空白，为模型对齐和部署风险监测提供了可量化的测试工具。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-20T16:43:57.681721+00:00"
+}

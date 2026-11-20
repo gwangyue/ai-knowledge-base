@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261120-004",
+  "title": "Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.25043",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-20T16:42:25.527033+00:00",
+  "collected_at": "2026-11-20T16:42:25.527033+00:00",
+  "summary": "该论文针对自驱动实验室（Self-Driving Laboratories）中从分析到设计环节的衔接问题，提出了一种受授权约束的智能体（Authorization-Bounded Agent），通过限制智能体的操作权限来确保实验流程的安全性与可靠性。其核心价值在于为自动化科学实验提供了一种兼顾效率与安全性的智能体设计范式，有望推动自驱动实验室在复杂实验场景中的落地应用。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-20T16:43:57.681711+00:00"
+}

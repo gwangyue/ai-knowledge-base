@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261120-005",
+  "title": "An LLM-Agentic Framework for Intelligent Work Order Management in Industrial Maintenance",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.25070",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-20T16:42:25.527073+00:00",
+  "collected_at": "2026-11-20T16:42:25.527073+00:00",
+  "summary": "该论文提出了一种基于LLM的智能代理框架，用于工业维护中的工单管理，通过自动化处理工单分配、优先级排序和故障诊断来提升维护效率。其核心价值在于将LLM代理技术应用于实际工业场景，减少人工干预并优化维护流程。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-20T16:43:57.681713+00:00"
+}

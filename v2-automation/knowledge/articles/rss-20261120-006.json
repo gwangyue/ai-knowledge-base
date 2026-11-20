@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261120-006",
+  "title": "SailSearch: Agent-Assisted Discovery in Combinatorial Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.25087",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-20T16:42:25.527079+00:00",
+  "collected_at": "2026-11-20T16:42:25.527079+00:00",
+  "summary": "SailSearch 提出了一种基于智能体的组合优化问题发现方法，利用 LLM 驱动的智能体在搜索空间中自主探索和发现高质量解。该工作将智能体技术引入组合优化领域，为传统优化方法提供了新的自动化探索范式，具有较高的研究价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-20T16:43:57.681716+00:00"
+}

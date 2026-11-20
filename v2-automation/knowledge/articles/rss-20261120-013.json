@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261120-013",
+  "title": "An AI-Powered Multiverse Analysis of Empirical Finance Research: Evidence from Reused Natural Experiments",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.25184",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-20T16:42:25.527101+00:00",
+  "collected_at": "2026-11-20T16:42:25.527101+00:00",
+  "summary": "该论文提出了一种AI驱动的多重宇宙分析方法，用于系统评估实证金融研究中重复使用自然实验的稳健性。通过自动化生成多种合理的分析路径并汇总结果，该方法能揭示研究结论对分析选择的敏感性，提升金融实证研究的可重复性与透明度。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-20T16:43:57.681735+00:00"
+}
