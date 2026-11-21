@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261121-005",
+  "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/inkling2mini",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-21T15:54:28.435001+00:00",
+  "collected_at": "2026-11-21T15:54:28.435001+00:00",
+  "summary": "该内容介绍 Hugging Face 发布的 Inkling 2 Mini 模型，主打面向本地部署的前沿性能表现。其核心价值在于让开发者在本地环境中获得高效、可用的模型能力，降低对云端推理的依赖。适合关注本地化部署与轻量级模型应用的开发者参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-21T15:55:19.935254+00:00"
+}

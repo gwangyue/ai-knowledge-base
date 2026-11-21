@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261121-006",
+  "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-21T15:54:28.435045+00:00",
+  "collected_at": "2026-11-21T15:54:28.435045+00:00",
+  "summary": "该文章介绍了 Harness Adapters 技术，旨在将任意模型适配到特定 harness 中以提升性能和成本效益。核心价值在于通过适配层优化模型与执行框架的交互，从而在保持性能的同时降低推理成本。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-21T15:55:19.935257+00:00"
+}

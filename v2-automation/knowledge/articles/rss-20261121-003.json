@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261121-003",
+  "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://signal.org/blog/protecting-your-privacy/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-21T15:54:27.968945+00:00",
+  "collected_at": "2026-11-21T15:54:27.968945+00:00",
+  "summary": "该内容探讨在移动操作系统平台上限制AI代理捕获数据的技术方案，涉及权限控制、沙箱隔离和隐私保护机制。其价值在于为移动端AI代理的安全部署提供可参考的防护思路，平衡功能与用户数据安全。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-21T15:55:19.935251+00:00"
+}
