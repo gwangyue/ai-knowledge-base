@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261123-011",
+  "title": "Budget-Aware Predict-and-Verify Theorem Proving with Heterogeneous LLM Solvers",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.26906",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-23T19:51:13.534210+00:00",
+  "collected_at": "2026-11-23T19:51:13.534210+00:00",
+  "summary": "该论文提出了一种预算感知的“预测-验证”定理证明框架，通过整合异构 LLM 求解器，在有限计算预算下动态分配推理资源并验证候选证明。其核心价值在于提升自动定理证明的效率与可靠性，为 LLM 在形式化推理中的实际部署提供了资源优化思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "multi-agent",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-23T19:52:06.349979+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261123-002",
+  "title": "Show HN: I built a game where you are an LLM's subagent",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/gulivan/worker755",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-23T19:51:13.137360+00:00",
+  "collected_at": "2026-11-23T19:51:13.137360+00:00",
+  "summary": "这是一个 Hacker News 的 Show HN 项目，作者构建了一款游戏，让玩家扮演 LLM 的子代理（subagent），从第一人称视角体验被大模型调度、执行子任务的过程。其价值在于以互动游戏形式直观呈现 agent 架构中主模型与子代理的协作机制，帮助理解任务分解与工具调用的实际运作。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-23T19:52:06.349929+00:00"
+}

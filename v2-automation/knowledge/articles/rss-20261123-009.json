@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261123-009",
+  "title": "Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.26870",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-23T19:51:13.534200+00:00",
+  "collected_at": "2026-11-23T19:51:13.534200+00:00",
+  "summary": "该论文提出超越传统人口统计学歧视的视角，聚焦于LLM在规范性（社会规范）与描述性（实际行为）之间的校准问题，并构建了相应的基准测试。其价值在于系统评估LLM是否能在遵循社会规范的同时准确反映现实行为分布，为LLM的公平性与社会对齐研究提供了新的评测维度。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-23T19:52:06.349969+00:00"
+}

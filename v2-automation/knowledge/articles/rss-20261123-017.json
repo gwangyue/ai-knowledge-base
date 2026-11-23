@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261123-017",
+  "title": "Right Numbers, Wrong Story: When LLMs Narrate Financial Changes Beyond Their Inputs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.26968",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-23T19:51:13.534239+00:00",
+  "collected_at": "2026-11-23T19:51:13.534239+00:00",
+  "summary": "该论文研究LLM在金融变化叙述中是否会产生超出输入数据的幻觉，即生成与输入数字不符的叙述。通过构建评估框架，揭示了LLM在金融叙述任务中的忠实性缺陷，为LLM在金融领域的可靠部署提供了重要警示和评估方法。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-23T19:52:06.349998+00:00"
+}

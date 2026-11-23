@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261123-013",
+  "title": "Self-Evolving Beyond Human-Crafted Experience for EDA Scripting",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.26912",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-23T19:51:13.534219+00:00",
+  "collected_at": "2026-11-23T19:51:13.534219+00:00",
+  "summary": "该论文提出一种自进化方法，使LLM智能体能够超越人工设计的经验，自动生成和优化EDA脚本。核心价值在于减少对专家手工规则的依赖，提升EDA脚本生成的自动化程度和效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-23T19:52:06.349986+00:00"
+}

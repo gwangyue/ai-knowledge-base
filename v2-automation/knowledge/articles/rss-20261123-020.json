@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261123-020",
+  "title": "From Letter-of-Credit Requirements to Executable Specifications: Evaluating Verification Accuracy and Completeness",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.26988",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-23T19:51:13.534256+00:00",
+  "collected_at": "2026-11-23T19:51:13.534256+00:00",
+  "summary": "该论文研究如何将信用证的文本要求自动转化为可执行规范，并评估生成规范的验证准确性与完整性。其价值在于连接法律文本与形式化验证，提升金融合规自动化的可靠性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "code-generation",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-23T19:52:06.350010+00:00"
+}

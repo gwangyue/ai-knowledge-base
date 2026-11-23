@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261123-019",
+  "title": "MixFold: Sub-4-Bit Mixed-Precision LLM Inference via Output-Channel Grouping on Mobile NPUs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.26976",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-23T19:51:13.534248+00:00",
+  "collected_at": "2026-11-23T19:51:13.534248+00:00",
+  "summary": "该论文提出MixFold方法，通过输出通道分组实现移动NPU上的亚4比特混合精度LLM推理，在保持模型精度的同时显著降低内存占用和计算开销。其核心价值在于为资源受限的移动设备部署大语言模型提供了高效的量化推理方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-23T19:52:06.350005+00:00"
+}

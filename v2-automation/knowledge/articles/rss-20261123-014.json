@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261123-014",
+  "title": "Self-similar Organization of Information in Language",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.26935",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-23T19:51:13.534223+00:00",
+  "collected_at": "2026-11-23T19:51:13.534223+00:00",
+  "summary": "该论文探讨语言中信息的自相似组织现象，可能揭示语言结构的分形或层级特性。其价值在于为理解语言信息分布提供新视角，并可能启发更高效的语言模型设计。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-23T19:52:06.349989+00:00"
+}

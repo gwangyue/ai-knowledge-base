@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261123-001",
+  "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-23T19:51:13.137333+00:00",
+  "collected_at": "2026-11-23T19:51:13.137333+00:00",
+  "summary": "本文是一篇面向初学者的本地 AI 入门指南，介绍了 Inkling、Qwen 和 Unsloth 三个工具，帮助读者在本地环境中运行和微调大语言模型。核心价值在于降低本地 AI 部署与微调的门槛，提供实用的操作指引。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "beginner",
+  "status": "review",
+  "updated_at": "2026-11-23T19:52:06.349912+00:00"
+}

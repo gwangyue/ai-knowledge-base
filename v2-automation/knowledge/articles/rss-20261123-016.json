@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261123-016",
+  "title": "Keep the Process, Change the Supplier: Runtime Governance for Tool-Using AI Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.26966",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-23T19:51:13.534232+00:00",
+  "collected_at": "2026-11-23T19:51:13.534232+00:00",
+  "summary": "该论文提出了一种针对工具使用型AI智能体的运行时治理框架，核心思想是“保持流程不变，更换供应商”，即在不改变智能体工作流的前提下，动态替换底层工具供应商，并通过运行时监控与策略执行来确保安全性和合规性。其价值在于为智能体部署提供了一种灵活、可审计的治理机制，降低了供应商锁定风险并增强了系统鲁棒性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-23T19:52:06.349995+00:00"
+}
