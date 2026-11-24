@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261124-015",
+  "title": "INSEP: Refusal-Direction Inseparability as a Defense Against Abliteration",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.28314",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-24T19:20:12.305623+00:00",
+  "collected_at": "2026-11-24T19:20:12.305623+00:00",
+  "summary": "该论文提出 INSEP 方法，通过将拒绝方向与模型其他功能方向不可分离化，防止攻击者利用 abliteration 技术移除 LLM 的安全对齐。其核心价值在于为开源模型的安全防护提供了一种新的防御思路，增强了模型抵抗恶意微调的能力。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "fine-tuning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-24T19:21:02.057504+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261124-009",
+  "title": "Demystifying the Autoresearch Harness: How Context and Skills Shape Self-Evolving Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.28244",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-24T19:20:12.305603+00:00",
+  "collected_at": "2026-11-24T19:20:12.305603+00:00",
+  "summary": "该论文深入剖析了自进化AI智能体的自动研究框架（Autoresearch Harness），重点探讨了上下文（Context）和技能（Skills）如何共同塑造智能体的自我进化能力。通过系统分析，揭示了上下文管理与技能组合对智能体性能的关键影响，为设计更高效的自进化智能体提供了理论指导和实践启示。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-24T19:21:02.057488+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261124-006",
+  "title": "From Point Clouds to Engineering Models: Benchmarking Agentic 3D Reconstruction in the Built Environment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.28197",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-24T19:20:12.305593+00:00",
+  "collected_at": "2026-11-24T19:20:12.305593+00:00",
+  "summary": "该论文提出了一个用于评估智能体在建筑环境中进行3D重建的基准测试框架，将点云数据转化为工程模型。其核心价值在于系统性地衡量AI智能体在复杂3D重建任务中的表现，推动建筑信息模型（BIM）与AI技术的结合。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "vision",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-24T19:21:02.057480+00:00"
+}

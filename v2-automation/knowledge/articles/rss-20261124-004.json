@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261124-004",
+  "title": "SAMA: Training-Free Consensus Ridge Tracking for Camera-Based Heart Rate on Five Public Datasets",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.28185",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-24T19:20:12.305541+00:00",
+  "collected_at": "2026-11-24T19:20:12.305541+00:00",
+  "summary": "该论文提出SAMA方法，用于基于摄像头的无接触心率估计，无需训练即可通过共识岭跟踪实现鲁棒的心率追踪，并在五个公开数据集上验证了其有效性。其价值在于提供了一种无需训练、泛化性强的解决方案，降低了部署成本并提升了跨数据集性能。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-24T19:21:02.057475+00:00"
+}

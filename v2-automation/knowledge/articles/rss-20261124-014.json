@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261124-014",
+  "title": "GERF: A Token-Efficient Multimodal Retrieval Framework for Schema-Guided Scientific Information Extraction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.28295",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-24T19:20:12.305618+00:00",
+  "collected_at": "2026-11-24T19:20:12.305618+00:00",
+  "summary": "该论文提出 GERF，一个面向模式引导的科学信息抽取（Schema-Guided Scientific IE）的 token 高效多模态检索框架，通过检索增强的方式减少输入 token 消耗并提升抽取效果。其核心价值在于将多模态检索与结构化信息抽取结合，为科学文献处理提供更经济高效的解决方案。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "vision",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-24T19:21:02.057502+00:00"
+}

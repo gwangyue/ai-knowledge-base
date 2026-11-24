@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261124-011",
+  "title": "Temporal Logic Tensor Networks: Foundations of Temporal Reasoning in Neural Networks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.28277",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-24T19:20:12.305609+00:00",
+  "collected_at": "2026-11-24T19:20:12.305609+00:00",
+  "summary": "该论文提出时序逻辑张量网络（Temporal Logic Tensor Networks），将时序逻辑约束集成到神经网络中，为神经网络提供时序推理能力。其核心价值在于为时序逻辑与神经符号推理的融合奠定理论基础，推动可解释和可验证的AI系统发展。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-24T19:21:02.057495+00:00"
+}

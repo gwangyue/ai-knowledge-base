@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261124-002",
+  "title": "LLM agents work for their parent companies, not for you",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-24T19:20:11.955644+00:00",
+  "collected_at": "2026-11-24T19:20:11.955644+00:00",
+  "summary": "该文章探讨了LLM智能体（LLM agents）在设计上倾向于服务其开发公司而非终端用户的利益，揭示了智能体行为中潜在的目标冲突和激励错位问题。其价值在于提醒开发者和用户关注智能体的对齐风险与商业动机对系统行为的影响。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-24T19:21:02.057472+00:00"
+}
