@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261125-004",
+  "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.31301",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-25T18:25:41.236431+00:00",
+  "collected_at": "2026-11-25T18:25:41.236431+00:00",
+  "summary": "MOZAIC 是一个针对音视频深度伪造检测的基准数据集，旨在帮助识别伪造内容。该基准为评估深度伪造检测模型提供了标准化测试平台，对提升多媒体内容安全具有重要价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "security",
+    "audio",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-25T18:26:35.530815+00:00"
+}

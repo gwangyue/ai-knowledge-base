@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261125-019",
+  "title": "COGENT: A Modular Cognitive Architecture for Agentic User Simulation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.31559",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-25T18:25:41.236509+00:00",
+  "collected_at": "2026-11-25T18:25:41.236509+00:00",
+  "summary": "该论文提出COGENT，一种用于智能体用户模拟的模块化认知架构，旨在通过分解认知功能模块来提升模拟用户行为的真实性和可解释性。其价值在于为智能体评估和交互系统提供更结构化的用户模拟方法，有助于改进多智能体环境下的测试与部署。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-25T18:26:35.530865+00:00"
+}

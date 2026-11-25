@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261125-016",
+  "title": "One Step, Four Clocks: How GUI Agents Fall Out of Step",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.31522",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-25T18:25:41.236494+00:00",
+  "collected_at": "2026-11-25T18:25:41.236494+00:00",
+  "summary": "该论文探讨了GUI智能体在真实环境中因多个时钟（如渲染、网络、推理等）不同步而导致的时序错位问题，提出了“一步四时钟”的分析框架。其价值在于系统性地揭示了GUI智能体部署中的时序挑战，并为设计更鲁棒的智能体系统提供了理论指导。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "deployment",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-25T18:26:35.530857+00:00"
+}

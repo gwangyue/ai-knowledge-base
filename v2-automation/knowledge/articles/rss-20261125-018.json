@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261125-018",
+  "title": "Agent Recovery Gone Wrong: Measuring Harm Beyond Duplicate Calls",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.31554",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-25T18:25:41.236505+00:00",
+  "collected_at": "2026-11-25T18:25:41.236505+00:00",
+  "summary": "该论文研究了AI agent在故障恢复过程中产生的超出重复调用的有害行为，提出了一个测量框架来量化这些危害。其价值在于揭示了agent恢复机制中的安全隐患，为设计更安全的agent系统提供了评估依据。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-25T18:26:35.530862+00:00"
+}

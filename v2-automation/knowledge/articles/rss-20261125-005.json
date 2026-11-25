@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261125-005",
+  "title": "Conservative Overlap Fuzzy Rough Sets for Incomplete Data",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.31329",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-25T18:25:41.236443+00:00",
+  "collected_at": "2026-11-25T18:25:41.236443+00:00",
+  "summary": "该论文提出了一种面向不完整数据的保守重叠模糊粗糙集模型，通过引入保守重叠关系来处理缺失属性值下的不确定性，并构建相应的模糊粗糙集近似算子。其价值在于为不完整信息系统提供更稳健的特征选择和知识约简方法，可应用于数据挖掘与模式识别中的缺失数据场景。",
+  "score": 6,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-25T18:26:35.530820+00:00"
+}

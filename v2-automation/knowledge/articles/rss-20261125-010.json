@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261125-010",
+  "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.31427",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-25T18:25:41.236469+00:00",
+  "collected_at": "2026-11-25T18:25:41.236469+00:00",
+  "summary": "该论文提出将智能体训练中的能力分解为任务能力（What）与接口能力（How），系统分析二者在训练过程中的差异与交互。其价值在于为智能体训练提供更精细的能力诊断框架，有助于针对性设计训练策略与评估方法。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "evaluation",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-25T18:26:35.530835+00:00"
+}
