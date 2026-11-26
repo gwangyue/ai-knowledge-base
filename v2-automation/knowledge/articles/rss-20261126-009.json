@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261126-009",
+  "title": "Brand Recall and Category Accuracy in Language Models: An Audit of 1,000 B2B SaaS Brands",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.33322",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-26T18:07:30.832363+00:00",
+  "collected_at": "2026-11-26T18:07:30.832363+00:00",
+  "summary": "该论文对1000个B2B SaaS品牌在语言模型中的品牌召回率和类别准确性进行了审计，评估了模型对品牌知识的记忆与分类能力。研究揭示了LLM在商业品牌认知上的表现与局限，为模型评估和商业应用提供了实证参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-26T18:08:17.185599+00:00"
+}

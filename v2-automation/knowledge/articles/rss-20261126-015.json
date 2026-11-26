@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261126-015",
+  "title": "Learning to Reason in Real-Time",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.33513",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-26T18:07:30.832381+00:00",
+  "collected_at": "2026-11-26T18:07:30.832381+00:00",
+  "summary": "该论文探讨了在实时场景下让模型进行推理学习的方法，可能涉及动态环境中的推理策略优化与效率提升。其核心价值在于为需要低延迟响应的AI应用（如交互式代理）提供推理能力支持。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-26T18:08:17.185617+00:00"
+}

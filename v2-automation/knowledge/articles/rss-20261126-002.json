@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261126-002",
+  "title": "Context Scaling: A New Frontier of AI Scaling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.33160",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-26T18:07:30.832294+00:00",
+  "collected_at": "2026-11-26T18:07:30.832294+00:00",
+  "summary": "该论文探讨了上下文扩展（Context Scaling）作为AI扩展的新前沿，分析了通过增加模型上下文窗口长度来提升性能的潜力与挑战。核心价值在于系统性地阐述了上下文扩展对长序列理解和复杂任务处理的影响，为LLM的进一步扩展提供了新方向。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-26T18:08:17.185580+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261126-016",
+  "title": "PeerReveal: Learning to Generalize in AI Peer Review Detection",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.33555",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-26T18:07:30.832384+00:00",
+  "collected_at": "2026-11-26T18:07:30.832384+00:00",
+  "summary": "PeerReveal 提出了一种用于检测 AI 生成同行评审文本的方法，旨在提升检测模型在不同领域和生成模型间的泛化能力。该工作通过设计学习策略来应对分布偏移问题，对维护学术评审的诚信与公平具有实际价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-26T18:08:17.185619+00:00"
+}

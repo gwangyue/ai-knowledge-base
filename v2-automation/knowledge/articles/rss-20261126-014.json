@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261126-014",
+  "title": "CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.33497",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-26T18:07:30.832378+00:00",
+  "collected_at": "2026-11-26T18:07:30.832378+00:00",
+  "summary": "CA-RAG 提出了一种约束对齐的检索增强生成方法，旨在解决长文本生成中结构忠实性不足的问题。该方法通过将检索内容与生成约束对齐，提升了长篇幅输出的逻辑一致性和事实准确性，对 RAG 在复杂生成任务中的应用具有参考价值。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-26T18:08:17.185615+00:00"
+}

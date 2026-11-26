@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261126-003",
+  "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.33161",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-26T18:07:30.832335+00:00",
+  "collected_at": "2026-11-26T18:07:30.832335+00:00",
+  "summary": "该论文提出了一种约束感知的测试时评分方法，用于在LLM和VLM的候选生成中筛选符合约束的答案。通过将约束满足度纳入评分机制，该方法提升了候选选择的准确性和可靠性，对需要严格约束的生成任务具有实用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-26T18:08:17.185584+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261126-010",
+  "title": "Confidence scores for gated automation of large language models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.33394",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-26T18:07:30.832366+00:00",
+  "collected_at": "2026-11-26T18:07:30.832366+00:00",
+  "summary": "该论文探讨了为大型语言模型（LLM）的门控自动化（gated automation）设计置信度分数的方法，旨在通过量化模型输出的可靠性来决定是否自动执行或转交人工处理。其核心价值在于提升LLM在自动化流程中的安全性和可控性，为部署高风险的LLM应用提供了一种基于置信度的决策机制。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-26T18:08:17.185605+00:00"
+}

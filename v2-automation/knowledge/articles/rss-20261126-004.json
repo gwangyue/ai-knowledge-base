@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261126-004",
+  "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.33165",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-26T18:07:30.832340+00:00",
+  "collected_at": "2026-11-26T18:07:30.832340+00:00",
+  "summary": "AutoformBench 是一个针对高级数学形式化的轻量级基准测试，旨在自动评估大型语言模型在数学定理形式化方面的能力。该基准通过自动化流程生成和验证形式化任务，为评估 LLM 的数学推理与代码生成能力提供了标准化工具，推动了形式化数学与 AI 的交叉研究。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-26T18:08:17.185586+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261126-018",
+  "title": "Aligned Machine: A Benchmark for Evaluating Multimodal Embedding Similarity via Human Comparative Judgements",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.33594",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-26T18:07:30.832391+00:00",
+  "collected_at": "2026-11-26T18:07:30.832391+00:00",
+  "summary": "该论文提出了Aligned Machine基准，用于通过人类比较判断来评估多模态嵌入相似性。其核心价值在于引入人类主观比较作为对齐标准，弥补了传统自动指标与人类感知之间的差距，为多模态嵌入评估提供了更可靠的基准。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-26T18:08:17.185624+00:00"
+}

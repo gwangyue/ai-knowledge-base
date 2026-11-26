@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261126-006",
+  "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.33263",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-26T18:07:30.832352+00:00",
+  "collected_at": "2026-11-26T18:07:30.832352+00:00",
+  "summary": "该论文提出了一种针对心理健康安全场景的结构化危害评估方法，通过短推理链明确回答“什么危害、涉及谁、何时发生”三个关键问题。该方法提升了LLM在敏感场景下的安全评估可解释性与效率，为心理健康AI应用的安全部署提供了实用工具。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-26T18:08:17.185592+00:00"
+}
