@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261127-002",
+  "title": "AI made self-hosting fun again",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://janlukas.blog/posts/ai-self-hosting",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-27T17:50:29.823687+00:00",
+  "collected_at": "2026-11-27T17:50:29.823687+00:00",
+  "summary": "该内容探讨了如何利用AI技术（如LLM和agent）简化自托管服务的部署与管理，使自托管重新变得有趣。核心价值在于展示了AI在降低运维复杂度、提升自动化水平方面的实际应用，为自托管爱好者提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-27T17:51:12.260440+00:00"
+}
