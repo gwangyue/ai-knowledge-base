@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261128-005",
+  "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-28T16:38:02.672228+00:00",
+  "collected_at": "2026-11-28T16:38:02.672228+00:00",
+  "summary": "该博客介绍了 llama.cpp 在 AMD Ryzen 和 Radeon 硬件上的基准测试仪表板，用于展示和比较不同配置下的推理性能。其价值在于为 AMD 平台上的 LLM 部署提供可量化的性能参考，帮助开发者优化硬件选型与参数配置。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-28T16:38:57.136240+00:00"
+}

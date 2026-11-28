@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261128-008",
+  "title": "Where scientists draw the line on AI agents",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-28T16:38:02.672242+00:00",
+  "collected_at": "2026-11-28T16:38:02.672242+00:00",
+  "summary": "该文章探讨了科学家对AI智能体（AI agents）在科研场景中应用边界的界定，分析了哪些任务适合交由智能体自主执行、哪些环节仍需人类判断与监督。内容有助于研究人员和开发者理解AI智能体的能力边界与风险，为科研场景中的负责任部署提供参考。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-28T16:38:57.136248+00:00"
+}
